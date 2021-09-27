@@ -1,9 +1,12 @@
 == Chapter II
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Philadelphia, 9th month 30th, 1786.
 
+[.salutation]
 Dear wife,
 
 Thine of 8th month 27th I have, affording satisfaction;
@@ -98,12 +101,16 @@ In fullness of affection, I am thy truly loving husband,
 who wishes to return to the enjoyment of domestic satisfaction,
 in the company of thee and thine, who are mine, as soon as permitted.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Philadelphia, 10th month 9th, 1786.
 
+[.salutation]
 My beloved,
 
 I am yet in this great city; here I have been held, scarce knowing for what,
@@ -157,12 +164,16 @@ I feel great risings of affection towards thee, in which I must conclude, and re
 as ever, thy loving husband, and sympathising, unshaken friend,
 wishing thy advancement in the precious, ever-blessed truth,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Bristol, 18 miles from Philadelphia, 10th month 16th, 1786.
 
+[.salutation]
 Dear wife,
 
 I wrote thee twice from Philadelphia, since which I have attended meetings every day,
@@ -184,7 +195,7 @@ I lodged a few nights past at James`'s, and found him a nursing father indeed.
 
 Up and down, my dear heart, is still my way, as heretofore;
 but I bear it rather more quietly; and in my downs,
-I hope for a joyful uplifting by and by; and when up,
+I hope for a joyful uplifting by and by; and when _up,_
 I remember what`'s likely soon to come, and so am kept lowly,
 or in a good degree of evenness.
 No doubt all will work for good.
@@ -195,12 +206,16 @@ Give my kind love to father, etc.
 In endeared affection, I am thy truly loving husband,
 in that which many waters cannot quench.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Philadelphia, 11th month 2nd, 1786.
 
+[.salutation]
 My dearest,
 
 I this day came again to this place, in order to attend the Quarterly Meeting;
@@ -219,7 +234,7 @@ in some respects, more than ever; and am beyond all doubt confirmed,
 that he hath his way in the whirlwind, as well as in the cloud and thick darkness.
 
 "`Ye have heard of the patience of Job, and have seen the end of the Lord.`"
-This language is made very familiar; for indeed, he hath an end,
+This language is made very familiar; for indeed, he hath an _end,_
 and an important end too, in all these provings.
 I now know, that when he shuts none can open.
 I read it, and believed it, and, in good degree, felt and experienced it before;
@@ -248,10 +263,10 @@ My way has been opened, and good ability given, in every meeting since, save one
 
 And now I feel much more like suffering in this city,
 than I did any time whilst here before.
-I then very clearly saw the great deviations; but now I not only see but feel them too.
-I was then commanded not to judge after the sight of the eye,
+I _then_ very clearly _saw_ the great deviations; but _now_ I not only _see_ but _feel_ them too.
+I was _then_ commanded not to judge after the sight of the eye,
 nor reprove after the hearing of the ear; so I felt in good degree quiet and easy:
-but I now feel burdened to the life; and what I may find to do, or whether any thing,
+but I _now_ feel burdened to the life; and what I may find to do, or whether any thing,
 I know not: on the Lord alone, is my reliance.
 May his help be so waited for, as to be witnessed, preserving in the patience and quiet,
 and in silence or otherwise, as his will may be; for I wish to have none of my own.
@@ -303,12 +318,16 @@ A line from them I much desire, and above all, from thee, my beloved;
 do try to favor me in this respect, for I am now, as ever, but now especially,
 thy feelingly affectionate husband,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Kennet, in Pennsylvania, 1st of 12th month, 1786.
 
+[.salutation]
 Dear wife,
 
 About eight days past, I received thy very acceptable letter of the 28th of 10th month,
@@ -323,7 +342,7 @@ and under great tribulation; which has mostly been my case, since Yearly Meeting
 I rejoice in thy patience,
 and have been obliged to exercise much of that necessary disposition myself;
 else I know not that I could have endured.
-If the spoil has, I hope the toil has not, been divided between me and thee;
+If the _spoil_ has, I hope the _toil_ has not, been divided between me and thee;
 for I wish thee happier, than in my absence to share my sorrows,
 unless it might add to thy improvement.
 
@@ -374,7 +393,7 @@ And, my best beloved here below, my second self, may this too, be thy blessed ex
 I often wish to enjoy thee when we meet again,
 as one whose advancement in the divine life, has added a sweetness and endearment,
 surpassing the love of our first espousals.
-Oh! may thy progress in that of getting rid of weakness and infirmity outstrip mine:
+Oh! may thy progress in that of getting rid of weakness and infirmity outstrip _mine:_
 not as having more need, but because I so sensibly feel mine surrounding me,
 in the midst of all my probations,
 that I can but wish to be far outdone by her whose welfare is as interesting to me,
@@ -397,76 +416,55 @@ I once more presume to desire his care extended over you, in such +++[+++a]
 way, as He who I trust cares for you, may open.
 My heart is full on this occasion, but I must close.
 
+[.signed-section-closing]
 Thy heart affected husband,
 
+[.signed-section-signature]
 Job Scott.
 
+[.salutation]
 My dear,
 
 I am now at Birmingham, the 5th of 12th month.
 The day after I wrote the foregoing long letter, was a most glorious day.
 
+[verse]
+____
 Truth reigned triumphant over all.
-
 My soul, set free, rejoiced, and worshipped Him
-
-That ever lives.
-But all`'s shut up again,
-
+That ever lives. But all`'s shut up again,
 And deep distress last night possessed my soul.
-
 Oh! that I might return to thee, dear love,
-
-And leave my woe.
-But woe on woe would then
-
+And leave my woe. But woe on woe would then
 Be mine, should I desert my post and flee.
-
 For this is death by law; and more than death--
-
 `'Tis inward hell; and part too, would, I fear,
-
 Be thine, should I return unlicens`'d home.
-
 I mean, thou`'d have to sympathise in woe,
-
 And be the partner of a wretch forlorn.
-
-What shall I do?
-Distress awaits me here;
-
+What shall I do? Distress awaits me here;
 And horror threatens each attempt to fly.
-
-I must submit.
-No other way I find.
-
-My will must bow.
-My portion I must take,
-
-Altho`' the cup be gall.
-And if I right
-
+I must submit. No other way I find.
+My will must bow. My portion I must take,
+Altho`' the cup be gall. And if I right
 Endure refining fire, I trust I yet
-
-Shall reign, and triumph over all.
-Amen.
-
-Dear heart, farewell.
-May God`'s eternal love,
-
+Shall reign, and triumph over all. Amen.
+Dear heart, farewell. May God`'s eternal love,
 His everlasting presence comfort thee,
-
 And keep thee safely till my safe return.
-
 So prays the soul that loves thee, and is thine,
+____
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To Daniel Anthony, and Others
 
-Birmingham, Penn.
-12th month 4th, 1786.
+[.signed-section-context-open]
+Birmingham, Penn. 12th month 4th, 1786.
 
+[.salutation]
 Dear father and mother,
 
 My love salutes you, with all the children.
@@ -530,12 +528,16 @@ Adieu.
 I rest thy truly loving, (in degree,) if not at this dull time,
 thy feelingly affectionate and ardent son,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Philadelphia, 12th month 12th, 1786.
 
+[.salutation]
 My dear,
 
 I wrote thee lately from the country, I think Birmingham.
@@ -604,12 +606,16 @@ Keep in his counsel; rely on his arm: it is an arm of full sufficiency,
 in which there is no lack.
 I rest affectionately, thy faithful, loving husband,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Joshua Sharpless, Chester county, Pennsylvania
 
+[.signed-section-context-open]
 Westbury, Long Island, 1st month 26th, 1787.
 
+[.salutation]
 My dearly beloved friend, Joshua Sharpless,
 
 I received last evening the sorrowful account of thy great trial,
@@ -663,7 +669,7 @@ Oh! that he may never have cause to mourn over any of your conduct!
 And, O dear Joshua! though I wish thy rejoicing to be ultimately in the Lord alone,
 yet I think thou mayst rejoice in the pledges of his love:
 and if dear Edith`'s dear babes, follow on to walk in her footsteps,
-I think thou mayst in some sense enjoy her in the enjoyment of her lovely offspring.
+I think thou mayst in some sense enjoy _her_ in the enjoyment of her lovely offspring.
 
 I feel a special wish that the two eldest may lead
 the others on in the ways of virtue and sobriety,
@@ -721,12 +727,16 @@ and prepare to follow her.
 Accept, dear Joshua, and all you dear children,
 my sincere love and affectionate sympathy; for I truly am your sympathetic friend,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Joshua Sharpless
 
+[.signed-section-context-open]
 Uxbridge, 14th of 5th month, 1707.
 
+[.salutation]
 My dear friend,
 
 Thine of the 26th of 3rd month I seasonably received,
@@ -735,7 +745,7 @@ but more in thy being so well borne up under thy trials in her removal;
 and what added still more to my joy was the account in regard to the dear children,
 of the good desires "`begotten in most or all of their tender minds,
 to follow that which makes for peace.`"
-May this continue to be the fervent engagement of not only most but all of them;
+May this continue to be the fervent engagement of not only _most_ but _all_ of them;
 not only for a short time, but till they go hence to meet with their dear mother,
 and be seen of men here no more.
 I loved them dearly and travailed for their advancement in the right way.
@@ -799,12 +809,16 @@ Dear Edith, I doubt not, rests forever in Abraham`'s bosom, in the paradise of G
 May we so follow on, as to meet her there, and rejoice with her forevermore, is,
 dear Joshua, the desire of thine and thy dear children`'s real friend,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Joshua Sharpless
 
+[.signed-section-context-open]
 Uxbridge, 25th 7th month, 1788.
 
+[.salutation]
 Dear Joshua,
 
 I seasonably received thy very acceptable letter of 9th month 30th--87,
@@ -840,155 +854,112 @@ I have breathings of spirit to the Helper of the helpless, on their accounts.
 Oh! that they may dedicate their time and talents to the service of the truth.
 I rest, in heartfelt affection, thy sure friend,
 
+[.signed-section-signature]
 Job Scott
 
 [.asterism]
 '''
 
-A Farewell Salutation on leaving Home.
+[verse]
+____
+A Farewell Salutation on Leaving Home.
 
 My dear and much beloved wife,
-
 `'Tis truth`'s great cause at heart;
-
 Which I still prize above my life,
-
 That causes us to part.
 
 No worldly glory, wealth, or joy,
-
 Invites me from thy arms:
-
 Mayst thou protect our infant boy,
-
 And all our babes, from harms.
 
 And may that God, who reigns on high,
-
 And calls me from thy smile,
-
 In every danger, still be nigh,
-
 And sweeten every toil.
 
 Oh! may he hold thee in his hand,
-
 And on him stay thy soul;
-
 While I may toil from land to land,
-
 Or on the ocean roll.
 
 Be he thy husband, portion, peace,
-
 Thy guide, protector, friend;
-
 Thy faith in him, may he increase,
-
 Thy cause may he befriend.
 
 If I thy face should see no more,
-
 (Which yet I think I may,)
-
 That hand that wounds to heal, adore,
-
 Thy will be done, still say.
 
 He knows why he commands me hence,
-
 And let his will be done;
-
 I trust he`'ll be thy sure defense,
-
 And save thee through his son.
 
 His son has died for thy offense,
-
 For mine, he gave his life;
-
 Then let not all the ties of sense,
-
 So bind the man and wife
 
 To one another, that his will,
-
 May not direct their course:
-
 Though love their hearts may ever fill,
-
 Nor time their souls divorce.
 
 The cords of best affection, draw
-
 Their thoughts from clime to clime;
-
 No distance can their love destroy,
-
 No more than length of time.
 
 Yet may they bow to his commands,
-
 Who knit their hearts in love,
-
 And traverse the most distant lands.
-
 If ordered from above.
 
 I love thee more than pearls or gold,
-
 Where`'er I go, my dear,
-
 My heart on thee quits not its hold,
-
 At home, far off, or near.
 
 Yet one I must prefer to all,
-
 And him I must obey;
-
 When he leads on, attend his call,
-
 And stop when he says stay.
 
 Oh! give me up, let him dispose
-
 Of me, and all that`'s mine;
-
 What`'s best for us, he fully knows,
-
 And let his will be thine.
 
 And you my little children dear,
-
 Be good, and love the truth;
-
 Of every sin or fault keep clear,
-
 Now in your early youth.
 
 Your mother`'s voice gladly obey,
-
 To her be ever kind;
-
 Her love, with love again repay,
-
 Her precepts always mind.
 
 And may the Lord, the God of might,
-
 Who calls your father hence,
-
 Direct your course and his aright,
-
 And be our sure defense.
+____
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 New York, 15th of 3rd month, 1789.
 
+[.salutation]
 My best beloved,
 
 My affectionate love salutes thee,
@@ -1022,11 +993,13 @@ canst thou sympathise with me in my views of coming scenes of woe?
 I look forward in full expectation of many a draught of wormwood, mixed with gall;
 but must say, as I have read somewhere,
 
+[verse]
+____
 "`Since God, in mercy, has decreed this cup,
-
 Most willingly therefore, I drink it up.`"
+____
 
-Most willingly indeed: I believe I ought to feel so.
+"`Most willingly`" indeed: I believe I ought to _feel_ so.
 But, Oh! when I look forward at tribulation upon tribulation,
 and backward at those I love, and view the partner of my life, combating varied woes,
 I am ready to say, How can I go on?
@@ -1034,8 +1007,8 @@ I do verily expect to go heavily.
 Many a heartfelt sigh, yea, many a deep fetched groan, will doubtless bear me company.
 But let me not repine.
 I dare not desert my post, lest death should be the consequence.
-And though dark and gloomy is my forward view,
-yet a gleam of light now and then shines sweetly on it; whereas darkness, total darkness,
+And though dark and gloomy is my _forward_ view,
+yet a gleam of light now and then shines sweetly on it; whereas darkness, _total_ darkness,
 covers every backward glance.
 I must go on.
 I`'m made to bow, and that is all I can say.
@@ -1059,7 +1032,7 @@ Cast on him all thy cares.
 He`'ll hear thy sighs; thy wants supply; and in his own due time,
 I trust he`'ll bring us face to face again; and cause our souls to leap for joy.
 Till then farewell.
-My love is warm to all the five dear lambs.
+My love is warm to all the _five_ dear lambs.
 Tell them, be good, till father comes again, and then they`'ll be his joy.
 My love, pray give to him from whom I sprang.
 May heaven preserve him in declining age.
@@ -1068,12 +1041,16 @@ that dear girl I left with thee--thy sister dear,
 and mine.
 And may the rest as one farewell; my love is to them all.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Philadelphia, 25th of 3rd month, 1789.
 
+[.salutation]
 Dear wife,
 
 My tender and endeared love salutes thee this morning in a fresh feeling of that affection,
@@ -1164,7 +1141,7 @@ the general meeting of ministers and elders think he cannot go orderly,
 till the Yearly Meeting points out a way for elders to visit the churches,
 seeing there is no letter of discipline for it.
 And his concern being especially to build up Israel in the line of order,
-Friends think he must go orderly.
+Friends think he must go _orderly._
 He is very submissive, and his concern feelingly weighty.
 
 My heart flows with love to thee, my dear, the dear children, my dear father,
@@ -1184,18 +1161,27 @@ And above all, do let me hear how my beloved Eunice bears up, and gets along.
 My heart is oft in travail for her.
 May holy care defend her.
 May joy divine console her.
-I rest her most affectionate friend and laving husband,
+I rest her most affectionate friend and loving husband,
 
+[.signed-section-signature]
 Job Scott
+
+[.postscript]
+====
 
 P+++.+++ S.--Trials are many, snares many;
 but the enemy has scarce got any advantage in any way that I know of.
 I soon expect another plunging, but wait in patience and submission.
 
+====
+
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Baltimore, 9th of 4th month, 1789.
 
+[.salutation]
 Dearly beloved,
 
 We arrived here last evening.
@@ -1255,20 +1241,20 @@ ascended up on high: where now he intercession makes for man,
 and will sufficient aid supply to every willing mind,
 to combat Satan in the field of fight; and finally, to overthrow him,
 and to reign in undisturbed enjoyment, where his arrows cannot come,
-nor all his presentations aught avail.
+nor all his presentations __aught avail.__
 
 May this, dear love, be thine and mine to know.
 It is the best wish my heart can pour to heaven for thee;
 and may it not be poured in vain.
 And when thou hast interest with the throne of grace, I ask no greater favor,
-dearest dear, than this: remember me.
+dearest dear, than this: __remember me.__
 And for my preservation, please to pour thy soul in such a wish as I for thee have poured.
 Then, when we meet again,
 (if God vouchsafe to us the joy again to meet once
 more,) our souls shall bless that holy power,
 that, far apart, or near, cements together in sincerest bands;
 and makes the rightly yoked in love, in sympathy, and true endearment, truly dear; yea,
-makes them in himself each other`'s joy.
+makes them in himself __each other`'s__ joy.
 Amen.
 
 We see not forward with much clearness, but expect to proceed Southward,
@@ -1307,12 +1293,16 @@ for we cannot open; and flouncing does but plunge deeper in the mire.
 
 I am, with fullness of fervent affection, thy much tried, yet still preserved husband,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Baltimore, 10th of 4th month, 1789.
 
+[.salutation]
 My dearest,
 
 I wrote thee yesterday, from this place, where we arrived the eve before last.
@@ -1335,19 +1325,23 @@ I don`'t fully know his prospects.
 He did not see much more with clearness, than Yearly Meeting when I last saw him.
 
 This is my fourth to thee, dear love.
-Oh that I might get one from thee: if I dared, I should long for it.
+Oh that I might get one _from_ thee: if I dared, I should long for it.
 Don`'t delay it, I beseech thee.
 One or more is ardently expected from father Anthony; let it not be long first.
-Love to you all, though the common, is far from a mere formal conclusion;
+Love to you all, though the _common,_ is far from a mere _formal_ conclusion;
 for the fullness of what I oft have to feel of it, is beyond the ready reach of words;
 so rest thine, etc.,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Alexandria, in Virginia, 25th of 4th month, 1789.
 
+[.salutation]
 Dear wife,
 
 We yesterday set foot in this state, and expect to stay here till second-day morning;
@@ -1376,13 +1370,13 @@ principally Methodists, who have got to be a kind of ranters,
 as to some odd and vehement actions, yet mostly, as far as we find, moral,
 and many of them very tender and reachable.
 Much openness we find among them,
-and much need they have of being guarded against making haste, against imagination,
+and much need they have of being guarded against _making_ haste, against imagination,
 and violent self-activity.
 Perhaps more devotion, such as it is, has scarcely been known, than is among them.
 And, however hurried and mistaken they are,
 I hope the Lord owns the sincerity of many of their souls.
 I cannot find there is much tenderness among their settled teachers.
-I believe they strive hard to prevent their reading Barclay, etc.,
+I believe _they_ strive hard to prevent their reading Barclay, etc.,
 and to kindle and keep up a burning impetuous activity and devotion,
 that shall admit of little or no standing still; yet I hope some will, in time,
 find the sure foundation.
@@ -1403,7 +1397,7 @@ The consequence has been almost the extinction of society.
 Oh! that my children may be brought up to industry.
 Let them work, and read, and write, as much as may be good for them.
 Some Friends`' eyes are opened in this land,
-and a few families bring up their children to business; a very few have,
+and a few families bring up their children to business; a _very few_ have,
 whose children are now grown up.
 Except these, there is little appearance of the Quaker among the youth in these parts.
 O happy New England! that thy sons and daughters have to do for themselves,
@@ -1490,7 +1484,7 @@ The band is increased, the knot is stronger tied.
 May nought prevail to sever, loosen, or untie.
 Be kind to those I left in charge with thee.
 And in return, may Heaven to thee and thine, be kind.
-I lately read in Elwood`'s Sacred History, that Moses, when called to visit his brethren,
+I lately read in [.book-title]#Elwood`'s Sacred History,# that Moses, when called to visit his brethren,
 in their Egyptian afflictions, left his wife and family, with Jethro, his wife`'s father,
 and received them of him, in the wilderness, after they came from the house of bondage.
 Thou canst, perhaps, as well conceive as I express, the feelings of my soul,
@@ -1517,12 +1511,16 @@ where it is in fullness known and lived in.
 In which, with fullness of affection, I remain dear love, thy loving, exercised husband,
 and, dear parents, your dutiful and grateful son,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Virginia, 35 miles below Alexandria, 4th month 30th, 1789.
 
+[.salutation]
 Dear wife,
 
 Trials of various kinds, through life, betide thy deeply proved husband.
@@ -1554,7 +1552,7 @@ and such a part too, that without my being at least given up to go through,
 and finish it, I can have no hope of receiving my penny, at last.
 
 Oh! the bands, the necessity, that some are under, of going whither,
-in their own creaturely choice, they would not.
+in their own creaturely choice, they _would not._
 Well, let me not repine.
 Let me not go on too grudgingly.
 For, adored be the name of him, who thus binds, and brings under this necessity,
@@ -1573,7 +1571,7 @@ insomuch, that I am, at times, ready to cry out aloud under it.
 But then, I remember, that he that loved us, before we loved him,
 has endured for my sake, far more exquisite distress,
 than it is probable I can ever have to bear.
-And I also am often put in mind, that if through and after all this tribulation,
+And I also am often put in mind, that if _through_ and _after_ all this tribulation,
 I can be allowed au humble mansion in the kingdom of true rest,
 I cannot have cause to murmur; but abundant cause to shout aloud,
 and sing redeeming grace forever.
@@ -1624,4 +1622,5 @@ So, for the present, farewell, my dear love, in much endearment and heartfelt af
 farewell.
 From thy lonely mate, though sorely tried husband,
 
+[.signed-section-signature]
 Job Scott
