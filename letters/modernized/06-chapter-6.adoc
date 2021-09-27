@@ -1,9 +1,12 @@
 == Chapter VI
 
+[.letter-heading]
 To Daniel Anthony, etc.
 
+[.signed-section-context-open]
 Liverpool, 3rd of 7th month, 1793.
 
+[.salutation]
 Dear parents, and all,
 
 I am now at this dark, dark, dark place.
@@ -35,7 +38,7 @@ why now so restless for a thing of no existence?
 But since it is real, and has been often enjoyed,
 and often intermitted to increase the joy, let patience, during intermission,
 have its perfect work.
-Not only duty this requires, but present peace,
+Not only duty this requires, but __present peace,__
 and quite intolerable might that fast become, if patience quite should fail,
 which in her blessed society may well be borne.
 
@@ -75,12 +78,16 @@ A word of love express to nearest friends, and all dear babes included,
 (may they love the light, and learn its law,) and bidding all farewell,
 wind up the scroll.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Martha Routh, Manchester, England
 
+[.signed-section-context-open]
 Dublin, 10th of 7th month, 1793.
 
+[.salutation]
 My dear friend,
 
 We are safe arrived, after a voyage of near a week.
@@ -135,14 +142,19 @@ Does not my spirit go with them?
 I think it does.
 But may the Lord go with them, preserve them, and cover their heads in the day of battle.
 
+[.signed-section-closing]
 In the fullness of heartfelt affection, I am your friend,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony, etc.
 
+[.signed-section-context-open]
 Dublin, 30th of 7th month, 1793.
 
+[.salutation]
 Dear father, etc.
 
 I am just returned from about a two weeks`' journey, here in Ireland;
@@ -172,7 +184,7 @@ lest it encourage you to delay writing, which I much desire you may not do,
 for truly suspense in regard to the state and welfare of the nearest friends in life,
 is painful.
 
-I was pleased to hear from so many of them, besides those under the one old roof;
+I was pleased to hear from so many of them, besides those under the _one_ old roof;
 and request that in the next letters,
 (may it not be long first,) I may have a like extensive information;
 for I wish to hear from as many relations and friends, as I well can.
@@ -231,7 +243,7 @@ Some of my own sentiments are confirmed by those of the great Doctor Fothergill,
 and various European physicians now living, who believe if inoculation was quite dropped,
 the small-pox would probably soon cease entirely in these nations.
 Joy to Levi and his Rispah: I hope it is all well, I feel no objection at all to it.
-I hope I don`'t overrate my dear William Rotch, no, I believe I do not.
+I hope I don`'t overrate my dear William Rotch, no, I _believe_ I do not.
 I left him in London with his wife and daughters,
 but I sent him a copy of your salutation and remarks.
 I am pleased you sometimes remember the precious seasons of communication, unity,
@@ -256,29 +268,33 @@ I am limited for time,
 or I might particularly acknowledge dear sister Remember`'s very acceptable letter.
 May she keep the word of patience through all her trials;
 but the only sure way to be kept in patience, is to observe a strict faithfulness.
-I wrote about the beginning of 6th month, and sent Sarah Grubb`'s Journal, etc.
+I wrote about the beginning of 6th month, and sent [.book-title]#Sarah Grubb`'s Journal,# etc.
 Have they arrived?
 If they have, may dear Remember, and all the family,
 improve by the many precious observations therein contained.
 If dear father Scott can see to read, I think he will like to read the Journal.
 
+[verse]
+____
 May he who bore me o`'er the main,
-
 And still preserves my life;
-
 In faith and hope your souls sustain,
-
 Till vict`'ry ends the strife.
+____
 
 In the unfeigned love of the everlasting gospel, I bid you all farewell,
 and am in nature`'s, and the bands of grace, yours, etc.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To George Churchman, Nottingham, America
 
+[.signed-section-context-open]
 Dublin, 31st of 7th month, 1793.
 
+[.salutation]
 Dear friend,
 
 When I first landed here the 9th of this month,
@@ -373,12 +389,14 @@ I seem as if I could do little or nothing for the
 good of our poor (shall I say) decayed Zion:
 though I hope things are rather reviving in some places.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 Extract of a Letter to a Friend
 
-Near Charlemont, 8th mo.
-23rd, 1793.
+[.signed-section-context-open]
+Near Charlemont, 8th mo. 23rd, 1793.
 
 The longer I live, the meaner I think of human activity,
 and the more certain I am it is to be,
@@ -399,10 +417,11 @@ when they grow weary, and find no true rest for the sole of the foot,
 among the many waters on which the harlot sits,
 and hence become concerned to flee to Zion`'s ark for safety.
 
+[.letter-heading]
 Extract of a Letter to a Friend
 
-Near Charlemont, 8th mo.
-24th, 1793.
+[.signed-section-context-open]
+Near Charlemont, 8th mo. 24th, 1793.
 
 If my little experience at all enables me to judge,
 there is never any good obtained by unfaithfulness, delay,
@@ -416,12 +435,16 @@ I think I am not left to guess this, but that I do livingly know it.
 And, Oh! that all whom I love, may escape, shall I say, that bed of hell,
 which unfaithfulness has sometimes plunged my poor soul into.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Richard and Martha Routh, Manchester
 
+[.signed-section-context-open]
 Charlemont, Ireland, 29th of 8th month, 1793.
 
+[.salutation]
 My dear friends Richard and Martha Routh,
 
 I received, in due season,
@@ -491,9 +514,9 @@ But among others, I mostly witness the glorious liberty of the sons of God;
 though my work among them is, pulling down the old buildings, overthrowing altars,
 cutting down groves, and denouncing judgments and downfall to old Babylon and antichrist,
 now sitting in the temple.
-They generally hear with an attention which is almost expressive of assent,
+_They_ generally hear with an attention which is almost expressive of assent,
 while our own members hearken, as to matter very suitable to others,
-but which they have little or no concern in; being, in their own estimation,
+but which _they_ have little or no concern in; being, in their own estimation,
 far advanced beyond so lifeless, and so formal a state!
 Alas! alas!
 I know not where to go to find greater formalists, than many among ourselves.
@@ -503,13 +526,16 @@ But enough of this doleful--and let me look well to myself.
 In more love than I can in words express, dear friends, to you both, I conclude,
 and am your friend,
 
+[.signed-section-signature]
 Job Scott
 
-To William.
-R., Liverpool
+[.letter-heading]
+To William. R., Liverpool
 
+[.signed-section-context-open]
 Grange, near Charlemont, 8th month 31st, 1793.
 
+[.salutation]
 My dear friend,
 
 I have lately written to +++_______+++, as well as once before, some time past,
@@ -557,9 +583,9 @@ and expecting his coming about that time.
 He came little, mean, and low, and seemed to them as a very common and ordinary man,
 as to appearance, parentage, and connections.
 His brethren were with them, and what could be expected from him!
-And I tell you, my dear friend, the very power and principle by which he,
+And I tell you, my dear friend, the very _power_ and _principle_ by which he,
 mean as he seemed, wrought all his mighty works, and overcame all the motions of sin,
-is in you, and all mankind.
+is in _you,_ and all mankind.
 Had he not worked with it, and in it, he had never wrought those works,
 nor bruised the serpent`'s head, nor died unto sin.
 And unless you work with, and in it, your salvation will never be wrought out.
@@ -571,12 +597,12 @@ All the righteousness which pleases God, profits the soul,
 or is the righteousness of faith,
 is in the spring and virtue of this precious word near in the heart.
 This is the word of faith, which the apostles preached, endeavoring to bring people,
-beyond the knowledge of Christ after the flesh, to the revelation of him in them,
+beyond the knowledge of Christ after the flesh, to the revelation of him _in them,_
 the hope of glory;
 and this they labored to effect by turning them from darkness in themselves,
 to the light in themselves,
 as the alone way of turning them effectually from the power of Satan,
-bearing rule in them, to the power of God in them, that that might come to bear rule.
+bearing rule in them, to the power of God in them, that _that_ might come to bear rule.
 And were it not for the light and power of God in man,
 I think he would be likely to remain ever unable to reason rightly about divine things.
 Nothing would be divine in his experience, and religion, if professed,
@@ -593,8 +619,8 @@ will be conformed to all the will of God respecting him; whether he is able,
 as a rational creature, to demonstrate the truth of every proposition in Euclid,
 or unable to comprehend the simplest among them.
 
-God is doubtless one in all things,
-and I say not that his operation is not one in all as to himself;
+God is doubtless _one_ in all things,
+and I say not that his _operation_ is not one in all as to _himself;_
 but whether it be so or not,
 we see his operation produces effects and things in great variety;
 and though he fills all things,
@@ -630,7 +656,7 @@ felt the presence of.
 Indeed, I can scarcely forbear to marvel,
 that such a man should doubt the divinity of what
 he has so long felt livingly striving in him.
-The whole scope of the gospel, is Christ in man.
+The whole scope of the gospel, is __Christ in man.__
 His outward appearance, or his coming in that one body, seems to me evidently designed,
 to lead men to a living discernment of, and faith in the Emmanuel state, God with man,
 and man with God, in the work of salvation.
@@ -662,7 +688,7 @@ It is as possible now, to shut up the kingdom against ourselves,
 as it was when Christ accused the Jews of doing it.
 And I scarcely know a more effectual way of doing it,
 than by putting human reason in place of heavenly light and leaven,
-and relying upon its dictates, undirected by the light.
+and relying upon its dictates, undirected _by_ the _light._
 
 I well know that this has too long maintained the veil over my mind.
 The veil is only done away in Christ, inwardly believed in, the hope of glory.
@@ -694,18 +720,30 @@ I recommend a close and feeling attention, for your precious soul`'s sake,
 to the contents; and with a great deal of pure love to you, and your dear wife,
 I now conclude, and am very sincerely, your friend,
 
+[.signed-section-signature]
 Job Scott
+
+[.postscript]
+====
 
 P+++.+++ S.--And I would very gladly receive a letter from you,
 with as few or as many remarks on the foregoing as you please.
 
-P+++.+++ P. S.--Animal, rational, and divine operations, all depend on God;
+====
+
+[.small-break]
+'''
+
+[.postscript]
+====
+
+_P+++.+++ P. S._--Animal, rational, and divine operations, all depend on God;
 but are three distinct things: the rational and divine,
 as distinct as the animal and rational.
-Is a snail, because he crawls by power from God, rational?
-Not a whit more is reason, that faculty of the human mind,
+Is a snail, because he crawls by power from God, _rational?_
+Not a whit more is _reason,_ that faculty of the human mind,
 which is a constituent part of a complete and sound man,
-and which eminently distinguishes him from a mere animal, Christ in man.
+and which eminently distinguishes him from a mere animal, _Christ in man._
 But the light that enlightens all men, is Christ.
 The things of a man, i. e. rational things, are known by the spirit of a man;
 the things of God only by the help of the spirit of God,
@@ -718,12 +756,18 @@ or susceptibility of uncreated power or influence, than a two-fold only?
 why any more difficulty in the distinction between simply rational, and properly divine,
 than between animal and rational?
 
+====
+
+[.signed-section-signature]
 J+++.+++ S.
 
+[.letter-heading]
 To a Friend
 
+[.signed-section-context-open]
 Near Moat, Ireland, 9th month 27th, 1793.
 
+[.salutation]
 Dear +++_______+++,
 
 Yesterday was to me almost one of the darkest days I ever knew,
@@ -778,12 +822,16 @@ and seems forbidden to seek or take delight in any of the pleasant things of nat
 Well, let me be weaned to any degree that Wisdom dictates, and have no will,
 but that the will divine may be done in all things.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To a Friend
 
+[.signed-section-context-open]
 Moat, 9th month 28th, 1793.
 
+[.salutation]
 Dearly beloved,
 
 I have received several kind messages of love and encouragement from you,
@@ -805,7 +853,7 @@ The dispensation I have been under these two or three last days, has been so tab
 that notwithstanding my honest endeavors to bear all patiently,
 I have been almost ready to open my mouth, and curse my day.
 I strove to think, as at more joyful moments, that life was a blessing,
-and to be thankful that I am; but, perverse as it might be,
+and to be thankful that __I am;__ but, perverse as it might be,
 I could scarcely feel glad that I ever existed,
 or forbear wishing I had given up the ghost at the moment of my birth,
 and been carried at once to the grave.
@@ -825,7 +873,7 @@ Oh! how much better it will be, than to rejoice now, and in conclusion, mourn an
 
 I have almost a continual quarrel with old Babylon, and her several sorts of priests.
 Had one told me, seven years ago, that I should be engaged in such a constant war,
-from place to place, with almost all that men deem sacred,
+from place to place, with almost all that _men_ deem sacred,
 and that I should continue going forth from day to day, with scarcely more,
 and sometimes scarcely so much, as a sling and stone,
 I think I should scarcely have believed it;
@@ -854,12 +902,16 @@ or ever did, desire the increase of gold or silver.
 especially useful in giving notice of meetings, in a proper manner, among the people;
 and more depends on this than many are aware of.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Moses Brown, Providence, Rhode Island
 
+[.signed-section-context-open]
 Dublin, 11th month 7th, 1793.
 
+[.salutation]
 My dear friend,
 
 Your letter of 6th month 9th, though long finding its way, was truly welcome to my heart:
@@ -894,7 +946,7 @@ or but slightly acquainted with conflict and probation.
 I note your own expressions,
 of having to "`live by faith,`" and of sufferings in various respects;
 I wish to catch the hint, and not only live more and more,
-but be willing to live more and more, by faith, through all sufferings.
+but be _willing_ to live more and more, by faith, through all sufferings.
 
 I was glad to hear of your +++_______+++`'s more comfortable state; may sickness and health,
 and blessings, and trials of every kind, be rightly improved, and work the end designed.
@@ -969,12 +1021,16 @@ but am like a prisoner in Dublin, and scarcely know but I must go back to some p
 and when I hear the Shepherd`'s voice I am ready to obey;
 at least I don`'t know but I am.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony, and Family
 
+[.signed-section-context-open]
 Dublin, 7th of 11th month, 1793.
 
+[.salutation]
 Dear father, etc.
 
 I have just finished a letter to dear Moses Brown, if you see that,
@@ -1010,8 +1066,8 @@ even so that it often requires a good deal of submission
 to be rightly thankful for existence;
 which during many painful, anxious moments, scarcely seems a blessing.
 But my heart is often hushed and awed into humble acquiescence with all the divine dispensations;
-and then I see and feel it is not in vain that I am.
-May I ever so abide the turning of the holy hand, as not to live in vain.
+and then I see and feel it is not in vain that __I am.__
+May I ever so abide the turning of the holy hand, as not to _live_ in vain.
 Dear Samuel Emlen is pretty well for him.
 He is in London, visiting Friends`' families, in his usual way of freedom.
 George Dillwyn and wife well.
@@ -1054,8 +1110,10 @@ the Lord reward her, for all her kindness to me and mine.
 In that which changes not, farewell.
 I am yours,
 
+[.signed-section-signature]
 Job Scott
 
+[.salutation]
 Dear sister Remember,
 
 A piece of a letter may pay for a piece, and yours, though a piece, was very acceptable;
@@ -1087,7 +1145,7 @@ But let us trust and hope through all.
 The day always follows the night.
 I never knew it fail; and trust it never will.
 
-8th. I am now clear of Dublin, after two meetings today; one very large this evening;
+_8th._ I am now clear of Dublin, after two meetings today; one very large this evening;
 but I now see nothing else likely to do, but going back towards the south of Ireland;
 whether as far as Cork, I don`'t know; nor whether I may see Dublin again.
 I have got some relief from my late burdens and imprisonment;
@@ -1098,12 +1156,16 @@ I beg you will remember me, and not omit to write.
 Love to all relations and friends.
 I am affectionately yours,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 Last Letter from Ireland
 
+[.signed-section-context-open]
 14th of 11th month, 1793.
 
+[.salutation]
 Dearly beloved parents, (all three,) brothers and sisters, relations and friends,
 
 I am now at Ballitore, twenty-eight Irish miles from Dublin,
@@ -1220,8 +1282,10 @@ whether I shall be able to add further is to me at present unknown;
 and however it may be, in the fullness and almost unlimited flowings of true gospel love,
 I am, and trust shall ever remain, in best affection, your sincere relation and friend,
 
+[.signed-section-signature]
 Job Scott
 
+[.signed-section-context-open]
 15th of the month, half past 2, afternoon.
 
 The disorder is pretty strongly making its progress; I can scarcely get any sleep;
@@ -1295,7 +1359,7 @@ and perhaps ever will, greatly baffle the sagacity of mortals.
 The same perhaps may be said in religion: while the vital and practical parts are,
 to the rightly opened and attentive mind, sufficiently accessible.
 I believe God will, in many other things beside pure spirituals,
-greatly evince that even his foolishness,
+greatly evince that even _his_ foolishness,
 (understand the expression aright,) is infinitely wiser than the wisdom of man;
 going on still confounding the wisdom of the wise and bringing
 to nothing the understanding of the prudent.
@@ -1310,14 +1374,19 @@ though this disposition, in direct opposition to the life and doctrines of Chris
 has gone far towards the destruction of true spiritual religion,
 I believe in almost every religious society in the world.
 Alas! if there is any such thing, as the abomination of desolation,
-it is mournfully seen standing in ours, in almost every part of the countries,
+it is mournfully seen standing in _ours,_ in almost every part of the countries,
 where it ought not.
 
 I think I have rather overdone my strength; you may think me very imprudent,
 but it may ease my own mind; and I am, as before, yours, etc.
 
+[.signed-section-signature]
 J+++.+++ S.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Epistle of Tender Caution Against Stumbling at the Faults of Others
 
 It has been the work of the restless adversary of human happiness,
@@ -1467,7 +1536,7 @@ Now to conclude, let me once more beseech you to hearken to that encouraging inv
 which is sometimes sounded in the secret of your soul, "`Come up here,
 and I will show you the bride, the Lamb`'s wife.`"
 Come up, is here the joyful sound: and even the spirit and the bride say, come:
-and indeed, he that will come, may come: yes, verily, may come:
+and indeed, he that will come, may come: yes, verily, __may come:__
 and if he improves the strength given, all the powers of earth,
 and of the infernal hosts, cannot hinder him.
 For "`there is no enchantment against Jacob,
@@ -1481,4 +1550,7 @@ There you shall walk in the light of the Lord; his candle shall shine upon you,
 and his inspeaking word shall guide you in the way everlasting.
 Walking in which with fullness of peace, I desire to leave you, and rest your friend,
 
+[.signed-section-signature]
 Job Scott
+
+--

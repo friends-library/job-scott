@@ -1,5 +1,6 @@
 == Chapter V
 
+[.letter-heading]
 Extracts from Letters
 
 The will of God is ever best for us; and I am beyond a doubt confirmed,
@@ -21,6 +22,7 @@ Hard though it is for mortals thus to bow; yet once their resignation is fully m
 there`'s more true sweet in bitters thus received,
 than in an unsubjected mind was ever known, in all the sweetness of its sweetest sweets.
 
+[.signed-section-signature]
 Job Scott
 
 Oh! how often I think what a blessing it is to have
@@ -66,6 +68,7 @@ all our pleas notwithstanding:
 we shall receive a reward according to the deeds done in the body;
 not according to some imaginary purgation which some vainly hope will take place afterwards.
 
+[.signed-section-signature]
 Job Scott
 
 I don`'t marvel that the letter-learned teachers of our day, who run unsent,
@@ -93,8 +96,10 @@ as John`'s water baptism.
 This, therefore, is christened with the name of Christ`'s ordinance,
 and passes current as such among the people.
 
+[.signed-section-signature]
 Job Scott
 
+[.signed-section-context-open]
 5th of 10th month, 1792.
 
 Things are so superficial among us, that some few of us, who perhaps get a trifle deeper,
@@ -116,10 +121,10 @@ I often fear greatly for myself when I think of others;
 and especially when I have to use the scourge of small cords.
 But it will not do to look back, or let go our hold, or give up the cause and testimony.
 
-Oh! let death come over all that would live and act in independency.
-Christ must reign till all rule but divine is put down; and the sooner, the better;
-for we shall never know a principality or power in us, made subject to him,
-but through death.
+Oh! let death come over all that would live and act in _independency._
+Christ must reign till _all_ rule but divine is put down; and the sooner, the better;
+for we shall never know a principality or power in us, made subject to _him,_
+but through _death._
 Burial with him by baptism into death, therefore, is a blessed experience.
 It is the prayer of my soul that I may know it thoroughly.
 
@@ -132,8 +137,10 @@ Delight to see each other prosper, and grow in the truth, and do all you can,
 to promote it, and to keep each other`'s way open among the people.
 United, you may stand firm, and be each other`'s joy in the Lord.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 Extracts From Letters to Remember Anthony, Just Before Setting Out on the Voyage to Europe
 
 There are very few things that I seem to be allowed to take much satisfaction in,
@@ -141,9 +148,9 @@ in this world.
 I now and then partake of a cup of consolation in divine things that is truly inexpressible;
 but this it is not my lot to enjoy, but through deep probation.
 Among the few things, short of celestial, which afford solid satisfaction,
-that of true and affectionate, cementing friendship, stands foremost.
+that of true and affectionate, cementing _friendship,_ stands foremost.
 There is something in it, when truth is its foundation, that indeed forbids us to say,
-it is not heavenly; at least, there is something of divinity in it.
+it is not _heavenly;_ at least, there is something of divinity in it.
 It is often counterfeited; and something very unlike it assumes its name,
 and passes for genuine.
 But a counterfeit ever implies, that there is somewhere a reality.
@@ -154,8 +161,8 @@ So much the more valuable, where they do grow.
 The few I have the happiness to be sure of, are chosen and tried.
 I believe they would be willing to suffer much with me, and for me, if needful;
 and I think I could with them.
-There is a precious fellowship in sufferings; and those who know it present,
-feel nearly for each other, absent.
+There is a precious fellowship in sufferings; and those who know it _present,_
+feel nearly for each other, _absent._
 
 I trust, if I cross the briny ocean, you, dear heart, and a few more that I know by name,
 and by inward acquaintance, will have in my breast,
@@ -193,7 +200,11 @@ And whether on Columbia`'s shores, old ocean, or on Albion`'s isle,
 or wherever winds or waves may waft me, I trust I shall,
 with endearment and sincerest affection, remember you.
 
+[.signed-section-signature]
 Job Scott
+
+[.postscript]
+====
 
 P+++.+++ S.--The foregoing I leave with you, for your satisfaction, if any it may afford you.
 Our constitution is such,
@@ -210,10 +221,10 @@ There is something sweet in them all.
 But whatever be the relation, or whether there be any outwardly or not,
 there is a cordial, a relish, an inexpressible endearment felt,
 where hearts are rightly united in friendship,
-that I believe really vicious persons scarcely ever feel, or have a clear idea of.
+that I believe really vicious persons scarcely ever _feel,_ or have a clear idea of.
 And this is not diminished.
 No, dear soul.
-I feel you, I shall feel you in this endearing relationship.
+I _feel_ you, I _shall_ feel you in this endearing relationship.
 I go: for truth forbids my stay.
 But wherever I go,
 I trust I shall not forget I have a little sister that has felt with my afflictions;
@@ -239,9 +250,16 @@ And when I am gone forever, though the tear be wiped from your eye,
 live in your heart the never dying friendship; and let the evidence of its immortality,
 flow down upon his tender and bereaved offspring.
 
+====
+
+[.signed-section-signature]
 Job Scott
 
-I rejoice with joy unspeakable, and, in the depth of gratitude, I bless my God,
+[.postscript]
+====
+
+_P+++.+++ P. S._--I rejoice with joy unspeakable, and, in the depth of gratitude,
+I bless my God,
 that this day, while I was steadfastly endeavoring to stand faithful,
 and keep my foot on all that would divert from his counsel, he has, in a way unexpected,
 given me the victory, and bruised Satan under me.
@@ -250,7 +268,7 @@ Almost every way that could be conceived, has my path been straitened.
 On the right hand and left, the lion has roared.
 My friends have felt little of my anxiety.
 Joseph`'s brethren saw the bitterness of his soul, and had no compassion;
-mine have seemed to have very little sight or sense of my deep probations.
+_mine_ have seemed to have very little sight or sense of my deep probations.
 Perhaps my God left them to insensibility for my trial and improvement.
 May they be gathered into that, wherein nothing will be laid to their charge.
 May the blessings of Heaven be showered upon them, as they draw near, and wait for them.
@@ -261,12 +279,18 @@ though the waves should close upon me forever,
 I pray the God and Father of our Lord Jesus Christ, to be with, comfort,
 and preserve them.
 
+====
+
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony, and Family
 
+[.signed-section-context-open]
 Boston, 28th of 11th month, 1792.
 
+[.salutation]
 Dear parents, sisters etc.,
 
 I am well and cheerful, at Boston;
@@ -283,7 +307,7 @@ especially all who have really some good things found in them?
 is the language at heart feelingly and sincerely of everyone that
 is Christ`'s. It is comfort to him who feels the disposition;
 and it gives him the best of all victories, over his enemies.
-"`Amor omnia vincit.`"
+__"`Amor omnia vincit.`"__
 "`Love conquers all things.`"
 It is the mark of discipleship; the saint`'s cement among themselves;
 and their conquest over the very spirit of oppression.
@@ -294,12 +318,16 @@ for nature is revolting back to its old bias and feelings.
 I very sincerely wish you the enjoyment of Heaven`'s best and richest blessings,
 and commending you all to God, with fullness of unabated affection, remain yours, etc.,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony, and Family
 
+[.signed-section-context-open]
 Boston, 4th of 12th month, 1792.
 
+[.salutation]
 Dear father, etc.,
 
 Yesterday I returned from Lynn, where I went on sixth-day last.
@@ -308,7 +336,7 @@ though I feel like "`a worm and no man.`"
 My mouth was not opened in their large meeting at Lynn.
 I don`'t find that my will ordered it, but believe it was ordered well.
 Mark and captain Glover say, the ship will sail tomorrow, wind and weather favoring.
-Its name is the Mercury.
+Its name is the _Mercury._
 I have no doubt of comfortable accommodations on the passage.
 No great things are needful for me.
 Give my love to father Scott, and tell him I have thought much of him, since I left home,
@@ -340,10 +368,10 @@ Let then our eye be to him, who turns hearts "`as streams in the south.`"
 Let us not be too much pleased with the smile of mortals,
 nor let their sourest frowns depress, or in any degree perplex or vex us.
 Let us not think them much the better for favoring, nor much the worse for opposing us.
-God teaches us, if we are docile, in all these things, to see him,
+God teaches us, if we are docile, in all these things, to see _him,_
 the only ground and source of stability, goodness, and consolation,
 and to despair of it from every other quarter.
-Here he becomes our "`all in all.`"
+Here _he_ becomes our "`all in all.`"
 Here, we become "`complete in him.`"
 Here we repose secure, above the fear of contingencies,
 (except as influenced by our own deviations,) and rest satisfied in ourselves,
@@ -375,14 +403,14 @@ Oh! the passage at Jordan!
 Oh! the probation, at the river of judgment!
 God only knows the provings and perils of his people.
 They are judged of very superficially by thousands, who assume the seat of judgment;
-who think they know; and who even can with the left hand,
+who think they know; and who even can with the _left_ hand,
 fling stones to a hair`'s breadth, and not miss.
 And yet, alas! they know not how he proves his at Massah,
 nor after what sort he strives with them at the waters of Meribah.
-What you know of these things, my dear relatives, under that roof,
+What _you_ know of these things, my dear relatives, under that roof,
 in your own experience and provings, know for yourselves; and God also knowing them,
 be therewith content.
-He sees every falling tear; and every sigh his holy ear will hear;
+_He_ sees every falling tear; and every sigh his holy ear will hear;
 and our safety in tribulation may be much greater, in hidden obscurity,
 veiled from the penetration of mortals, than in exposure to their notice and caressings.
 
@@ -391,16 +419,25 @@ and in near and affectionate remembrance, I here may close,
 wishing you the blessings of Heaven, and a hearty and fervent farewell.
 Yours, etc.
 
+[.signed-section-signature]
 Job Scott
+
+[.postscript]
+====
 
 P+++.+++ S.--My love to Friends.
 I expect to sail in a day or two.
 The Lord on high is mightier than the sound of many waters.
 
+====
+
+[.letter-heading]
 To Remember Anthony, Providence
 
+[.signed-section-context-open]
 Boston, 12th month 4th, 1792.
 
+[.salutation]
 Beloved sister,
 
 Though I feel you included in the address of my heart this day to our dear parents,
@@ -442,11 +479,11 @@ and the blessing of Heaven be on you for your kindness to him.
 Teach the children to love and respect him.
 Teach them civility to all persons, and tenderness to all creatures.
 
-I enclose a little piece called The Birds`' Nest, in substance,
-from a book entitled The Children`'s Friend.
+I enclose a little piece called [.book-title]#The Birds`' Nest,# in substance,
+from a book entitled [.book-title]#The Children`'s Friend.#
 If you think it will inspire compassion into their hearts, let them hear it,
 or have a copy of it.
-The verses On a Child in the Cradle, I took from the same book.
+The verses [.book-title]#On a Child in the Cradle,# I took from the same book.
 My simplicity may excite a smile, but truly my heart was touched in reading them;
 so I copied them for you.
 They may be better for the children to learn, than some that children do learn.
@@ -461,12 +498,16 @@ Dwell deep in the holy root, and therein you will,
 as is your brother`'s ardent wish for you, dear sister, fare well.
 Your affectionate brother and friend in the travail of the gospel,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony and Family, Providence
 
+[.signed-section-context-open]
 Dunkirk, 7th of 1st month, 1793.
 
+[.salutation]
 Dear father, mother, etc.
 
 Having, through the kind providence of a gracious God, arrived safe here,
@@ -535,7 +576,7 @@ Let him do just what he will with me, in time and in eternity.
 Nothing else beside his holy will can ever be good for me;
 and why should I wish even the most disagreeable parts of it averted, mitigated,
 or shortened.
-I thought I had had his holy promise who cannot lie,
+I thought I had had _his_ holy promise who cannot lie,
 that I should live through these dreadful tossings on the bosom of the ocean,
 and once more set my foot on firm ground, yes, bless his holy name,
 in wonders yet to come on shore.
@@ -548,13 +589,13 @@ and assurance that attended the promise of safety through all;
 and though it was now the divine will that the evidence
 of divine things should be low in my mind,
 yet I could not cast away my confidence.
-Indeed, low as the evidence was now as to Deity itself,
+Indeed, low as the evidence was _now_ as to Deity itself,
 I yet seemed almost or quite certain, that if the Lord lives,
-and if I had ever known his holy word at all, I surely had had it, and might rely on it,
+and _if_ I had ever known his holy word at all, I surely had had it, and might rely on it,
 in this instance.
 Here my foot fixed; and my all I surrendered up to his disposal,
 not once wishing myself on shore, nor in another vessel:
-for I never had even hoped to escape this tempest, for good part of a year before.
+for I never had even _hoped_ to escape this tempest, for good part of a year before.
 
 Fourth-day, 12th, about noon we got under sail again,
 though still the roar of elements with awfulness remained.
@@ -592,7 +633,7 @@ I had some deep provings, wherein all former experience failed to prevent great 
 Oh! thought I, at a few broken seasons, if I ever again set foot on Columbia`'s shore,
 and those I left beneath my humble shed are living,
 we surely shall mingle tears in remembrance and relation of our adventures,
-during absence; at least what my eyes have seen, and heart has felt,
+during absence; at least what _my_ eyes have seen, and heart has felt,
 will never be forgotten.
 I don`'t see which way I may go from here yet; perhaps none for some days,
 or till my head is a little settled.
@@ -600,7 +641,7 @@ My love is not on the decline to any of you.
 Please communicate it as from my heart to my own dear father, all my dear children,
 brothers and sisters, relations and friends.
 
-12th. It is just a week since I got to Dunkirk, and here I am yet, well in health,
+_12th._ It is just a week since I got to Dunkirk, and here I am yet, well in health,
 my head well settled,
 though my mind has been sunk even into the contemplation
 of almost immediate return to your land;
@@ -616,14 +657,23 @@ if I had got away according to my own prospects, opened, I still trust,
 in the light of Israel, my way might have opened early into Ireland.
 But I resign all, and am, in fullness of love, yours, etc.
 
+[.signed-section-signature]
 Job Scott
+
+[.postscript]
+====
 
 P+++.+++ S.--Do write me as soon as well may be.
 
+====
+
+[.letter-heading]
 To Remember Anthony
 
+[.signed-section-context-open]
 Dunkirk, 7th of 1st month, 1793.
 
+[.salutation]
 Dear sister,
 
 I feel nearly excused from writing you at this time,
@@ -677,12 +727,16 @@ Live all in love.
 I must now close; and I do it in fullness of sincerest brotherly affection,
 resting your still often and deeply exercised friend and brother,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Moses Brown, Providence
 
+[.signed-section-context-open]
 Dunkirk, 1st month 7th, 1793.
 
+[.salutation]
 Dear Friend,
 
 I arrived here in good health, except the effects of motion at sea,
@@ -724,12 +778,16 @@ The visitations of his Holy Spirit to my dear little children,
 and their early subjection thereto,
 weighs inexpressibly more with me than all earthly acquisitions.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Remember Anthony, Providence.
 
+[.signed-section-context-open]
 First-day evening, 1st month 13th, 1793.
 
+[.salutation]
 Dear sister,
 
 I am yet at Dunkirk, well, and well relieved.
@@ -755,12 +813,16 @@ and grown strong in the name of the Lord.
 Farewell, farewell, says your affectionate, and at the same time, consolidated,
 though often stripped and deeply tried, brother,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony and Family, Providence
 
+[.signed-section-context-open]
 London, 28th of 1st month, 1793.
 
+[.salutation]
 Dear father, mother, etc.,
 
 A vessel being to sail tomorrow for New York, I am not easy to omit writing,
@@ -853,12 +915,16 @@ May nothing discourage her progress.
 
 In the spiritual and natural relationship, I am still affectionately yours, etc.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony, and Family
 
+[.signed-section-context-open]
 London, 5th of 2nd month, 1793.
 
+[.salutation]
 Dear father, etc.
 
 I have been at London since sixth-day before last; have had a hard cold and cough,
@@ -936,12 +1002,16 @@ I feel more and more for him; may his dwelling be in the holy life of truth.
 In more than natural affection, I remain steadfastly yours.
 Farewell.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony, and Family
 
+[.signed-section-context-open]
 London, 23rd of 2nd month, 1793.
 
+[.salutation]
 Dear father, etc. etc.
 
 I wrote from Dunkirk, and twice from this great city, before now.
@@ -1009,10 +1079,13 @@ Amidst all my pangs and strippings, I now and then feel, and feel beyond all dou
 that it is in true wisdom I am driven, or drawn, from dear New England.
 In a great deal of love, I am yours, etc.,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Remember Anthony, Providence
 
+[.signed-section-context-open]
 London, 2nd month 35th, 1793.
 
 I am painfully journeying; my health is but low, and my spirits, perhaps,
@@ -1063,14 +1136,19 @@ I think my frail house is decaying, my nerves weakening,
 and my lungs more and more clogging and failing.
 But if favored with the divine presence, all will be well.
 
+[.signed-section-closing]
 I am your fervently affectionate brother,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony, and Others
 
+[.signed-section-context-open]
 London, 23rd of 3rd month, 1793.
 
+[.salutation]
 Dear father, mother, etc.,
 
 This is my 5th letter, including one from Dunkirk.
@@ -1151,12 +1229,16 @@ and in this fullness of unfeigned and unstrained affection, I am, as I have been
 sincerely yours, in the several relationships of brother, son, and friend,
 and ever-feelingly in regard to my own half dozen, their affectionate father,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Moses Brown, Providence
 
+[.signed-section-context-open]
 London, 3rd month 23rd, 1793.
 
+[.salutation]
 Dear friend,
 
 I wrote you from Dunkirk, and whether since, I don`'t remember;
@@ -1211,7 +1293,7 @@ as that no obstruction may remain to a perfect coalition, and cementing,
 living fellowship and union among all the members of our Israel.
 There is no other rock or foundation on which this
 divine fellowship can be abidingly established,
-but the life, and where that is abode in,
+but the _life,_ and where that is abode in,
 many little differences in sentiment and appearance are swallowed up by love.
 Oh! how true love, when it prevails in and melts the heart, covers a multitude of faults,
 or things which may appear as faults, when love is waxed cold.
@@ -1227,12 +1309,16 @@ in living nearness to himself,
 and above the harmful influence of this world and all its wealth, cares, snares,
 and amusements, is the sincere desire of your sincerely affectionate friend,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Daniel Anthony, and Family
 
+[.signed-section-context-open]
 London, 1st of 6th month, 1793.
 
+[.salutation]
 Dear father, mother, etc.,
 
 Not a line have I received from any of my friends in dear New England since I left it,
@@ -1329,13 +1415,17 @@ Oh! that dear New England might witness so great a favor.
 In the aboundings of true christian, filial, and brotherly affection,
 I bid you all a fervent farewell, and rest yours, etc.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Remember Anthony, Providence
 
+[.signed-section-context-open]
 At John Elliott`'s, London, 6th mo.
 2nd, 1793.
 
+[.salutation]
 Dear sister,
 
 I write to you not only as feeling nearly with you in your exercises and tossings,
@@ -1397,12 +1487,16 @@ A few particulars more I might mention, but the time allows not of it.
 So farewell now and forever.
 As before, so now, I remain your truly affectionate brother,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Moses Brown
 
+[.signed-section-context-open]
 London, 6th month 3rd, 1793.
 
+[.salutation]
 Dear friend,
 
 I am now expecting soon to go for Ireland.
@@ -1462,10 +1556,13 @@ May we more and more press after it.
 My love continues to you, your wife, and all your family; in which I draw to an end,
 and am your steadfast friend,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 Extract of a Letter to a Friend
 
+[.signed-section-context-open]
 Liverpool, 26th of 6th month, 1793.
 
 I fear too many overrate their own, and a few others`' services,
@@ -1495,7 +1592,7 @@ I often admire that I am employed at all; and daily find more than a small unfit
 yes, something that would both stand and go alone.
 Indeed I do not expect to get perfectly and perseveringly rid of it,
 very far on this side the grave.
-I truly hate it, and if I was able, should lay at it with the sword,
+I truly _hate_ it, and if I was able, should lay at it with the sword,
 and serve it as David did Goliath, cut off its head, and kill it utterly.
 But if I pretend to slay it myself, I thereby add to its life and strength;
 and so find I must wait patiently for the sword of the Lord,
@@ -1511,7 +1608,7 @@ When others are best pleased, I sometimes feel most inward abhorrence to think t
 hidden from all men, and beyond the vulture`'s ken, lies lurking still,
 a part of self unslain, or if once slain, again alive.
 I am afflicted at my very heart on account of, and often constrained to testify against,
-self activity in religion;
+__self activity__ in religion;
 and yet feel daily a deficiency in myself of being what I would have others be; that is,
 all they are "`by the grace of God.`"
 I know it is sufficient for them and me;
@@ -1519,10 +1616,13 @@ but my progress is slow indeed in the necessary reduction it is leading to.
 Perhaps it is best so.
 A gradual attainment may be better borne than a rapid one.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 Extract of a Letter to a Friend
 
+[.signed-section-context-open]
 Liverpool, 26th of 6th month, 1793.
 
 Let us be willing, not only to be thought to be, but to be known to be fallible.
@@ -1532,14 +1632,14 @@ as any lesson of self-denial; and I believe few ever attained to it,
 without many humblings, not only within themselves, but in the sight of others: and,
 even after the wound has been a deadly one for a season,
 I believe it has too often been the case,
-that that which has thus received "`a wound by the sword,`" has again lived.
+that _that_ which has thus received "`a wound by the sword,`" has again lived.
 Oh! we need a great deal of mortification and hewing,
 to fit us for any place of abiding use in the building.
-I can see clearly that Christ must reign in us, till he puts down all enemies, yes,
-all rule and authority but his own,
+I can see clearly that Christ must reign in us, till he puts down _all_ enemies, yes,
+all rule and authority but his _own,_
 bringing every principality and power into entire subjection to him,
 before he can render up the kingdom to the Father, and God become all in all.
-But it is one thing to see it, and another to experience it done.
+But it is one thing to _see_ it, and another to experience it _done._
 I am glad to see it, and am aiming to be so much nothing in myself, and all that I am,
 by divine influence, as to experience it effectually done in me, and for me.
 
@@ -1572,4 +1672,5 @@ instead of abiding with him, or outrunning him, go "`back and walk no more with 
 But let us stick by him, and follow him through all:
 he still has the "`words of eternal life.`"
 
+[.signed-section-signature]
 Job Scott
