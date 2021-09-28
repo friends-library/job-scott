@@ -1,9 +1,12 @@
 == Chapter III
 
+[.letter-heading]
 To his Wife
 
-Wayne Oak, 13th of 5th month, 1709.
+[.signed-section-context-open]
+Wayne Oak, 13th of 5th month, 1789.
 
+[.salutation]
 Dear wife,
 
 I am now in a very shut up condition; was last first-day at meeting here.
@@ -53,7 +56,7 @@ it is his will I go south again, he can make darkness light before me.
 Be it therefore as he will, and not as I will.
 I stand much given up.
 I find that each degree of my own will is an enemy to peace:
-therefore I wish my own slain, as often as it strives to rise.
+therefore I wish my _own_ slain, as often as it strives to rise.
 I have been led much in a constant death to it, in many respects,
 more so than ever before: and I find it must be so, or I plunged in perplexity.
 
@@ -80,7 +83,7 @@ is my heart`'s desire to him on your account.
 I have not yet received any other letter,
 though Moses mentioned our dear father`'s having written one for me.
 
-19th. I am much better, almost well; good appetite,
+_19th._ I am much better, almost well; good appetite,
 and much better digestion than for several weeks past.
 But what is better than all that,
 I am admitted again to have free access to the tree of life,
@@ -91,7 +94,7 @@ so that now I can encourage you, dear love, in a degree of living sensibility,
 to "`trust in the Lord forever,`" for it is a certain sealed truth,
 that "`in the Lord Jehovah is everlasting strength.`"
 Trust in him--Oh! trust in him in every trial.
-To whom else can we go?
+To whom else _can we go?_
 He, and he only, has the words of eternal life.
 Choose him for your joy, your portion, and your peace.
 Then shall we, as we both so choose, whether absent or present,
@@ -126,7 +129,7 @@ which most immediately claims your unremitted attention.
 Oh! love him, and take all due care of him, for his poor father`'s sake,
 as well as his own.
 
-20th. I am now given up to endeavor to have various
+_20th._ I am now given up to endeavor to have various
 meetings elsewhere than in Friends`' meeting places.
 Perhaps I must spend near a week without getting much, if any further southward, taking,
 if way is made for it, about five or six such meetings, and one or two, in the way,
@@ -151,17 +154,21 @@ that so the remainder of his days may be comfortable and happy.
 My love to all my relations, friends, and neighbors: and let love abound in the family,
 and in the neighborhood.
 This is the seventh letter I have written you, since last I saw your face, my dear.
-Oh! that I could receive one with your signature.
+Oh! that I could __receive one with your signature.__
 It is what I much desire.
 But if I may, or may not enjoy that happiness, I remain, with ardency of affection,
 your deeply exercised, loving husband, and the affectionate father of all your children,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Remember Anthony, Providence
 
+[.signed-section-context-open]
 Wayne Oak, Va. 5th month 18th, 1789.
 
+[.salutation]
 Dear sister,
 
 I have often had you fresh in my remembrance, since last I saw you,
@@ -220,7 +227,7 @@ Therefore he is worthy of being not only praised, but, what is often more diffic
 and a greater test of true love on our part, faithfully obeyed,
 in everything he may require of us.
 Indeed it seems at some weak moments, (when I look outward,
-though inward enough at the same time to see and feel my own great weakness,)
+though inward enough at the same time to see and _feel_ my own great weakness,)
 as if I could scarcely live through all that he lays upon me,
 and requires of me.
 Yet I find as I give up without reserve and in absolute dependance on his aid,
@@ -229,7 +236,7 @@ and perhaps there is nothing more difficult to come, than what has already come.
 How then can I doubt?
 How can I disbelieve?
 Indeed, I cannot as my eye is single,
-for then I see there is nothing impossible with him,
+for then I see there is nothing _impossible_ with him,
 who has marvellously shown himself to be, and to have been on my side,
 and never to have failed me, when I have not failed to have my bow abide in his strength.
 Indeed when I have vilely cast away the shield of the mighty,
@@ -241,9 +248,9 @@ Let us then carefully attend to it, and see that we neglect not so great salvati
 I do not glory in my experience.
 To me belongs blushing and confusion of face.
 But I glory in the power of the cross of Christ, and in the help afforded through him;
-and my soul can declare that he lives forevermore.
+and my soul can declare that he __lives forevermore.__
 Death has no more dominion over him, nor over those whose crucifixion, death,
-and burial with him have been complete, who have resisted unto blood,
+and burial with him have been complete, who have resisted unto _blood,_
 striving against sin, and in this resistance, have fully offered up all, body, soul,
 and spirit, a living sacrifice made by fire, a burnt offering to the Lord.
 Oh! my sister, here is trying work.
@@ -251,9 +258,9 @@ Let this cup pass from me, is a very natural request;
 but if it is not possible for this cup to pass from us, except we drink it,
 Oh! that we may truly say "`Your will be done.`"
 And I assure you it is not possible for it to pass from us any other way,
-than by our drinking it, or what is awfully more against us, our remaining, at least,
-in degree, unvictorious and in captivity; for to this hour we must come,
-and this hour with all its agonies we must endure; yes, all the wormwood,
+than by our __drinking it,__ or what is awfully more against us, our remaining, at least,
+in degree, unvictorious and in captivity; for __to this__ hour we must come,
+and __this hour__ with all its agonies we must endure; yes, all the wormwood,
 and all the gall, or we shall not be able to say, "`it is finished.`"
 Without blood even under the law there was no remission.
 It remains the same, and though Jesus has once passed through it all,
@@ -267,7 +274,7 @@ but as to actual sanctification,
 it is they only who suffer with him that can reign with him.
 And if we are planted with him, in the likeness of his death, we shall arise with him,
 in the likeness of his resurrection.
-Be it therefore, dear child, your willing experience to die daily with him,
+Be it therefore, dear child, your willing experience to __die daily__ with him,
 who has set us an example that we should follow his steps.
 
 If any part of your unworthy brother`'s experience can afford you
@@ -290,16 +297,25 @@ However, if they ever do obtain your attention,
 know that they come accompanied with pure good will and cordial affection,
 warm from the heart of your often deeply tribulated brother,
 
+[.signed-section-signature]
 Job Scott
+
+[.postscript]
+====
 
 P+++.+++ S.--If you still live, and are able to indite, and have anything of your exercises,
 health, or otherwise, which you wish to communicate, I would have you attend to it;
 if not, I wish not to put you upon it.
 
+====
+
+[.letter-heading]
 To Moses Brown, Providence
 
+[.signed-section-context-open]
 Wayne Oak, Va. 5th month 18th, 1789.
 
+[.salutation]
 Dear friend,
 
 Your very acceptable letter, of 13th of 4th month, I received the 9th of this,
@@ -312,7 +328,7 @@ and from my friends, as well as how eagerly I fed, indeed still feed,
 upon the contents of your kind information, especially my family`'s health,
 but most especially the pleasantness you saw in my dear bosom companion.
 May the Lord still bear up and comfort her.
-May her days and months indeed roll on pleasantly, till I return to her,
+May her days and months indeed roll on _pleasantly,_ till I return to her,
 and the dear little ones, which for the precious cause`' sake, I left in her bosom,
 is the desire of my soul for her;
 and may her and my friends not be unduly unmindful of them.
@@ -388,15 +404,24 @@ But even in this, if I keep as low as the seed, I find peace.
 In true love and affectionate good will to you, my dear friend, and all yours,
 I conclude and am your exercised friend,
 
+[.signed-section-signature]
 Job Scott
+
+[.postscript]
+====
 
 P+++.+++ S.--J. L. wishes his love mentioned to you, your wife and children;
 and by you to Patience Brayton when convenient.
 
+====
+
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 First-day morning, 31st of 5th month, 1789.
 
+[.salutation]
 My dearly beloved wife,
 
 I am now at Gravelly Run, over James`' river, Virginia;
@@ -424,8 +449,8 @@ that if unexpectedly the meeting should prove a time of favor, I should be ready
 "`Surely the Lord is in this place, and I knew it not.`"
 But when the time came, it was indeed as good of a time, as almost any I have ever known.
 Waters broke forth in the desert, and out of the parched ground flowed springs of water.
-Oh! that I may ever trust in him, who knows when and how long to empty,
-and why he does so: seeing, after he has emptied,
+Oh! that I may ever trust in him, who knows _when_ and __how long__ to empty,
+and _why_ he does so: seeing, after he has emptied,
 he finds an acceptable time to pour his water into his poor empty buckets,
 and thus to cause his tried and thirsty seed to be in many waters.
 
@@ -443,10 +468,10 @@ I did not much expect to get any very soon, if at all;
 and this added not a little to my trial: but when the letters came,
 my bosom beat for joy, though they were of so old a date.
 
-Yours, indeed, was short, but sweeter to my taste than honey, or the honey-comb.
+Yours, indeed, was short, but sweeter to _my_ taste than honey, or the honey-comb.
 O my dearest! never give way to think you can not write; for, verily I say unto you,
-you can.
-And if you could feel the satisfaction I felt, and still feel in your few lines,
+__you can.__
+And if you could _feel_ the satisfaction I felt, and still feel in your few lines,
 you would not be backward to let me know your heart,
 if it were but in a few broken sentences, flowing from that sacred repository of mine,
 where are centred, (as to things short of heavenly,) most of my joys.
@@ -455,14 +480,14 @@ I have written you seven before this; this is the eighth.
 I grudge not the time, nor the pains; though pains herein I have none.
 My pen moves with pleasure whenever it is moved towards you.
 I have several times of late, had the satisfaction of your presence in sleep.
-I scruple not to call it a satisfaction; for so it was to me.
+I scruple not to call it a _satisfaction;_ for so it was to me.
 But enough.
 
 My way has been much hidden; clouds have intervened;
 that I have thought much of returning, even since my last;
 but could never feel the bands taken off.
 I expect I must crawl on through the other southern states, perhaps mostly,
-almost without might.
+almost __without might.__
 But the divine will be done.
 I have received too much kindness from him whose I am, and wish ever to be,
 for me now to be willing to turn my back on his service,
@@ -477,7 +502,7 @@ nor slumbers even by night.
 On him, dear heart, rely;--he will succour you and yours, if trust is in him,
 as it ought to be, reposed.
 No doubt herein overshades my mind.
-To him, in confidence deep-anchored, I resign my all, and therefore you,
+To him, in confidence deep-anchored, I resign __my all,__ and therefore _you,_
 as most beloved of all that`'s truly mine,--and with
 you those dear pledges of his love and ours;
 as, next to you, a place they surely claim, and in my heart a place they surely have.
@@ -496,12 +521,16 @@ My dear love is to them all three; all the children, theirs and mine; all my rel
 friends, and neighbors; and most of all, dear heart, to you, wherein farewell.
 I remain your faithful and affectionate husband,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Pascotank, North Carolina, 20th of 6th month, 1789.
 
+[.salutation]
 Dear wife,
 
 I got to Carolina last second-day, and have, in order to get forward,
@@ -534,14 +563,14 @@ Friends speak very well of him; and I have reason to think so of him,
 I am glad I am to have his company; though being alone is not so trying as it was.
 I find I have but one to depend upon, and am happy in being reduced, I hope,
 very nearly to an absolute dependance on him; and find the more I am so,
-the more he is all things to me;
+the more he is __all things__ to me;
 so that there has seemed to be little or no lack for some time past.
 It is true, I am pretty often quite shut up; but believing it is best so,
 and quietly in faith submitting to it, the way soon opens again,
 with unexpected strength, utterance, and enlargement.
 
 Thus, according to the desire expressed, my dearly beloved, in your dear letter,
-I am to have a smoother path than I had some time past.
+I am to have a _smoother_ path than I had some time past.
 But I am almost afraid to mention it; for I suppose it is as true,
 that after a calm often comes a storm, as that after a storm comes a calm.
 But, Oh! the benefit of resignation!
@@ -582,7 +611,7 @@ and Master`'s approbation: but expect it will rather crowd hard on my constituti
 Do not fail, I desire of you,
 to let me have the satisfaction of a letter when I get round to that great city;
 so that I may have some pretty late accounts, how it is with you and all ours.
-For though I don`'t feel so anxious about anything, as I have done,
+For though I don`'t feel so anxious about _anything,_ as I have done,
 yet it is very sweet to me to hear of your welfare, content, and happiness;
 and of those with you.
 
@@ -600,14 +629,16 @@ Many more I could name, but they are too many, so leave it to you, and conclude,
 with a fullness and fervency of heartfelt affection, yet in calmness and serenity,
 your often tribulated, but now much comforted husband,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
-Jack Swamp, Northampton co.
-N+++.+++ C. 26th of 6th mo.
-1789.
+[.signed-section-context-open]
+Jack Swamp, Northampton co. N+++.+++ C. 26th of 6th mo. 1789.
 
+[.salutation]
 My dear, dear wife,
 
 I wrote you from Pascotank, last 7th day, the 20th of this month,
@@ -653,7 +684,7 @@ You have your dear friends about you.
 I, as soon as I begin to get an agreeable acquaintance with a friend, must part,
 and go among strangers again.
 True, I find something that often sweetens every bitter cup: but still,
-I can but often greatly wish another line from your dear hand and heart; for there it is,
+I can but often greatly wish another line from your dear hand and _heart;_ for _there_ it is,
 in great degree, that my joys are centred, except the joys of love divine;
 to which the love of soul with soul united, bears a near resemblance,
 and is but the next degree below.
@@ -661,10 +692,13 @@ May they both ever increase.
 And may the Lord my shepherd hold you and me, and all ours, in his holy hand,
 is the sincere and fervent desire of your sincerely and fervently affectionate husband,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 Extract of a Letter to a Friend
 
+[.signed-section-context-open]
 Northampton, N. C. 6th month 26th, 1789.
 
 With gratitude, I acknowledge the receipt of your kind letter, of 16th of last month,
@@ -689,10 +723,13 @@ If I find as much engagement to appoint meetings from among Friends, as I have d
 it is not likely I shall be at your Yearly Meeting.
 I have had various meetings to good satisfaction where no Friends live.
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Core Sound, North Carolina, 5th of 7th month, 1789.
 
+[.salutation]
 My dear,
 
 I am now writing you the eleventh letter, having before written you ten,
@@ -751,7 +788,7 @@ while I far, far remote from you and them, constrained, am forced to spend my da
 at least awhile,--though not condemned, I hope,
 to longer exile than for good shall prove, at least to me, dear heart,
 if not to you and many more.
-Oh! may you patiently my absence bear, and more your souls ascend,
+Oh! may you patiently my absence bear, and _more_ your souls ascend,
 in supplication for my faithful stay, my firm reliance on the arm divine,
 and upright perseverance, till the work be done, than for my sudden, or too soon return.
 
@@ -833,13 +870,17 @@ With much love to you, my dearest, to our dear babes, all my parents, etc., I re
 in fullness of affection, warm flowing from the heart, your often-sorrowing,
 often-rejoicing husband,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Holly Spring, in the back settlement of North Carolina, near New Garden,
 the 30th of 7th month, 1709.
 
+[.salutation]
 Dear wife,
 
 My spirit salutes you in the love of our Lord Jesus Christ;
@@ -939,7 +980,7 @@ sound testimony in most meetings; he left a dear wife and several children,
 to take part in these arduous exercises.
 I love him dearly.
 He is, I trust, of much use to me, and others.
-He thinks I have a little of the hypo sometimes.
+He thinks I have a little of the _hypo_ sometimes.
 I don`'t pretend to deny it; nor do I know that it is often otherwise with those,
 who so often wade the depths, and descend to the bottom of Jordan.
 I much doubt whether many of them are always clear of something
@@ -973,13 +1014,13 @@ I never expect greater clearness in any case, and can freely,
 and give up my all to his disposal, who has a sovereign right to me, and all my services;
 being sometimes enabled, in truth and the depth of prostration, to say,
 
+[verse]
+____
 "`Thy will is welcome, let it wear
-
 It`'s most tremendous form;
-
 Roar winds, rage waves: I know that thou
-
 Canst save me by a storm.`"
+____
 
 Oh! have faith in him,--have faith in him, my dearest, best beloved.
 He is a never-failing helper to all that rightly rely upon him.
@@ -999,7 +1040,7 @@ Then, I trust, I shall once more bless his holy name,
 for the safe and pleasant enjoyment of her, that is much of my portion in life,
 and of her lovely babes.
 
-31st. It may be some satisfaction to you, to understand, that for about a week past,
+_31st._ It may be some satisfaction to you, to understand, that for about a week past,
 I have not been so painfully depressed, as for some time before;
 though the weight of the work comes upon me daily, and is pressingly heavy,
 and bears me much down, till I get through it; for till then, I cannot shake it off.
@@ -1025,7 +1066,7 @@ that they may be once more quickened, and encouraged to trust in him,
 and endeavor to lay hold on eternal life, before it be too late.
 For though they have sadly slipped,
 yet great is the mercy and forgiveness of him with whom we have to do.
-So that if the righteous, through unwatchfulness,
+So that if the _righteous,_ through unwatchfulness,
 "`fall seven times,`" yet if his heart is engaged,
 and his spirit fervently bent upon ascending the hill of difficulty, and his looking,
 and his cry be rightly unto God, he may and will "`rise again.`"
@@ -1033,7 +1074,7 @@ But he that quite lets go his hold, and turns his back on the precious truth, wi
 with "`the wicked, fall into mischief.`"
 And it may be depended on, for it is an eternal truth,
 whatever the deluded souls may boast,
-that "`there is no peace to the wicked;`" and there will be none.
+that "`there is no peace to the wicked;`" and there _will be none._
 
 Oh! that our friend Amasa may be favored with a spark of faith, a ray of hope,
 and ability to renounce his three potent enemies, "`the world, the flesh,
@@ -1066,7 +1107,7 @@ Oh! my dear, I know and am assured,
 that every man is a fool that makes light of these things.
 He sports with life and death.
 He trifles with his own soul.
-If he would open his eyes, or be willing to see, he might clearly see, and feel too,
+If he would open his eyes, or be willing to see, he might __clearly see,__ and __feel too,__
 that the hand of God is upon him, that his peace is destroyed,
 that he is at war with Heaven,
 and is sure to be defeated in his vain hope of escaping the righteous judgment of God.
@@ -1115,7 +1156,7 @@ that I was but playing the hypocrite in said pretenses.
 Well, did this divine witness, which I have so laughed at,
 ever condemn me for what I was not guilty of?
 Never, in all my life.
-But whenever I have done well, I have been accepted, and found peace.
+But whenever I have done well, I have __been accepted,__ and found peace.
 And when I have done ill, sin has been laid at my door.
 For though I was not willing to grant houseroom to
 that which brings home the sense of sin and guilt,
@@ -1129,14 +1170,16 @@ I will seek peace once more with my God, before his Holy Spirit ceases striving 
 lest my house be left unto me desolate,
 and the things that belong to my peace be hid forever from my eyes.`"
 
-Oh! that this may be his happy experience, and the heartfelt language of his soul,
+Oh! that this may be his happy experience, and the heartfelt language of __his__ soul,
 is the travail of his fervent christian friend, and your fervently affectionate,
 as well as often tribulated, and often consolidated husband,
 whose prayers for your preservation and peace,
 are often ascending to the throne of grace,
 
+[.signed-section-signature]
 Job Scott
 
+[.salutation]
 My dear children,
 
 Your poor father loves you much, and wishes much to see you;
@@ -1163,14 +1206,18 @@ If you and they grow naughty, it will grieve your father`'s heart;
 but if you all do well, he will be glad to see you, when he comes home; till which time,
 he heartily bids you all farewell, and assures you that he remains your loving father,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To +++_______+++ +++_______+++
 
+[.signed-section-context-open]
 Providence, N. C. The back settlements of Friends, not far from Cane Creek, New Garden,
 8th mo.
 3rd, 1789.
 
+[.salutation]
 My dear friend,
 
 Having passed through many painful services,
@@ -1240,12 +1287,16 @@ and that her friends will not forsake her.
 With real love to you and family, I conclude, your affectionate, deeply proved,
 yet supported friend,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Marlborough, N. C. 6th of 8th month, 1789.
 
+[.salutation]
 Dear love,
 
 Although I have, a few days past, written the two enclosed sheets,
@@ -1338,11 +1389,14 @@ and much to my encouragement; for I go drooping along, no man fully knows my pat
 To this, he feelingly replied, "`I believe it--I believe it.`"
 Thus the Lord, not only bears up, by his invisible presence,
 but also begets a near sympathy in his faithful servants,
-and sometimes causes them to speak a few words fitly, and in season;
+and sometimes causes them to speak a few words _fitly,_ and in season;
 which are truly "`as apples of gold, in pictures of silver.`"
 Blessed be the Lord for all his favors.
 
-Centre, 9th of 8th month.
+[.small-break]
+'''
+
+__Centre, 9th of 8th month.__
 Truth is still eminently near, and supports.
 I have had three good meetings, the last three days;
 that yesterday was the select Quarterly Meeting, where things opened wonderfully,
@@ -1373,12 +1427,16 @@ Her consolation in the Lord, I often feel a rising petition to the Father of mer
 
 In fullness of heartfelt affection, I now conclude, and rest your exercised husband,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Charleston, S. Carolina, 27th of 8th month, 1789.
 
+[.salutation]
 Dear wife,
 
 I yesterday arrived here, and received your,
@@ -1400,7 +1458,7 @@ It seems to me like John Baptist`'s ministration,
 "`to prepare the way of the Lord,`" in order that Christ "`may be made manifest to Israel.`"
 Their doctrines are nearer Friends, than any others; their lives religious;
 their hearts tender: but,
-alas! they are abundantly mistaken in the great haste they are making.
+alas! they are abundantly mistaken in the great _haste_ they are making.
 I fear it will hasten many into flat formality,
 and into a loss of the tender lively thing they now feel.
 But, Oh! there is little among Friends, to instruct and settle them;
@@ -1462,7 +1520,7 @@ But, alas! my dearest, his old path is what he ever expects to walk in, under th
 if faithful; and "`in deaths often.`"
 A path "`the vulture`'s eye has not seen;`" a path seen by none fully,
 but the all-seeing eye of Heaven.
-Here is my consolation--here my repose, that it is seen, and I hope, directed too,
+Here is my consolation--here my repose, that it is seen, and I hope, __directed too,__
 by that holy eye.
 And my faith is in a good degree unwavering, and much of the time, wholly so,
 so that if I henceforward continue faithful, as I know not but I have of late,
@@ -1490,7 +1548,7 @@ and be found in him,`" having nothing of our own righteousness,
 our own activity in things religious; all this being as filthy rags.
 Oh! how the world mistakes this mystery!
 All our own righteousness must surely be renounced, and even done away;
-all things must become new; all things of God;
+all things must become new; all things __of God;__
 feeling him to be the only spring and motion.
 This is being found in Christ.
 This is not having on our own righteousness; yet not the least room for sin of any kind;
@@ -1503,15 +1561,15 @@ and unspeakable advantage of it.
 But Oh! it is through many deaths.
 Let us, dear love, entirely deny,
 and give up all that would hinder this best of all experiences.
-Let death do all its office in us; for till then,
+Let _death_ do all its office in us; for till then,
 Christ cannot render up the kingdom to the Father, that God may become all in all.
 For till then, there will, in the nature of things, be some enemy, or enemies remaining:
 and he must reign in his mediatorial capacity, reconciling us unto the Father,
 till all enemies are, not in part only, but entirely subdued and destroyed.
 
-Hence it is, that the last enemy that shall be put under, or destroyed, is death.
+Hence it is, that the last enemy that shall be put under, or destroyed, is _death._
 For when mention is made of the putting down of all enemies, and all rule and authority,
-it is evident, that by which they are put down is excepted, or remains,
+it is evident, _that_ by which they are put down is excepted, or remains,
 till all the rest are put down.
 And as all those who know these to be put down in themselves,
 feel it to be by and through death,
@@ -1519,7 +1577,7 @@ the "`death of the cross,`" so they will find there must be,
 and is room for the repeated operations of this death, this being buried with Christ,
 by baptism, into death and sufferings, from time to time,
 till all other enemies are put under; till our whole will bows, and remains bowed;
-till all in us that would act, rule, or exercise authority out of the holy seed,
+till all in us that would act, rule, or exercise _authority_ out of the holy seed,
 is done away entirely.
 When this is done, death has no more dominion, no more work to do in us;
 but being swallowed up in perfect victory over all our enemies,
@@ -1537,11 +1595,11 @@ Oh! that you and I, my best beloved, my chosen bosom friend, may earnestly, not 
 but with full purpose of heart, press forward to this blessed mark.
 And I may tell you,
 that I am at length fully convinced there is no other certain way of attaining it,
-than by submitting to a constant death of all that is wrong.
+than by submitting to a constant _death_ of all that is wrong.
 For death must continue its work till all is put down.
 And it is above all things necessary, that we get about, and keep about this great work,
-dying daily till it is accomplished;
-that we give up our whole life without even any secret reserve.
+__dying daily__ till it is accomplished;
+that we give up our __whole life__ without even any secret reserve.
 
 Oh! how many have been ruined by their reserves: giving up only in part;
 having only a half-way religion; striving to serve God and mammon,
@@ -1554,24 +1612,24 @@ and "`become servants unto tribute.`"
 They have so much religion as makes wrong indulgences
 a burden to the tender-breathing life,
 yet so much reluctance to the entire "`death of the
-cross,`" as makes their religion a burden.
+cross,`" as makes their _religion_ a burden.
 So, between these two burdens, they are rather distressed tributaries,
 than free subjects of either kingdom.
 My soul knows, and has deeply groaned under this cruel bondage: but,
 blessed be the Lord of liberty, he has so engaged my heart to follow him, that it is,
 and has been for some considerable time, the fixed, steady intention of my mind,
 through holy aid, to make war in righteousness, not in part only,
-but in true righteousness, with all evil of every kind.
+but in __true righteousness,__ with all evil of every kind.
 For I am, beyond doubt, assured, that no other state will ever afford unshaken peace.
 
 If all that profess to believe in perfection, did really believe in it,
 and steadily press after it,
 I believe God`'s kingdom would soon come on earth as in heaven,
 far more extensively than there is now any room to expect it soon to do.
-For, alas! where are they who even intend steadily, and unceasingly,
-henceforward to deny themselves, take up their constant cross, and follow Christ fully,
+For, alas! where are they who even _intend_ steadily, and unceasingly,
+henceforward to deny themselves, take up their _constant_ cross, and follow Christ _fully,_
 and wherever he leads.
-Few, I believe, with full purpose, even intend this; and without intending it, aye,
+Few, I believe, with __full purpose,__ even _intend_ this; and without _intending_ it, aye,
 and earnestly wrestling and laboring for it too,
 we shall never ascend to the top of the hill.
 We may have good desires at times; and now and then be alarmed, and resolve,
@@ -1584,7 +1642,7 @@ the whole heart is called for.
 There is no moment when we may omit the watch, or please ourselves in things forbidden,
 with impunity: no, no.
 Our whole lives are short enough to finish the work our God has for us,
-even were we constantly engaged in the good fight, against every evil motion.
+even were we constantly engaged in the good _fight,_ against every evil motion.
 But, until we engage in it without reserve, sin will have dominion over us; will reign;
 will more or less bring us into bondage.
 And while this is the case, we are in imminent danger,
@@ -1599,7 +1657,7 @@ Perhaps it may another day, to my own soul; therefore I wish it preserved.
 For I desire, above all things, to be aroused, from time to time, from every false rest,
 till I become "`perfect and entire, lacking nothing.`"
 Let this be also your most ardent pursuit; then am I assured, our joy in the Lord,
-and in each other, will be full, and that no man, no adversity, no height, nor depth,
+and in each other, will be _full,_ and that no man, no adversity, no height, nor depth,
 can ever destroy it, or take it from us.
 Oh! trust in the Lord forever.
 He still remains a source of everlasting, never-failing strength.
@@ -1608,10 +1666,10 @@ I am much with you of late, in spirit, both day and night;
 yet feel in a good degree happy, in the divine will,
 and firm assurance of my own and your preservation, if we love the Lord fully,
 and that he will not allow a hair of of our heads to fall to the ground,
-without his providence; for all things must work for good to them that fully love him.
+without his providence; for all things must work for good to them that _fully_ love him.
 I have cast my care upon him.
 I stand resigned to his holy will.
-Do so too, and all will be well.
+Do so too, and all _will_ be well.
 
 Though I have given you and all up to Heaven`'s all-wise disposal,
 yet I feel that you are much of my portion in this life.
@@ -1659,9 +1717,10 @@ and here`'s the only true substantial liberty.
 
 In fullness of heartfelt affection, I remain your true and ever loving husband,
 
+[.signed-section-signature]
 Job Scott.
 
-Second-day morning, 31st. We are soon to start for Georgia.
+__Second-day morning, 31st.__ We are soon to start for Georgia.
 Feel clear of this place, though there is not so great openness here, as in many places.
 My ardent wishes still ascend, dear love, for you and yours.
 Oh! walk with holy Jesus.
@@ -1686,4 +1745,5 @@ to purchase peace; at least, escape the rebel`'s or deserter`'s fate.
 Farewell, dear soul.
 In love, that diminution knows not, bid I you farewell.
 
+[.signed-section-signature]
 Job Scott.

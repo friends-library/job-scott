@@ -1,9 +1,12 @@
 == Chapter I
 
+[.letter-heading]
 To Phebe Field, Gloucester.
 
+[.signed-section-context-open]
 Providence, 30th of 10th month, 1774.
 
+[.salutation]
 Respected friend,
 
 By this opportunity I may just inform you, that since I last saw you,
@@ -37,9 +40,11 @@ and gain an admittance into his kingdom of glory,
 there to rejoice in beholding his face forevermore.
 So wishes your sincere friend,
 
+[.signed-section-signature]
 Job Scott.
 
-To a Friend.
+[.letter-heading]
+To a Friend
 
 Feeling, in the aboundings of my Heavenly Father`'s love,
 a renewed and earnest engagement for the eternal welfare
@@ -98,7 +103,7 @@ lose all sense of truth.
 Oh! arise, arise! and trim your lamp, and provide therein the oil of the kingdom,
 by standing open to receive from him who is ready to communicate, but in his own way,
 the way of the cross.
-Have you not stood dallying long enough to know, that that will never do the work?
+Have you not stood dallying long enough to know, that _that_ will never do the work?
 If so, I beseech you, now, at length,
 be engaged to work out your salvation with fear and trembling;
 for it is God that works in you; and would, did you but cleave close to his workings,
@@ -139,14 +144,19 @@ and continue your seeking until you find it;
 that so you may be prepared to enter the mansions of glory,
 to celebrate the praise of him who is now patiently waiting to be gracious unto you.
 
+[.signed-section-closing]
 I am your sincere friend and well-wisher,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To Mary Callender
 
+[.signed-section-context-open]
 Providence, 12th of 12th month, 1775.
 
+[.salutation]
 Esteemed friend,
 
 It is in my mind, I believe in a degree of gospel love, to let you understand,
@@ -183,12 +193,16 @@ My kind love is to yourself, and J. J., with all my friends at Newport,
 not forgetting that tender plant, M. R., whose eternal welfare I much desire;
 and hope your watchful care over her for good, will not be defficient,
 
+[.signed-section-closing]
 From your assured friend,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 Part of a Letter to a Friend
 
+[.salutation]
 My friend,
 
 Feeling at this time a near sympathy with you, I find my mind engaged for your good,
@@ -281,12 +295,16 @@ in the good will of him that dwelt in the bush,
 to give up everything that stands in the way of your peace,
 even though comparable to a right hand, or right eye.
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To Lydia Tillinghast
 
+[.signed-section-context-open]
 Providence, 20th of 4th month, 1777.
 
+[.salutation]
 Respected friend,
 
 I have often had to think of you for some time past,
@@ -400,12 +418,16 @@ and tenderness, through all trials that may attend you here,
 and dwell forever with the Lamb and his followers, hereafter.
 Farewell.
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To William Turpin
 
+[.signed-section-context-open]
 Providence, 20th of 9th month, 1778.
 
+[.salutation]
 My dear friend, William Turpin,
 
 As I may not see your face so often as before,
@@ -447,7 +469,7 @@ than what arises from union and communion with him who was made perfect through 
 This is close doctrine; but I can testify,
 it leads to joys unspeakable that the world knows not of;
 to a foretaste in this life of those rivers of pleasures which are at God`'s right hand.
-Lose not sight, my friend, of the light, your leader;
+Lose not sight, my friend, of the __light,__ your leader;
 nor of the necessity of a life of self-denial, and the daily cross.
 This I earnestly press, as the way to eternal glory:
 it is the path the ancients ever trod to blessedness; by Jesus recommended,
@@ -467,12 +489,16 @@ that your garments must be washed white, and you admitted to the joys I have men
 I am your unfeigned, affectionate, unshaken friend, in the travail of my soul,
 that Christ may be completely formed in you.
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To J. C.
 
+[.signed-section-context-open]
 Providence, 7th of 9th month, 1781.
 
+[.salutation]
 Respected cousin,
 
 I have often had you in remembrance, since last I saw you,
@@ -516,12 +542,16 @@ in a land of emptiness,
 famishing and starving for lack of that food which only nourishes to eternal life.
 Farewell, says your true friend and cousin,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To A. S.
 
+[.signed-section-context-open]
 Providence, 7th of 11th month, 1781.
 
+[.salutation]
 My young friend,
 
 My view in writing, is to inform you,
@@ -573,12 +603,16 @@ With desires that this may be your happy experience,
 and that you may receive these few lines as a token of unfeigned goodwill,
 I bid you farewell, and am your friend,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To his Wife, Eunice Scott
 
+[.signed-section-context-open]
 Smithfield, 11th month 10th, 1782.
 
+[.salutation]
 Dearly beloved wife,
 
 I am now at Elisha Thornton`'s. It would seem pleasant to return to you,
@@ -590,12 +624,16 @@ as to give me up to visit and sympathise with the many children from house to ho
 who are at times, as it were, crying for bread, and have none to break it to them.
 Farewell, says your truly loving husband,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To Eunice Scott
 
+[.signed-section-context-open]
 Providence, 19th of 6th month, 1783.
 
+[.salutation]
 My dear wife,
 
 Let it not grieve you, that a tender concern for the good of society,
@@ -614,10 +652,13 @@ as we feel a disposition to be willing to live upon a little.
 May his holy hand hold you, and preserve you, till I come again, to enjoy your company.
 Farewell, dear heart, says your affectionate husband,
 
-Job Scott.
+[.signed-section-signature]
+Job Scott
 
+[.letter-heading]
 To the Youth Among Friends, at Richmond, New Hampshire.
 
+[.salutation]
 Dear young friends,
 
 It is nothing but a desire for your immortal souls`' eternal welfare,
@@ -657,7 +698,7 @@ that for all these things God will bring them into judgment.
 Therefore, dear youth,
 be persuaded to turn your backs upon all the allurements
 and temptations of this wicked world,
-now in season; for now is the accepted time; now is the day of salvation; now,
+now in season; for _now_ is the accepted time; now is the day of salvation; now,
 the spirit of God is striving with you, for your reformation and salvation.
 But if you go on in those gratifications and delights which grieve his Holy Spirit,
 that thus strives with you, he may be disposed to give you up,
@@ -688,14 +729,19 @@ This is an absolute duty and well pleasing to your Maker.
 Therefore be obedient.
 We are your real friends,
 
+[.signed-section-signature]
 Job Scott.
 
+[.signed-section-signature]
 Jaazaniah Barrett.
 
+[.signed-section-context-close]
 Uxbridge, 9th month 17th, 1783.
 
+[.letter-heading]
 To the Heads of Families, Both Men and Women Friends, at Richmond, New Hampshire
 
+[.salutation]
 Dear friends,
 
 Having been for a considerable time under some degree of mournful exercise,
@@ -841,18 +887,25 @@ Don`'t forget the dear youth.
 Don`'t neglect them.
 They greatly need some kind assistance.
 
+[.signed-section-closing]
 We rest your assured friends,
 
+[.signed-section-signature]
 Job Scott
 
+[.signed-section-signature]
 Jaazaniah Barrett
 
+[.signed-section-context-close]
 Uxbridge, the 19th of the 9th month, 1783.
 
+[.letter-heading]
 To Joseph Mosher, White Creek
 
+[.signed-section-context-open]
 Gloucester, 1st of 1st month, 1784.
 
+[.salutation]
 Dear friend, Joseph Mosher,
 
 I almost steal these few moments, to sketch to your view,
@@ -903,12 +956,16 @@ and he will adorn you with a heavenly beauty, superior to all earthly enjoyments
 My wife joins in loving remembrance, and would be glad to see you.
 A line would be very acceptable to your affectionate,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To James Mott, Mamaroneck
 
+[.signed-section-context-open]
 Amawalk, 2nd of 8th month, 1784.
 
+[.salutation]
 Dear friend,
 
 Something having endeared you to my mind while lately together,
@@ -938,14 +995,19 @@ May the breathings of the faithful be to the Fountain of all strength and consol
 that I may be enabled to stand so still as to see the way,
 and witness the salvation of God.
 
+[.signed-section-closing]
 In endeared affection, I am your poor friend,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To James Mott
 
+[.signed-section-context-open]
 Nine Partners, 6th month 11th, 1784.
 
+[.salutation]
 My dear friend,
 
 I received your kind comfortable salutation, last evening, very much to my satisfaction,
@@ -999,12 +1061,16 @@ and renewed wishes for your increase of spiritual health and salvation,
 I conclude your constant friend and brother in the
 sufferings and rejoicings of this our earthly pilgrimage,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Cornwall, 3rd of 8th month, 1784.
 
+[.salutation]
 Dear wife,
 
 I am glad I can inform you that I am pretty well as to bodily health;
@@ -1038,16 +1104,25 @@ Mention my love to them as opportunity offers.
 Accept this as a token of never-failing affection
 from your constant friend and loving husband,
 
+[.signed-section-signature]
 Job Scott.
+
+[.postscript]
+====
 
 P+++.+++ S.--Try to bear my absence patiently, that so our reward may not be lost,
 and that we may meet again in fullness of affection.
 Meanwhile I pray the Lord of hosts preserve and bless you and the family.
 
+====
+
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Oblong, at Aaron Lancaster`'s, 8th month 17th, 1784.
 
+[.salutation]
 Dear wife,
 
 I wrote you from David Sands`'s, over the North River, the 3rd of this month,
@@ -1066,12 +1141,16 @@ and that I must hasten to in a few minutes, and then, two Monthly Meetings,
 and so away from these parts.
 Farewell, says your constantly affectionate husband,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 East-Hoosack, 8th month 29th, 1784.
 
+[.salutation]
 Dear wife,
 
 I am at present in good health, and have been so, except a few days, since I left you.
@@ -1105,12 +1184,16 @@ I hope I shall still be kept low and humble.
 Farewell, farewell, my dear wife, says your rejoiced husband,
 whose joy is great that he can yet call you his own.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To Joseph Mosher, White Creek
 
+[.signed-section-context-open]
 Gloucester, 27th of 5th month, 1785.
 
+[.salutation]
 My dear friend, Joseph Mosher,
 
 Yours of the 16th of 1st month came duly to hand, and was truly acceptable,
@@ -1122,8 +1205,8 @@ But this morning,
 (being our Monthly Meeting day,) I felt willing to try to sketch out some of my feelings,
 having had to pass through proving seasons of late; wherein, after close exercises,
 and deep dippings into painful poverty, I have various times had to see clearly,
-and even been ready to cry out and say, "`his name that sat on him was death,
-and hell followed with him.`"
+and even been ready to cry out and say, "`his name that sat on him was _death,_
+and _hell_ followed with him.`"
 
 This, my dear friend, may possibly seem strange language,
 though I am ready to think it may not to you; for I believe each exercised traveler,
@@ -1172,7 +1255,7 @@ in their children`'s being members.
 Oh! this, I am confirmed, is a mistaken apprehension, a very delusion; and that which,
 even in the minds of goodly Friends, is almost ready to persuade them,
 that a time will come, when there will be no more birth-right members,
-(as this spirit is ready to call them,) and that that will be a better time.
+(as this spirit is ready to call them,) and that _that_ will be a better time.
 I greatly fear this is the very voice of the stranger
 whom the sheep ought not to hearken to.
 And if ever this language gathers the children, and those that suck the breast,
@@ -1204,7 +1287,7 @@ But this is not yet the case, as poor as our meetings are.
 For, though our shortness may be great, and through our fault,
 the meetings may sometimes be unhappily tinctured with something discouraging,
 yet through his lovingkindness who still favors his people,
-there are times when that attends, and reigns in dominion in these meetings,
+there are times when _that_ attends, and reigns in dominion in these meetings,
 through which even men are enabled to baptize with the Holy Spirit.
 Oh! the meetings!--the brokenness, contrition,
 and fervency of devotion which attend these blessed seasons!
@@ -1219,12 +1302,16 @@ as far and as fast as they are capable, these great privileges.
 In much love, I remain, dear friend, a constant well-wisher to you and yours,
 and to the prosperity of Zion`'s cause.
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Westbury, (Long Island,) 7th month 28th, 1786.
 
+[.salutation]
 Dearly beloved,
 
 That endeared affection which renders parting hard,
@@ -1274,12 +1361,16 @@ I may find time to write again from New York,
 after attending a number of Meetings on this Island; so rest for the present,
 your truly loving husband,
 
+[.signed-section-signature]
 Job Scott
 
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 New York, 5th of 8th month, 1786.
 
+[.salutation]
 Dear wife,
 
 We have now attended all the meetings belonging to this Quarter,
@@ -1304,12 +1395,16 @@ And that this watch may ever be ours,
 and that therein the Lord of hosts may watch over us, preserve and keep us,
 is the fervent desire of your fervently loving husband,
 
+[.signed-section-signature]
 Job Scott.
 
+[.letter-heading]
 To Remember Anthony, Providence
 
-Now York, 8th month 5th, 1786.
+[.signed-section-context-open]
+New York, 8th month 5th, 1786.
 
+[.salutation]
 Dear sister,
 
 An unworthy brother, feeling desirous of your welfare,
@@ -1337,17 +1432,26 @@ and your consolation like the flowing of the sea.
 That this may be your happy choice and blessed experience,
 is the hearty desire of your truly loving brother,
 
+[.signed-section-signature]
 Job Scott.
+
+[.postscript]
+====
 
 P+++.+++ S.--Remember your dear sister, and the dear lambs I left in her bosom; be with them,
 I desire you, as much as is convenient.
 My love to father, mother, brothers, and sisters.
 A line from you would be acceptable.
 
+====
+
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Shrewsbury, East Jersey, 8th month 11th, 1786.
 
+[.salutation]
 Dear love,
 
 This is my third letter, the first from Westbury, second from New York last seventh-day.
@@ -1365,28 +1469,37 @@ and to the dear babes I left under her watchful care.
 Tell them, be good children;--their father says he wants them to be good children.
 My love is also to my dear father; to Phebe; Benedict, his wife, and family;
 with all my dear friends about you.
-May none of them grow so fearful of that little innocent word, zeal,
-as to let ease crawl on upon them.
+May none of them grow so fearful of that little innocent word, _zeal,_
+as to let _ease_ crawl on upon them.
 The lack of the one and the plenty of the other in this land,
 makes many a heart-aching moment, to poor passing pilgrims among them.
-I am more and more in love with true zeal: and a Quaker must famish without it.
+I am more and more in love with __true zeal:__ and a Quaker must famish without it.
 Dead formality and love of earth, have almost ruined our poor society.
 Oh! that we might mount upwards! and,
 Oh! that a diligent waiting for strength from above, to perform every duty,
 may be witnessed by all my dear friends at Uxbridge,
 who have yet a little zeal remaining.
 And may it be especially the care of the mother, in regard to the children,
-and of her bodily-absent, though in heart often present,
+and of her bodily-absent, though in heart __often present,__
 and feelingly affectionate husband,
 
+[.signed-section-signature]
 Job Scott
+
+[.postscript]
+====
 
 P+++.+++ S.--My dear love to Remember, if with you.
 
+====
+
+[.letter-heading]
 To his Wife
 
+[.signed-section-context-open]
 Burlington, 8th month 27th, 1786.
 
+[.salutation]
 My beloved,
 
 I am now at Burlington, West Jersey, not many miles from Philadelphia,
@@ -1432,24 +1545,22 @@ though not with grief, but far the contrary.
 Ardent were my wishes, that the guardian angel of the divine presence, might surround,
 watch over, and preserve you.
 
+[verse]
+____
 May Heaven`'s blest influence on thy heart be shed,
-
 May angels waft sweet odours o`'er thy bed!
-
 With angels`' food, my dear, mayst thou be fed,
-
 And by the Truth, in truth`'s pure paths be led.
 
 May truth`'s increase, so prosper in thy soul,
-
 As that its growth may lead from goal to goal:
-
 From state to state, progressive, mayst thou tread,
-
 And more than gold '`twill crown thy husband`'s head.
+____
 
 My love is affectionately to the dear children, their grandfather; Phebe;
 the rest of my dear friends, and above all, dearly beloved,
 to her unto whom I subscribe myself an affectionate husband and well-wisher in the Lord,
 
+[.signed-section-signature]
 Job Scott
