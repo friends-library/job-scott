@@ -388,6 +388,7 @@ both going home, and after I arrived there.
 I scarcely dared to go into my bed-chamber, lest I should be suddenly,
 and in some awful manner, brought to judgment, and punished for my audacity and folly.
 
+[.blurb]
 === The Terrors of the Lord
 
 I went on a few months after this much in the same manner.
@@ -1098,7 +1099,7 @@ seeking whom he may devour.
 [.blurb]
 === The American War--Taxes
 
-+++[+++775]
++++[+++1775]
 On first-day, the 18th of 6th month,
 a paper was sent from our deputy-governor to the Friends of our meeting,
 requesting that such as had small arms would produce them at the courthouse next day,
@@ -2562,6 +2563,7 @@ and exalted above all that is called God, and that ought of right, to be worship
 and also to hasten or promote the coming of the peaceable kingdom of the Lord on earth,
 as it is in heaven.
 
+[.blurb]
 === Reformation Goes on by Degrees
 
 May the servants of the living God, of all denominations,
