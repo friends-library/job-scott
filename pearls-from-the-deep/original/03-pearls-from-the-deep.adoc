@@ -1102,7 +1102,7 @@ seeking whom he may devour.
 [.blurb]
 === The American War--Taxes
 
-+++[+++775]
++++[+++1775]
 On first-day, the 18th of 6th month,
 a paper was sent from our deputy-governor to the Friends of our meeting,
 requesting that such as had small arms would produce them at the courthouse next day,
@@ -4550,6 +4550,7 @@ through their busy attempts to promote it;
 and yet perhaps they may be pretending to wait for,
 and giving out that they feel much divine influence.
 
+[.blurb]
 === The Subltety of the Serpent
 
 Oh! the subtlety of the serpent, especially in his resemblance of an angel of light!
