@@ -1,5 +1,6 @@
 == Selections From the Journal & Letters of Job Scott
 
+[.blurb]
 === Early Days
 
 Forasmuch as it has pleased Divine Wisdom to lead and conduct my soul through many,
@@ -14,7 +15,7 @@ an engagement of mind to leave behind me some memorandums in commemoration
 of his gracious dealings with me from my youth.
 
 I was born, according to the best account I could obtain,
-and according to the present or new style, on the 18th day of the 10th month, 175I,
+and according to the present or new style, on the 18th day of the 10th month, 1751,
 in the township of Providence, now North Providence,
 in the Colony (now State) of Rhode Island and Providence plantations, in New England.
 My My parents`' names were John and Lydia Scott; who were accounted honest people,
@@ -44,6 +45,7 @@ And though as I observed, I understood but little about it then, yet I,
 have since had reason to believe it was a real advantage to me,
 and that it has often been remembered since to my benefit.
 
+[.blurb]
 === Early Experience of Silent Waiting
 
 I am fully persuaded of the great advantage, and spiritual usefulness,
@@ -64,6 +66,7 @@ I was told by some of my kindred who were present at my mother`'s death,
 (for it being night I was not present myself,) that her departure was joyful and glorious;
 and that very near her last breath was spent in fervent supplication to the Lord her God.
 
+[.blurb]
 === The Workings of Truth
 
 Before I was ten years old, the workings of Truth grew so powerful in my mind at times,
@@ -96,16 +99,16 @@ and finally put Him to death.
 But they were mistaken in His pedigree: His descent was from heaven; and God, not Joseph,
 was His Father.
 Just so are thousands now mistaken,
-as to the dignity and origin of God`'s Spirit in them; they think it is of man,
+as to the dignity and origin of God`'s Spirit in them; they think it is of _man,_
 a part of his nature and being; whereas it is of the very life, power,
 and substance of God.
 Its descent is as truly from heaven, as was that of the Lord Jesus.
-He came in that low, mean, and ordinary appearance, to outward show and accommodations;
+He came in that _low, mean, and ordinary_ appearance, to outward show and accommodations;
 teaching us thereby "`not to despise the day of small things,`" nor overlook
 the littleness of the motions of divine life in our own souls.
-And when he compares the kingdom of heaven, which he expressly says is within,
+And when he compares the kingdom of heaven, which he expressly says is _within,_
 to outward things, He very instructively inculcates to us,
-that the beginnings of it are small,
+that the beginnings of it are _small,_
 "`a little leaven`"--"`a little seed`"--"`a grain
 of mustard seed`"--"`the least of all seeds.`"
 This is true in the inward, whatever it be in the outward;
@@ -114,6 +117,7 @@ the seeds`" in the field or garden of the heart.
 Other seeds sprout, spring up, and take the attention, while the incorruptible seed,
 "`the Word of God`" in the heart, is overlooked, trampled under and despised.
 
+[.blurb]
 === Learns to Dance and Play Cards
 
 I entreat you, as you love your own souls, and prize an everlasting salvation;
@@ -188,6 +192,7 @@ from the thraldom of sin and corruption,
 his goodness engaged Him to seek by mercy and by judgment, frowns and smiles,
 in love chastisements and endearments, and all in love inexpressible.
 
+[.blurb]
 === The Still Small Voice Reproves
 
 Thus He dealt with me.
@@ -225,6 +230,7 @@ I found an increasing propensity to wantonness and dissipation.
 But, blessed be the God of my salvation,
 He proportionately increased my sense of guilt and condemnation.
 
+[.blurb]
 === Attends Baptist Meetings
 
 I had seasons of very serious consideration upon religion.
@@ -245,7 +251,7 @@ Oh! how livingly I still remember the heavenly and heart-tendering
 impressions I sometimes received under the lively,
 animating testimonies delivered in the evidence and demonstration of the Holy Spirit,
 and in the very life of the Gospel.
-Here my heart was helped, though my head was less amused than among the Baptists:
+Here my _heart_ was helped, though my _head_ was less amused than among the Baptists:
 however, as I knew not clearly what caused the difference,
 as Friends`' meetings remained still often silent,
 and as I still wished the gratification of argumentative, systematic discourses,
@@ -263,6 +269,7 @@ Oh! my heart, my very soul is fully satisfied in this matter;
 having felt the living efficacy of this one saving baptism and known its full sufficiency,
 without any other.
 
+[.blurb]
 === Predestination
 
 I had not yet fully given up to the motions of divine life in my own heart.
@@ -323,7 +330,7 @@ or tenderness of conscience.
 At length, notwithstanding all I had felt of the power of God upon me,
 in reproof for sin, and invitation to holiness, yes,
 though I had had some true relish of divine good, the holy Witness became so stifled,
-that I began to conclude there was no God: that all things came by chance, by nature,
+that I began to conclude there was _no God:_ that all things came by chance, by nature,
 by the fortuitous jumble and concourse of atoms, without any designing cause,
 or intelligent arrangement: that it was idle, chimerical, and delusive,
 to think of serving or fearing a being who had no existence but in imagination.
@@ -332,6 +339,7 @@ what a powerful influence the admission of one false doctrine,
 and the violation of divine manifestation and conviction,
 have in paving the way for other false doctrines.
 
+[.blurb]
 === Atheism
 
 Not much sooner had I received and cherished one
@@ -351,7 +359,7 @@ which I was plunged into!
 I as much marvel that I could wish there was no God,
 as that I could believe so intolerable an absurdity.
 One evening in company with some of my merry companions,
-several subjects were conversed on, till at length, I introduced my new subject,
+several subjects were conversed on, till at length, I introduced my _new_ subject,
 to see what the company could advance against it.
 And being unwilling they should know that I seriously entertained the idea I advanced,
 I introduced it as a supposition, declaring, that for argument`'s sake,
@@ -380,6 +388,7 @@ both going home, and after I arrived there.
 I scarcely dared to go into my bed-chamber, lest I should be suddenly,
 and in some awful manner, brought to judgment, and punished for my audacity and folly.
 
+[.blurb]
 === The Terrors of the Lord
 
 I went on a few months after this much in the same manner.
@@ -405,7 +414,7 @@ Especially since I had daringly denied Him any other existence than imaginary?
 The wise sceptical reasoner may laugh at me, as being now, as much as ever,
 under the dominion of imagination; but I confess my rejoicing,
 that I am not too wise to believe, that the hand of God was pointedly operative,
-and strikingly manifested in making that the very seat of my torment,
+and strikingly manifested in making _that_ the very seat of my torment,
 which I had vilely assigned as His only seat of existence.
 
 Day after day,
@@ -442,6 +451,7 @@ I knew I was pursuing my daily and almost insupportable distress.
 I felt myself in thraldom, and almost without hope.
 I knew myself a prisoner, and yet I hugged my chains.
 
+[.blurb]
 === A Dream
 
 About four or five times, in a few months, I had the following dream,
@@ -476,6 +486,7 @@ as a gnawing worm, tormented me both night and day; yet all in tender love,
 in order to redeem my precious soul,
 and bow my stubborn will to the obedience of the cross.
 
+[.blurb]
 === Conviction and Conversion
 
 Thus I continued still in vanity and folly, with intervals of deep distress and mourning,
@@ -508,29 +519,31 @@ Whatever way, O soul, or by whatever means you are benefited in a spiritual sens
 it is by this Holy Spirit,
 that is the immediate operative power and principle within you.
 
+[.blurb]
 === Everything Not Felt, Unavailing
 
 The death of Christ is nothing at all to you, savingly, further than you have the living,
 saving efficacy of it sealed to you.
 Nothing can possibly do this, without touching and changing your heart.
-If you do not feel it, it is nothing.
+If you do not _feel_ it, it is nothing.
 You may imagine and dream a thousand things about faith, regeneration, and imputation:
 but unless the Holy Spirit change you, and give you to feel and know salvation,
 in and for your own soul: you would be just as much benefited,
 by imagining that Joseph of Arimathea, or any other person, had purchased your salvation,
 and that, by imputation of what he had done, God would, at some future time, save you.
-For everything that is not felt, is as totally unavailing to you,
-as the most ungrounded imagination; and until you sensibly feel some real benefit,
+For everything that is not _felt,_ is as totally unavailing to you,
+as the most ungrounded imagination; and until you sensibly feel some _real_ benefit,
 you have received no more, substantially and savingly,
 than you might receive by a strong imagination, persuasion, and hope,
 from any other quarter.
 
-While the doctrine of salvation by Christ, is only ideal with you,
+While the doctrine of salvation by Christ, is _only ideal_ with you,
 it is nothing as yet experimentally in your possession.
-And ideal it is, must, and ever will be, till you feel it.
+And ideal it is, must, and ever will be, till you _feel_ it.
 And feel it savingly, you never can, but in and by the Holy Spirit,
 the very life of the whole mystery.
 
+[.blurb]
 === What Certifies the Scriptures?
 
 Having thus at length become livingly convinced that it was nothing short
@@ -544,7 +557,7 @@ contemplation upon the works of creation and providence--all
 these are very good means of information;
 but none of them, nor even all of them,
 without the Holy Spirit`'s sealing operation and evidence upon the mind,
-can ever make a man sure of his duty to God in any one thing.
+can ever make a man _sure_ of his duty to God in any one thing.
 He may reason, and set up many rules, measures, and standards of duty and morality;
 which certainly he never will arrive at,
 without the help of that which in itself is certain.
@@ -556,6 +569,7 @@ and do not they all say they have reason on their side?
 But believe them not: nor believe that anything is or can be certainly known to man,
 as a law binding upon him, without the light and evidence of the Holy Spirit.
 
+[.blurb]
 === Forsaking Evil
 
 I gave up very fully and from the heart, to serve the Lord in the way of His leadings;
@@ -564,10 +578,10 @@ attended the meetings of Friends, and often sought the Lord,
 and waited upon Him in solemn, reverential silence alone, for His counsel, direction,
 and preservation; and He was graciously pleased to point out and cast up the way for me,
 one thing after another, with sufficiency of clearness.
-First, he showed me negatively, what I ought not to do in various particulars,
+First, he showed me _negatively,_ what I ought not to do in various particulars,
 breaking me off from my vicious practices and associations.
-This was forsaking evil.
-And then He taught and enjoined me the practice of several things positively
+This was _forsaking evil._
+And then He taught and enjoined me the practice of several things _positively_
 wherein He engaged me to choose and cleave unto that which is good.
 I saw clearly it was His will,
 and my indispensable duty reverently to assemble with with His people for divine worship,
@@ -601,6 +615,7 @@ and facilitate unprofitable association and acquaintance
 with such as would rather alienate the affections from God,
 than unite the soul to Him.
 
+[.blurb]
 === Plain Dress and Language--the Weak Things
 
 Thus instructed, I bowed in reverence;
@@ -643,8 +658,8 @@ But He who called me into the performance of these foolish things,
 that He would choose His sacrifice Himself;
 and that neither a right hand nor a right eye, neither thousands of rams,
 nor thousands of rivers of oil, would by any means answer instead of His requirings.
-If He called for so weak or foolish a thing as the words thou and thee to a single person,
-instead of you, nothing else of my substituting would do instead of it;
+If He called for so weak or foolish a thing as the words _thou_ and _thee_ to a single person,
+instead of _you,_ nothing else of my substituting would do instead of it;
 for "`the foolishness of God is wiser than men.`"
 Let none dispute the ground with Omnipotence, nor confer with flesh and blood;
 lest therein, "`despising the day of small things,`" they "`fall by little and little.`"
@@ -652,6 +667,7 @@ For be assured, O you called of the Lord, you can never become His chosen,
 unless you obey His call, and come out of all He calls you from.
 If you are not "`faithful in the little,`" you will not be made "`ruler over much.`"
 
+[.blurb]
 === Faithful Waiting
 
 Perhaps few will believe the fulness of heavenly joy which sprang in my bosom,
@@ -718,6 +734,7 @@ I began to know and in degree to love the rod, and Him who had appointed it;
 and as the Master manifested Himself more and more,
 I understood more and more of the mysterious ways of His working.
 
+[.blurb]
 === All Sunshine--Not for the Best
 
 After some time I had many clear openings respecting the many trials, experiences,
@@ -735,6 +752,7 @@ I not clearly understanding the counsel of His divine will,
 was apt to wish it for my constant condition; not then seeing, as I have since seen,
 that it was far from being best for me to enjoy a constancy of sunshine and fair weather.
 
+[.blurb]
 === The Outward Creation--a Picture of the Christian Walk
 
 Even the outward order and economy of divine Providence afford instruction,
@@ -800,9 +818,9 @@ Whatever He absolutely determines, He is therein immutable.
 He is a God of truth and He cannot lie.
 His promises are all yes and amen, forever.
 And though He exercise the souls of His chosen with various and afflictive dispensations,
-yes, even choose them in the furnace of affliction,
+yes, even _choose_ them in the furnace of affliction,
 yet His love to them can no more fail, than day and night can cease,
-or His covenant with them be disannulled.
+or _His_ covenant with them be disannulled.
 He never said unto the seed of Jacob, "`seek my face in vain.`"
 No verily; the language of His compassionate regard, on the contrary,
 is "`Fear not worm Jacob, I will never leave you nor forsake you:
@@ -813,6 +831,7 @@ and leaves His children,
 and then again returns gloriously for their unspeakable consolation,
 as is the succession of darkness and light, cold and warm seasons, in the outward.
 
+[.blurb]
 === Afflictions Necessary
 
 Many and varied afflictions are necessary to our refinement.
@@ -842,11 +861,12 @@ and how joyful is the lifting up of His countenance after these seasons,
 upon the drooping mind, thus prepared for the comfortable returns thereof!
 It is like the return of clear shining after rain.
 
+[.blurb]
 === Humility
 
 Under the refining hand of God`'s power, whereby He thus humbled and abased my soul,
 I was given clearly to see the need I should have of this excellent qualification,
-humility, in my further progress in religious life.
+_humility,_ in my further progress in religious life.
 I saw pretty clearly, in the midst of my deepest depression,
 that if I should be favoured with unremitted tranquillity and divine enjoyment,
 I should be in danger of spiritual pride and exaltation.
@@ -890,6 +910,7 @@ and henceforth forever kept safe under His all-powerful protection;
 walking worthy of the same to the end of my days.
 Amen.
 
+[.blurb]
 === Comes Forth in the Ministry
 
 During a great part of the foregoing exercises, I had frequent openings,
@@ -954,6 +975,7 @@ in a very comfortable and soul-satisfying manner.
 At several times I had lively impressions to say a few words more, in public testimony;
 but still waited to be well assured.
 
+[.blurb]
 === Chewing the Cud--Dividing the Hoof
 
 The unspeakable consolation which I found, on my first uttering a few words,
@@ -963,7 +985,7 @@ and well proving it, both wet and dry,
 than in rushing forward in the first operations or openings.
 The beasts allowed in sacrifice, were to chew the cud and divide the hoof.
 Chewing the cud is a deliberate act: they chew and swallow, and chew and swallow again.
-The division of the hoof, being on the stepping member,
+The division of the hoof, being on the _stepping_ member,
 shows the danger of taking a single step in divine services,
 without a clear division of things, and the way cast up in the mind.
 As I thus waited for clearness, not being by once succeeding, encouraged to run too fast,
@@ -1001,6 +1023,7 @@ and covered my head in the day of battle.
 May I serve Him faithfully all the days of my stay here until I go hence,
 and be seen of men no more.
 
+[.blurb]
 === Keep the Faith
 
 At this time I kept a school for Friends`' children, in the town of Providence;
@@ -1019,7 +1042,7 @@ with fulness of light, and sheds abroad His love in our hearts,
 making us livingly to joy and rejoice in His presence,
 which was now graciously my happy experience; but,
 alas! when we have again and again to pass through the valley and shadow of death,
-it is not so easy to stand firm, keep the faith, and trust in God.
+it is not so easy to stand firm, _keep the faith,_ and trust in God.
 
 My exercised soul has had large experience of these heights and depths,
 and knows that nothing but divine power can uphold us in times of deep probation,
@@ -1038,6 +1061,7 @@ but none have ever rightly waited on the Lord in vain.
 Therefore trust in Him, O my soul, forever,
 for in the Lord Jehovah is everlasting strength.
 
+[.blurb]
 === God our Sanctuary
 
 In time of silence and retirement, in family devotion,
@@ -1072,9 +1096,10 @@ Oh! therefore, says my soul, that we may be vigilant,
 knowing that our adversary the devil, like a roaring lion, goes about continually,
 seeking whom he may devour.
 
+[.blurb]
 === The American War--Taxes
 
-+++[+++775]
++++[+++1775]
 On first-day, the 18th of 6th month,
 a paper was sent from our deputy-governor to the Friends of our meeting,
 requesting that such as had small arms would produce them at the courthouse next day,
@@ -1149,6 +1174,7 @@ and that what is contrary to faith and conviction is sin:
 therefore I chose rather to suffer in this world,
 than incur the displeasure of Him from whom comes all my consolation and blessings.
 
+[.blurb]
 === Nearer Unity--A Prayer
 
 This evening my heart was filled with the love of God,
@@ -1211,6 +1237,7 @@ And when their painful race is run, and they yield up the ghost, take them to Yo
 O Infinite Jehovah! with Abraham, Isaac, and Jacob, to join the general assembly,
 in celebrating Your ever worthy Name forever and forevermore.
 
+[.blurb]
 === Paper Money for War
 
 On the 18th of 5th month, 1776, I made a visit to my dear friend Jonathan Farnum,
@@ -1230,6 +1257,7 @@ I suppose his meaning was, that the money being made expressly for the support o
 to give it currency was at least remotely helping forward and promoting war,
 and in that sense assisting people to use the sword.
 
+[.blurb]
 === Worldly Mindedness--Scruples
 
 After this he said considerable by way of lamentation over
@@ -1301,6 +1329,7 @@ rejoicing that I had thus been favoured with such a sweetly encouraging opportun
 as it was truly to me, to press forward through all the crowds of opposition,
 and to hold fast the testimony of truth, without wavering, steadfastly to the end.
 
+[.blurb]
 === Pretenders
 
 We saw here +++[+++Richmond, N. H.]
@@ -1330,7 +1359,7 @@ to see well to the currency they are taking or passing;
 and not rest satisfied either to receive or circulate,
 under the specious pretence of Divine impulses or the motions of the Spirit,
 any kind of false, counterfeit coin; but carefully rejecting all such,
-keep close to that which comes out of the King`'s mint, and has His royal stamp upon it.
+keep close to _that_ which comes out of the King`'s mint, and has His royal stamp upon it.
 This will pass currency throughout all His dominions,
 and none need be ashamed to receive nor to pass it.
 
@@ -1346,6 +1375,7 @@ I am persuaded that a due observance thereof would contribute greatly
 to the brightness and prosperity of our religious society,
 and to the spreading and advancement of the kingdom of the Messiah.
 
+[.blurb]
 === Distress about Paper (War) Money
 
 Having for nearly a year declined taking the paper currency,
@@ -1368,6 +1398,7 @@ may be preserved faithful to Him in all His requirings,
 and out of that love of things here below, which alienates from the true love of,
 and Communion with Him.
 
+[.blurb]
 === True Charity--Backbiting
 
 My mind was impressed so deeply with a lively sense of the excellency and necessity
@@ -1392,6 +1423,7 @@ and a travail of soul is experienced for our own, and others`' preservation:
 and in this state, it is much more eligible to us to suffer with and for each other,
 than to indulge a whispering, tattling, tale-bearing disposition.
 
+[.blurb]
 === Blunder in Testimony
 
 +++[+++1777]
@@ -1406,6 +1438,7 @@ meanwhile beseeching God Almighty to preserve me, and all His true gospel minist
 in the right line of safety and divine qualification,
 which is in and with the opening of the Spirit, and with the understanding also.
 
+[.blurb]
 === First Supplication in Public--Idolatry.
 
 After a few words which I became concerned to express in our week-day meeting,
@@ -1443,52 +1476,53 @@ For truly, every offering which is not of God`'s immediate preparation in us,
 is idolatry, and not a whit more useful to men, or acceptable to God,
 than those idolatries among the Jews.
 
+[.blurb]
 === Waiting Patiently
 
-Waiting upon God, implies a time of patient looking for His coming,
-and waiting to know His will, and receive His orders.
+_Waiting upon God,_ implies a time of patient looking for His coming,
+and _waiting_ to know His will, and receive His orders.
 Willing and running,
-and hastily intruding upon Him with expression and utterance of our own, is not waiting.
+and hastily intruding upon Him with expression and utterance of our own, is _not waiting._
 "`I waited patiently,`" says David, "`upon the Lord.`"
 Here was patience, and holy expectation, not rushing hastily forward.
 And what was the consequence?
 Why, God heard his cry, and says David, "`He inclined unto me.`"
 Here was a real experience and real discernment of the Divine operation,
-increasing upon him as he waited patiently for it.
+increasing upon him as he _waited patiently for it._
 Well, he adds, "`He brought me up also out of a horrible pit, out of the miry clay,
 and set my feet upon a rock, and established my goings.`"
 Truly, "`the steps of a good man, are ordered of the Lord.`"
 For indeed, "`it is not in man that walks, to direct his steps.`"
 This was David`'s experience.
-For, as he did not make haste, did not run of himself, but waited, and that patiently,
-upon God, he found his course directed, his steps ordered, his goings established,
+For, as he _did not make haste,_ did not run of himself, but _waited,_ and that _patiently,_
+upon God, he found his course directed, his _steps_ ordered, his _goings established,_
 by the Lord Himself, and not by his own wisdom, strength, or creaturely fervency.
 
 Now let us attend to what David obtained further, and we shall find,
 that after getting thus established upon the eternal, unshaken rock,
 and not on the sandy foundation of creaturely devotion,
-he had "`a new song put into his mouth.`"
-Oh! the blessedness of waiting patiently upon the Lord for His coming and direction,
+he had "`__a new song__ put into his mouth.`"
+Oh! the blessedness of _waiting patiently_ upon the Lord for His coming and direction,
 be it longer or shorter that we have thus to wait.
-Had David grown weary of waiting, had his patience failed him, while his Lord tarried,
+Had David grown weary of _waiting,_ had his patience failed him, while his Lord tarried,
 he might readily have set himself to work, willed, run,
-and even have taken some old song into his mouth.
+and even have taken some _old song_ into his mouth.
 But this would all have been on the sandy foundation, not on the rock of ages.
 This would have been attempting to order his own steps, and establish his own goings,
 even though he might, in words, have asked God to do it.
-But as he chose rather to wait patiently the Lord`'s time, and until he evidently felt,
-and knew Him to incline unto him, he was favoured with a new song.
-Oh! this is vastly different from an old one,
+But as he chose rather to _wait patiently_ the Lord`'s time, and until he evidently felt,
+and knew Him to _incline unto him,_ he was favoured with a _new song._
+Oh! this is vastly different from an _old one,_
 which is only in the line of others`' experience, made ready to our hand.
-And why was it new?
-Because the Lord "`put it into his mouth,`" as he says expressly.
-He did not take it into his own mouth, as many now do, in the oldness of the letter,
-but waited till the God on whom he relied, put it into his mouth, in the newness of life.
+And why was it _new?_
+Because __the Lord "`put it into his mouth,`"__ as he says expressly.
+He did not _take_ it into his own mouth, as many now do, in the _oldness of the letter,_
+but waited till the God on whom he relied, put it into his mouth, in the _newness of life._
 Well, therefore, might he sing "`living praise to our God.`"
 
 He who runs into prayer, preaching, etc., before Christ, the Life,
-livingly moves him thereto, makes haste, and is not therein a true believer.
-Every true believer believes in, and waits for, the living coming in spirit,
+livingly moves him thereto, makes _haste,_ and is not therein a _true believer._
+Every true believer believes in, and waits for, the living _coming in spirit,_
 and qualifications of Christ, his life.
 It is Christ that lives and acts in him.
 
@@ -1534,6 +1568,7 @@ As I have good grounds to believe this was written in "`the good-will
 of him who dwelt in the bush,`" I feel easy to transcribe it here,
 and give it a place in these memoirs.
 
+[.blurb]
 === Oldness of Letter and Newness of Life
 
 +++[+++1777]
@@ -1569,7 +1604,7 @@ in the spirit, and not in the letter, whose praise is not of man, but of God.`"
 Oh! how have I mourned to see how men of all societies are resting in the letter, yes,
 in the "`oldness of the letter,`" therein doing and performing something or other,
 that they are too much trusting in,
-though they know little or nothing of the real newness of Life,
+though they know little or nothing of the real _newness of Life,_
 nor are acting and doing in the fresh spring thereof.
 And whatever any plain Friend, or zealous Baptist, or any other professor,
 may think of their state, because of their punctual observance,
@@ -1581,12 +1616,13 @@ neither the one nor the other, neither the most earnest attachment to,
 and performance of them, nor the most careful omission of, and fixed opposition to them,
 any of them,
 except only in the fresh spring and "`newness of
-life,`" is anything at all rightly in religion;
-but the new creature, and what is done by the new creature, and in and by the new life,
+life,`" _is anything at all rightly in religion;
+but the new creature,_ and what is done by the new creature, and in and by the _new life,_
 in the new and living faith,
 which is truly the "`faith of the operation of God,`" in and upon the soul,
-and not a mere belief, is all in all.
+and not a mere belief, is _all in all._
 
+[.blurb]
 === Formality--a Contrast
 
 Oh! the deadness and dryness of the works and obedience, the duties and devotions,
@@ -1611,6 +1647,7 @@ nor of scarcely anything more formal and lifeless, than that dull, unfeeling sil
 which too many of our society are satisfying themselves with, the year round,
 and from year to year.
 
+[.blurb]
 === The Life--That is the Thing
 
 Oh! it is the Life, the Life, that is the thing! and this is too little witnessed,
@@ -1643,7 +1680,7 @@ It is only in the fresh spring of divine life, and under its quickening influenc
 that any of our duties and obedience, finds full acceptance with God,
 or advances us in substantial knowledge and goodness.
 
-"`There is none,`" essentially, and in himself, "`good, but one; that is, God.`"
+"`There is none,`" essentially, and in himself, __"`good,__ but one; that is, God.`"
 All the good that others have, do, or can attain to,
 is only by communication and influence from Him, the source of all real goodness.
 He is the worker of all our good works in us.
@@ -1655,15 +1692,15 @@ for every good word, work, and service.
 They will not dare to run of themselves, without, or before,
 nor stay idly behind His leadings.
 By waiting for His help and putting forth, they will acknowledge,
-that He works all their works in them; and that they are really,
-and not only professionally, His workmanship, in all they know, act,
+that He works all their works __in them;__ and that they are __really,__
+and not only __professionally,__ His workmanship, in all they know, act,
 and experience in religion.
 And, at the same time, by a lively cooperation with Him in the work,
 and when He works in them, and therein by a diligent working out of their own salvation,
 through Him, and alone in and by His immediate help and influence,
 they will also acknowledge, that it is not merely unto an opinion, which they call faith,
 nor unto forms, ceremonies, and outward performances but strictly, truly, and livingly,
-"`unto good works,`" that He creates them anew in Christ Jesus.
+__"`unto good works,`"__ that He creates them anew in Christ Jesus.
 
 Here the "`twain are made one.`"
 Here "`the man is not without the woman: nor the woman without the man, in the Lord.`"
@@ -1676,6 +1713,7 @@ anything that can be done without his own cooperation;
 nor yet, that of himself, he can do any, the least thing, as of himself,
 towards his salvation.
 
+[.blurb]
 === Field of Labour Opened
 
 Having, some time before this, dismissed my school at Providence,
@@ -1723,6 +1761,7 @@ My soul has been bowed,
 self has been abased and through deep prostration I have been made to joy in the Lord,
 and rejoice in the salvation of my God and Saviour.
 
+[.blurb]
 === A Demand for Taxes
 
 About the latter end of the 6th month this year, an old acquaintance of mine,
@@ -1780,6 +1819,7 @@ These things I record in thankful acknowledgment,
 and commemoration of the Lord`'s gracious dealings with me,
 and for encouragement of others to a strict faithfulness to all His requirings.
 
+[.blurb]
 === War-taxes--a Faithful People to be Raised Up
 
 I may now express a little of what has lived in my mind, as a fixed belief, namely,
@@ -1820,7 +1860,7 @@ but very commonly to reason, argue, and dispute, and that too, as they think,
 very wisely, against the rising, spreading,
 and increase of the testimony and government of the Prince of Peace.
 
-They even seal the stone, and set a watch to prevent him from coming forth,
+They even seal the stone, and set a watch to prevent _him_ from coming forth,
 who is "`the resurrection and the life.`"
 Not professedly so.
 The Jews called Him a deceiver, a blasphemer.
@@ -1838,6 +1878,7 @@ and in whatever He opens to, and requires of them, whether in things new or old,
 and by which they are enabled to discern with clearness the signs of the times,
 in all His unfoldings and dispensations.
 
+[.blurb]
 === Danger of Stifling the Life
 
 If there is not a diligent waiting at wisdom`'s gate, and in the valley of humiliation,
@@ -1888,6 +1929,7 @@ which ever opposed the pure testimony of truth in
 those who were given up all to follow the Lamb,
 in all His leadings.
 
+[.blurb]
 === Antichrist and the Visited of the Lord--A Vision
 
 I have seen it in the light of Christ, that if there be not a diligent waiting for,
@@ -1934,6 +1976,7 @@ He will receive you into His glorious, church triumphant,
 there forever to join the shouts and hallelujahs of saints and angels
 in a glorious and unspeakable participation and fruition of perfect blessedness.
 
+[.blurb]
 === Flinching from Strict Plainness
 
 I have now freedom to commit to writing,
@@ -1965,6 +2008,7 @@ They glory to call Christ their Lord, but will not have Him to reign over them.
 They profess Him their leader but walk counter to the teachings of his Holy Spirit,
 as also to His blessed example, and excellent instructions.
 
+[.blurb]
 === Rank Phariseeism
 
 Far be it for me to wish any to make more of these things than they really are:
@@ -2000,14 +2044,15 @@ For, dry and lifeless as the latter are,
 they are generally very confident that they are the people.
 And Oh! that none of them may indulge an idea that wisdom will die with them.
 
+[.blurb]
 === Christ in the Pharisee`'s House
 
 There is much Divine instruction in the account of Jesus going into the house of a Pharisee,
 to eat food, when the woman washed His feet with her tears,
 and wiped them with the hairs of her head.
 It and seems she had been a sinner; and the regular, exact Pharisee,
-condemned both her and her Lord;--her, as a sinner,
-and because she was not so exact and outwardly circumspect as himself; and Him, because,
+condemned both her and her Lord;--__her,__ as a sinner,
+and because she was not so exact and outwardly circumspect as himself; and __Him,__ because,
 as he vainly thought, He did not know what she was.
 For, surely, thought he, in his whole, exact, and secure condition,
 if this man were a prophet, He would have known who, and what manner of woman this is,
@@ -2031,8 +2076,8 @@ He was so swallowed up in his outside holiness, that blindness prevailed upon hi
 He was not able to behold the beauty and humiliation of her contrited soul,
 and how unspeakably it excelled his dry, flat, and formal exactness,
 and lifeless devotion.
-Jesus, who knew their hearts, pointed out to him, what she had,
-and what he had not done to Him, since He came under his roof,
+Jesus, who knew their hearts, pointed out to him, what _she_ had,
+and what _he_ had not done to _Him,_ since He came under his roof,
 in terms sufficiently plain and striking to have convinced him,
 had he been open to Truth`'s holy instructions,
 and feelingly susceptible of its heart-enlivening influences,
@@ -2057,6 +2102,7 @@ and that Christ will accept and save them,
 because they profess to renounce all their own righteousness, and trust wholly in His,
 for salvation.
 
+[.blurb]
 === Salvation from Sin
 
 Oh fools!
@@ -2065,7 +2111,7 @@ further than their souls are sanctified and redeemed from the filth of sin.
 Sin remaining in any soul, in a greater or less degree,
 is an absolute separation of that soul from a state of reconciliation with God.
 He cannot possibly be reconciled to any degree of sin, nor to a soul in sin.
-Salvation is ever from sin, not merely from the imputation of it,
+Salvation is ever _from_ sin, not merely from the imputation of it,
 but from the very life and influence of it.
 
 Sin is in direct opposition to God.
@@ -2104,6 +2150,7 @@ He can never possibly change into a state of reconciliation with any soul,
 that remains in that actual filth, or sin, on account of which,
 he was ever unreconciled to Him.
 
+[.blurb]
 === Retirement
 
 This morning I waited on the Lord, in inward silent retirement and travail of soul,
@@ -2162,6 +2209,7 @@ The incomes of His love afford more true joy, than all earth`'s richest enjoymen
 "`A feast of fat things,
 of wines on the lees well refined,`" is the comfortable portion of His chosen.
 
+[.blurb]
 === Real Holiness Attainable- Abiding in the Furnace
 
 In these awful approaches,
@@ -2205,6 +2253,7 @@ at seasons bowed in reverent prostration before Emmanuel, God with us.
 The very windows of heaven seemed opened, and the fountains of the great deep broken up.
 The new song was put into my mouth! and I sang hallelujahs to the Lord God and the Lamb.
 
+[.blurb]
 === The Remorse of a Soldier
 
 +++[+++1778]
@@ -2232,7 +2281,7 @@ leads men to murder one another, by hundreds and thousands,
 for the sake of the mammon of this world.
 Oh! lamentable! lamentable!
 May their eyes be opened to see the unrighteousness of such conduct!
-The law allowed of war and fighting; but the gospel utterly forbids both.
+The law allowed of war and fighting; but the _gospel_ utterly forbids both.
 The super-excellency of the gospel dispensation above that of the law,
 was conspicuously displayed when Jesus taught the
 better way than of resisting force by force;
@@ -2248,6 +2297,7 @@ No, is not the whole drift of the New Testament against anything of the nature o
 revenge, and war?
 Can we, then, be Christians, and live in open rebellion against the laws of Christ?`"
 
+[.blurb]
 === Preaching for hire
 
 Truly, my very soul mourns,
@@ -2271,7 +2321,7 @@ And, alas! this sort of hirelings are very orderly in preaching to suit those wh
 I believe many young ministers, when they first begin,
 think they never will depart from the purity of the gospel;
 but "`the love of money`" being the "`root of all evil,`" we may be assured,
-that man whose ministry is supported by money, paid for preaching,
+_that man_ whose ministry is supported by money, paid for preaching,
 does better than one in a thousand if he be not corrupted.
 
 I have seen, I believe,
@@ -2293,10 +2343,11 @@ I saw the insufficiency of all human endeavours to worship or please Him,
 without the assistance of His Holy Spirit,
 to enable us first to know and then to do His will.
 
+[.blurb]
 === False Prophets
 
 Come, reader, consider a little.
-Did the true prophets steadily cry woe, against the false?
+Did the true prophets steadily cry _woe,_ against the false?
 Did the false abound through all former ages?
 Did they overrun the church in the time of Christ`'s appearance in that body?
 Did he most cunningly expose and condemn them?
@@ -2336,7 +2387,7 @@ that I have any knowledge of.
 
 I suppose some who think with me herein,
 would scarcely like to have it so bluntly declared in public.
-But I believe it must, and will be declared.
+But I believe it _must,_ and will be declared.
 God has determined the downfall of Babylon,
 and He will have a few faithful testimony-bearers against her.
 And though she may shift sides, change her dress, call herself the Lamb`'s wife,
@@ -2346,6 +2397,7 @@ and shall be seen by the single-eyed followers of the Lamb, the true leader,
 who together make war with the beast, and will finally overcome him:
 for the Lamb and His followers shall have the victory.
 
+[.blurb]
 === Our Strength Only in God
 
 Our state in this life is a state of probation.
@@ -2370,17 +2422,18 @@ and defeat the powers of darkness, or to turn from it, and be foiled and overcom
 When we stand, we know it is God alone upholds us: and when we fall,
 we feel that our fall or destruction is of ourselves.
 
-I am very clear in it, that at six and seven years of age, the inward principle,
+I am very clear in it, that at six and seven years of age, the _inward principle,_
 (which is the hand and power of God, livingly operative upon the soul), so wrought,
 and shone, and moved within me,
-as to give me a sure and distinguishing sense of right and wrong, good and evil,
+as to give me a sure and distinguishing sense of _right_ and _wrong,_ _good_ and _evil,_
 in several particulars; and in some things, altogether independent of human information.
 
 I have nothing to boast of in regard to the penetrations of my own mind.
 I am what I am; and it is the rejoicing of my Soul, that what I am,
-I am by the grace of God, in things of religious concernment, and not by human wisdom,
+I am by the _grace of God,_ in things of religious concernment, and not by human wisdom,
 or scholastic attainment.
 
+[.blurb]
 === God`'s Universal Love
 
 If God`'s love is such to men, that He follows them by the strivings of His own Spirit,
@@ -2398,13 +2451,13 @@ They did not know who, and what He was, and their insulting query,
 was just as natural to proceed from them in their dark and carnal state,
 as is the confidence with which thousands, high in profession of godliness,
 now utterly disallow the Holy Spirit that is given to all, to be the Holy Spirit.
-But this consolation have all wisdom`'s children, that "`wisdom is justified of them all;
+But this consolation have all wisdom`'s children, that "`wisdom is justified of them _all;_
 and that the unbelief of others can never make void their faith: they are taught of God,
 and great is their peace.`"
 
 In regard to my own early acquaintance with the Holy Spirit`'s operation,
 though I then knew not what it was,
-I have now no more doubt about it than I have about
+I have _now_ no more doubt about it than I have about
 the existence and omnipresence of God.
 It is sealed upon my heart, with as much clearness and certainty,
 that it is the Spirit of the living God, and that it visits, woos, invites,
@@ -2415,6 +2468,7 @@ or of his own religious duty, without the Holy Spirit`'s influence,
 as I believe the wisdom of this world is foolishness with God,
 and that the world by wisdom knows Him not.
 
+[.blurb]
 === Respect of Persons
 
 In conversation this evening,
@@ -2458,6 +2512,7 @@ and the deceitfulness of that spirit, which prompts to and pleads for it.
 Teach also, all your chosen, O blessed Father! and purify all our hearts to do,
 as well as to know Your blessed will.
 
+[.blurb]
 === Priestcraft and War
 
 In our Preparative Meeting this month, among other things, some labour was bestowed,
@@ -2475,8 +2530,8 @@ Indeed, it is his food and drink,
 to behold those who are professing to be Christ`'s disciples,
 kill and devour one another.
 
-For he knows that none are the disciples of Christ, but those who love one another,
-and that love one to another, is the greatest mark of being His disciples Consequently,
+For he knows that none are the disciples of Christ, but those _who love one another,_
+and that _love_ one to another, is the greatest mark of being His disciples Consequently,
 when this roving,
 devouring adversary can rule and reign in those who
 profess to enlist under Christ`'s banner:
@@ -2508,6 +2563,7 @@ and exalted above all that is called God, and that ought of right, to be worship
 and also to hasten or promote the coming of the peaceable kingdom of the Lord on earth,
 as it is in heaven.
 
+[.blurb]
 === Reformation Goes on by Degrees
 
 May the servants of the living God, of all denominations,
@@ -2531,8 +2587,8 @@ Those who are gone might have done all they were required to do in their day,
 and might not have come to the sight of some things
 that may be obligatory upon us at this day.
 The work of reformation goes on by degrees,
-and the diligence of past ages has by no means perfected the work,
-I am so as to leave nothing for this to move in.
+and the diligence of _past ages_ has by no means perfected the work,
+I am so as to leave nothing for _this_ to move in.
 I am persuaded, whether I live to see it or not, a day will come,
 when God will raise up a people, who, by faithfulness to His light,
 will be enabled in His power, to refuse the payment of such taxes.
@@ -2541,6 +2597,7 @@ may they not be discouraged.
 This testimony shall be yet glorious,
 and will be seen and owned to have arisen from the pure enlightenings of truth.
 
+[.blurb]
 === The Law and the Prophets.
 
 In one of our meetings, it opened upon my mind, that people in the first nature,
@@ -2583,8 +2640,9 @@ This was the song the angels at the very birth of Christ, the Prince of Peace,
 and must and will be the song or language of those
 in whose hearts He is allowed to rule and reign,
 exercising in full dominion the power by which He is the exalted Son of God; which,
-in plain words, is the power of love.
+in plain words, is the _power of love._
 
+[.blurb]
 === The Gospel Dispensation
 
 When this comes to be the case, with any soul,
@@ -2598,8 +2656,8 @@ dispensation from the prayer of the fighter,
 at best but under the law.
 The gospel prayer is not, "`O Lord, avenge us on our outward adversaries,
 and subdue our outward enemies,`" but "`Forgive us our trespasses
-as we forgive those that trespass against us.`"
-Observe well, the very foundation of asking forgiveness is, as we forgive.
+as __we forgive__ those that trespass against us.`"
+Observe well, the very foundation of asking forgiveness is, __as we forgive.__
 This is the gospel prayer.
 This is the prayer that Jesus taught.
 And yet many have the presumption to call themselves His ministers,
@@ -2608,16 +2666,16 @@ while at the same time they are wishing God to help
 them to overcome and destroy their fellow men.
 Oh! horrid presumption!
 Will they presume to approach the Lord Almighty with invocation
-to Him to destroy those that trespass against them,
+to Him to _destroy_ those that _trespass against them,_
 and yet not blush at their own hypocrisy and formality when they talk about and cry out,
 "`Forgive us as we forgive those that trespass against us.`"
 
 Hear, O heavens! and be astonished,
 O earth at the confusion and inconsistency of those who
 yet profess to be the followers of the Prince of Peace;
-even of Him who not only taught us to pray to be forgiven as we forgive, saying,
+even of Him who not only taught us to pray to be forgiven _as we forgive,_ saying,
 "`If you forgive men their trespasses,
-your heavenly Father will also for- give you;`" and
+your heavenly Father will also forgive you;`" and
 telling Peter to forgive "`not only till seven times,
 but until seventy times seven.`"
 I say He not only taught this doctrine, but exemplified it,
@@ -2636,6 +2694,7 @@ who are living in the spirit of revenge and war.
 Oh! when will their eyes be eyes be opened to see their inconsistency,
 and their hearts changed from wrath to love!
 
+[.blurb]
 === Neglecting the Lord`'s Visitations
 
 In the 10th month, being in town, I saw a person confined to a sick bed,
@@ -2672,6 +2731,7 @@ and learn early to number their days, and apply their hearts unto wisdom,
 that so their latter end may be peace,
 and their future state in another world joy unspeakable and full of glory.
 
+[.blurb]
 === Silent Waiting
 
 +++[+++1778]
@@ -2693,14 +2753,15 @@ Blessed be the God of Abraham, Isaac, and Jacob,
 that he has been pleased to teach my soul how and where to wait upon Him,
 and enjoy His holy presence while multitudes in this
 benighted world are groping in darkness,
-being directed by their hireling teachers to look without,
-for what they must find within.
+being directed by their hireling teachers to look _without,_
+for what they must find _within._
 Thus they are seeking the living among the dead.
 Oh! that the eyes of all may be opened,
 and their hearts rightly impressed with a sense that the
 inward reproofs of instruction are the way of Life,
 and that, to wait upon the Lord, is the way to renew a Christian`'s strength.
 
+[.blurb]
 === A Prayer
 
 O Lord my God! preserve me.
@@ -2715,6 +2776,7 @@ the "`bell and the pomegranate`": that so, the glory, honour,
 and renown may be feelingly and reverently ascribed unto You, forevermore.
 Amen, amen, says my soul.
 
+[.blurb]
 === A Chosen People Beheld in Vision
 
 At our Yearly Meeting this year, 1779, the subject of Friends paying taxes for war,
@@ -2750,6 +2812,7 @@ In vision I have beheld this chosen heritage of God.
 As the apple of His eye He will keep them, and watch over them,
 and water them as a garden enclosed.
 
+[.blurb]
 === Afflictions
 
 O afflicted soul, whoever you are?
@@ -2768,9 +2831,10 @@ And seeing afflictions are often the most substantial
 blessings to a true Christian traveller,
 let us in true resignation of heart, under each painful stroke,
 ascribe goodness to our God, and, in the pathetic language of Young,
-render Him the tribute of thanksgiving, and say, "`For all I bless You,
-most for the severe.`"
+render Him the tribute of thanksgiving, and say, "`For __all__ I bless You,
+most for the __severe.__`"
 
+[.blurb]
 === Dangerous Desire for Wealth
 
 +++[+++1781]
@@ -2798,17 +2862,17 @@ and happiness than is often experienced in the apartments of affluence,
 or in the walks of magnificence.
 What is all the glitter and show of high life in comparison of,
 
-"`What nothing earthly gives, nor can destroy, The soul`'s calm sunshine,
+__"`What nothing earthly gives, nor can destroy, The soul`'s calm sunshine,
 and the heartfelt joy.
-True virtue`'s prize.`"
+True virtue`'s prize.`"__
 
 Thousands are anxiously aiming to keep up an appearance, which, though far behind many,
 is yet above their real ability to support without injury to their circumstances; indeed,
 a little straining beyond our circumstances may embarrass us through life,
 keep us upon the toil, and discompose our minds, or at least absorb our attention,
 so as to embitter our lives, or prevent that true quiet,
-wherein we might dwell so inward and resigned as to acquaint ourselves with God,
-and be at peace.
+wherein we might dwell so inward and resigned as to __acquaint ourselves with God,
+and be at peace.__
 
 Moreover, it is too commonly the case, that even religious people, that is,
 such as have been really so for a season,
@@ -2847,6 +2911,7 @@ If you have this belief, see to it, and endeavour to deny yourself,
 and be satisfied with such things, and supplies of them,
 as your heavenly Father knows you have need of.
 
+[.blurb]
 === The Future Victory of Truth
 
 Not long after this, as I lay down to sleep, one night, about common bed time,
@@ -2864,6 +2929,7 @@ the same voice, which distinctly said, "`The truth shall gain the victory.
 It has gained a victory in time past; but the victory which it shall gain,
 shall be greater than the victory which it has already gained.`"
 
+[.blurb]
 === Obey Government
 
 +++[+++1781]
@@ -2878,10 +2944,11 @@ that against war, and that of submission to government;
 and not to admit of accounts of sufferings arising from scruples about the new government,
 if any such should arise.
 Seeing it is our testimony, and we believe truth leads to it,
-to obey actively or passively every government set over us; actively,
-where the things required of us affect not the jurisdiction of conscience; and passively,
+to obey actively or passively every government set over us; _actively,_
+where the things required of us affect not the jurisdiction of conscience; and _passively,_
 or by suffering, where the requisition invades that jurisdiction.
 
+[.blurb]
 === Imaginary Needs
 
 At our Quarterly Meeting, in the 7th month,
@@ -2900,6 +2967,7 @@ and yet how many make themselves slaves,
 or at least greatly lessen or prevent their own comfort in life,
 by giving way to the influence of improper desires and imaginary needs.
 
+[.blurb]
 === Self Importance and a Counterfeit
 
 At the Quarterly Meeting in the 10th month I was bowed under a
@@ -2940,109 +3008,82 @@ and by no means take up with a counterfeit appearance in His absence,
 lest the sad mistake be too late discovered,
 and loss and disappointment be the dreadful consequence of the awful deception.
 
+[.blurb]
 === Perfect Freedom from Sin
 
 Oh! that I may be preserved pressing forward of with full purpose
 of heart towards a state of perfect freedom from sin.
 I know well that no one sin can be mortified and overcome, but through Divine assistance;
 but as certainly as the power of God upon us can, or ever does,
-enable us to overcome any one evil:
-so certainly it is able to assist us to the complete overcoming of all;
+enable us to overcome _any one evil:_
+so certainly it is able to assist us to the complete overcoming of _all;_
 and we may rely upon it, He will redeem us from all iniquity,
 unless the stubbornness of our wills prevent.
-If Jerusalem`'s children had given up their own wills, Christ would have gathered them.
-According to His own testimony he would, but they would not.
+If Jerusalem`'s children had given up their own _wills,_ Christ would have gathered them.
+According to His own testimony _he would,_ but _they would not._
 
+[.blurb]
 === Quietness as a canopy covers my mind.
 
+[verse]
+____
 Great God, Your Name be blest!
-
 Your goodness be ador`'d!
-
 My soul has been distress`'d,
-
 But Thou have peace restor`'d.
 
 A thankful heart I feel,
-
 In peace my mind is stayed,
-
 Balsamic ointments heal,
-
 The wounds by sorrow made.
 
 Though elements contend,
-
 Though wind and waters rage,
-
 I`'ve an unshaken Friend,
-
 Who does my grief assuage.
 
 Though storms without arise,
-
 Emblems of those within,
-
 On Christ my soul relies,
-
 The sacrifice for sin.
 
 Though inward storms prevail,
-
 Afflicting to endure,
-
 I`'ve help that cannot fail,
-
 In Him that`'s ever sure.
 
 Though outward war and strife,
-
 Prevail from sea to sea,
-
 I`'ve peace in inward life,
-
 And that`'s enough for me.
 
 Though clamour rear its head,
-
 And stalk from shore to shore,
-
 My food is angels`' bread,
-
 What can I covet more?
 
 Though ill reports abound,
-
 Suspicions and surmise,
-
 I find, and oft have found,
-
 In death true comfort lies:
 
 That death I mean, whereby
-
 Self-love and will are slain;
-
 For these the more they die,
-
 The more the Lamb does reign.
 
 And well assured I am,
-
 True peace is only known,
-
 Where He, the harmless Lamb,
-
 Has made the heart His throne.
 
 Then, then may tempests rage,
-
 Cannon may roar in vain
-
 The rock of every age,
-
 The Lamb, the Lamb does reign.
+____
 
+[.blurb]
 === The Love of Money
 
 I feel breathings of soul to be set at liberty from the bondage of earthly cares,
@@ -3057,9 +3098,11 @@ What desolation it has spread over the minds of many,
 whose state once resembled a well watered garden!
 How mournfully true the expressions of the poet:
 
+[verse]
+____
 By it, at fifty, oft have been undone,
-
 The virtues of a saint at twenty-one.
+____
 
 What coldness! what numbness, insensibility, and slackness of true religious engagement,
 have gradually come over too many once serious, seeking, humble souls!
@@ -3080,6 +3123,7 @@ the people whom You have called out of Egyptian darkness will yet perish in the 
 and never enter into possession of the promised land, unless You, O most merciful,
 again make bare Your holy arm for our awakening and furtherance in the way of Life.
 
+[.blurb]
 === Family Worship in Silence
 
 I have been renewedly confirmed in the great advantage to families,
@@ -3135,6 +3179,7 @@ do yet truly ask it, and comfortably receive it.
 Wait on the Lord, O my soul! and oftener than the morning draw near unto Him,
 and feel after Him.
 
+[.blurb]
 === Unsanctified Ministry
 
 6th month, 9th. My mind has been much exercised on account of an unsanctified ministry,
@@ -3149,6 +3194,7 @@ in almost every little flash that they felt; and even endeavouring to stir up,
 and warm themselves and others, by the sparks of their own kindling.
 But the end of all this must be, to "`lie down in sorrow.`"
 
+[.blurb]
 === A Narrow Censorious Spirit
 
 At Acoakset, we found some members overrun with a false and fiery zeal:
@@ -3176,7 +3222,7 @@ and in every age will be, liable to get too much outward in their views,
 and lay too much stress on exteriors.
 How has water-baptism, bread and wine, etc., diverted thousands from the solid substance!
 All exterior things in a religious life may be overrated, and relied upon,
-till they become as the brazen serpent, Nehushtan, a mere piece of brass.
+till they become as the brazen serpent, _Nehushtan, a mere piece of brass._
 And I think, if one exact, uniform appearance in all things,
 ever takes place in our Society, and is thought necessary and insisted on,
 it will be when the form has eaten out the substance; or when, for lack of a real,
@@ -3231,6 +3277,7 @@ the sure and safe path of virtue, where a lively,
 active zeal is tempered with liberality of heart and sentiment,
 in the flowings of true charity.
 
+[.blurb]
 === Hardness
 
 We laboured in the Monthly Meetings as ability was afforded,
@@ -3250,6 +3297,7 @@ And though it cannot be expected all will think well of it, or rightly receive i
 yet as the labourers keep to truth`'s anointing, they will be carried through,
 and receive the reward of their faithfulness.
 
+[.blurb]
 === Nantucket
 
 Nantucket is a pretty orderly Monthly Meeting.
@@ -3285,6 +3333,7 @@ I hope a little remnant of living wrestlers will wrestle till the break of day,
 and so obtain the blessing.
 May these be preserved, and their number increase.
 
+[.blurb]
 === Too Much Preaching
 
 I fear we have too much preaching in the Quarterly Meeting.
@@ -3295,9 +3344,9 @@ and all the false likenesses thereof, kindled by the warmth of man`'s spirit; or
 as it were, brought from heaven by the false prophet, in the sight,
 and under the influence of the beast.
 Oh! that all who attempt to be mouth for the Highest, may dwell deep,
-and know a thorough ceasing from, and dying to all mere self-activity,
+and know a thorough ceasing from, and dying to all mere _self-activity,_
 and wait in the silence of all flesh, till He comes to rule and reign whose right it is,
-and whose words are spirit and life.
+and whose _words are spirit and life._
 
 And O my own soul! learn this sacred lesson;
 and presume not to speak in the Name of the Lord, without the word of His command.
@@ -3305,6 +3354,7 @@ Ever wait His opening, and His assistance, to give utterance.
 Then, and not till then, will your offerings be pleasant, and acceptable to the Lord,
 and substantially profitable to the people.
 
+[.blurb]
 === Continued Unfaithfulness
 
 In Sandwich Monthly Meeting my mind was impressed with a sense
@@ -3334,6 +3384,7 @@ against that cloud of lifeless ministry, which abounds in the nations, and is,
 indeed (without breach of charity,) "`a common eclipse
 between God and the souls of the people.`"
 
+[.blurb]
 === Activity in Discipline
 
 I got home to my dear wife and family, the 8th of the 7th month, and,
@@ -3347,6 +3398,7 @@ it has contributed much more to the right exercise of the discipline, than when,
 through a desire for its proper administration, I have, by over-acting,
 seemed to do a good deal for its execution.
 
+[.blurb]
 === Backsliding
 
 +++[+++1783]
@@ -3392,6 +3444,7 @@ above all that above the depressions occasioned by lifeless,
 chaffy kind of communication,
 my soul humbly rejoiced in the relief I obtained in these few favoured meetings.
 
+[.blurb]
 === Select Conferences
 
 A number of well-concerned Friends of this Monthly Meeting,
@@ -3416,6 +3469,7 @@ if rightly encouraged and attended, in the several Monthly Meetings; and,
 perhaps in some places, members from several Monthly Meetings,
 might usefully attend such conferences.
 
+[.blurb]
 === Divine Things Hid from the Wise
 
 Under the exercises, conflicts, and deep inward trials,
@@ -3431,7 +3485,7 @@ and bring to naught the understanding of the prudent.
 He has hid, and will hide divine things from the wise and prudent,
 and reveals them unto babes.
 
-The natural man not only does not, but cannot know them,
+The natural man not only _does not,_ but _cannot_ know them,
 because they are only "`spiritually discerned.`"
 To this purpose Christ spoke in parables,
 that such as had an eye inward to the divine light,
@@ -3453,7 +3507,7 @@ and yet remain in total darkness, as to the spiritual import, meaning,
 and mystery of many passages which they are strongly persuaded they understand rightly.
 
 Before this wisdom and creaturely comprehension the stumbling-block is,
-by God`'s determination and counsel, laid; on purpose laid,
+by God`'s determination and counsel, _laid;_ on purpose laid,
 that man ever may stumble and fall, and be snared and taken,
 so long as he goes this way to work to understand divine things;
 not that God determines any certain number of persons shall so stumble, and be snared,
@@ -3462,6 +3516,7 @@ for through all ages it is true, "`if any man thinks that he knows anything,
 he knows nothing yet as he ought to know.`"
 Even Paul declares, "`I know nothing by myself.`"
 
+[.blurb]
 === The Scriptures Sealed to Human Wisdom
 
 The Scriptures will ever remain, in great degree,
@@ -3512,6 +3567,7 @@ and main import of the passage remained entirely unseen and untouched by the spe
 and little or no instruction was conveyed to the hearers,
 all for lack of a spiritual discerning of the true intent and meaning of the Scriptures.
 
+[.blurb]
 === Painful Meetings
 
 Dined with my dear uncle Thomas Comstock, and rode to the Valley,
@@ -3537,9 +3593,11 @@ though I believe we felt truth and the seed of life under oppression;
 yet as we lay low with it, and were made willing to suffer with it,
 we were enabled to witness it to reign in dominion over all.
 
+[.offset]
 +++[+++In 1784 Job Scott set on a Journey under religious concern accompanied by Daniel Aldrich.
 The following notes record some of his exercise at Nine Partners, in New York State.]
 
+[.blurb]
 === Grovelling in Earth--The Babylonish Garment.
 
 Friends were advised to be no longer grasping after things unnecessary;
@@ -3599,6 +3657,7 @@ and to guard against thinking lightly of each other, or despising one another,
 because some do not exactly follow the others footsteps.
 I thought he handled the subject well and believe it was pertinent.
 
+[.blurb]
 === Agony of Spirit
 
 Rode about forty miles to Cloverick, where we attended their meeting next day.
@@ -3616,6 +3675,7 @@ My companion warned them against the love of money, and cares of this life;
 and earnestly desired them to lay up treasure in heaven,
 where neither moth nor rust can corrupt, nor thieves break through and steal.
 
+[.blurb]
 === No Excuse for an Irreligious Life.
 
 Had a meeting at White Creek.
@@ -3629,8 +3689,8 @@ though he made no profession, would meet with the same loss,
 as he that neglected it under a profession; that is, the loss of his soul`'s happiness.
 He also showed, that a mere simple belief that Christ died for us, would not save us;
 we must obey His inward motions; submit to a daily self-denial, and bearing of the cross;
-and allow Him to save us from, because He will not save us in our sins.
-I thought he was much favoured in vocal, while I was closed up in a silent testimony.
+and allow Him to save us _from,_ because He will not save us _in_ our sins.
+I thought he was much favoured in _vocal,_ while I was closed up in a _silent_ testimony.
 
 1st of 9th month.
 Rode to a meeting over the river at Saratoga.
@@ -3643,6 +3703,7 @@ that contained a valuable treasure; but I was not the keeper of the key;
 that He kept the key, who, and, on the contrary, when He shuts, none can open:
 so as He did when He opens, none can shut; not open, I had nothing for the people.
 
+[.blurb]
 === A Baptist Preacher Confounded
 
 After meeting, we went home with James Seal, he being a friend of my acquaintance,
@@ -3693,9 +3754,9 @@ without much satisfaction on either side.
 For, however sufficient Saul`'s armour might seem to encounter the vaunting Goliath with,
 yet it would not do for little David.
 But it was the sling and smooth stone that brought down the huge monster.
-But, mark well, even that must be under the direction,
-and "`in the name of the Lord,`" "`I come to You in the Name of the Lord,`" said David.
-And being thus qualified with that name, which ever is the strong tower of the righteous,
+But, mark well, even _that_ must be under the direction,
+and "`in the __name__ of the Lord,`" "`I come to You in the __Name of the Lord,__`" said David.
+And being thus qualified with that __name,__ which ever is the strong tower of the righteous,
 he knew he was safe.
 And though he used so simple a weapon as a sling and smooth stone,
 it was so divinely directed as to go to the right place, and do great execution.
@@ -3712,7 +3773,7 @@ But, however they may be despised, looked upon as fools,
 and threatened with having their flesh given as food to the beasts,
 and their carcasses to the fowls of the air,
 as they do faithfully reject all self-sufficient human ability,
-put entirely off Saul`'s armour, and wait till they can go forth in the Name of the Lord,
+put entirely off Saul`'s armour, and wait till they can go forth in the _Name_ of the Lord,
 although they have only a few plain, common words, smooth stones as it were,
 they are certain, yes, sure of victory, for none ever trusted in the Lord,
 and were confounded.
@@ -3723,6 +3784,7 @@ and not lean to our own understandings; but carefully bear in mind,
 that of ourselves we can do nothing; and that as it was with Jesus,
 so it should be with us, namely "`Mine hour is not yet come.`"
 
+[.blurb]
 === The Propensity to Idolatry in Worship
 
 +++[+++1784]
@@ -3765,6 +3827,7 @@ This I perceived took deep hold on the minds of some;
 although the most present appeared very hard to reach.
 However, it was to me a time of divine favour and satisfaction.
 
+[.blurb]
 === The Resurrection
 
 We were at Danby meeting, in Vermont.
@@ -3810,6 +3873,7 @@ Oh! that they may be effectually aroused, and awakened before it be too late.
 However, I believe there is a little, living remnant at Danby,
 who fear the Lord and strive to serve Him faithfully.
 
+[.blurb]
 === Sits Long in Travailing Silence
 
 We appointed a meeting at a place called Durham, about twenty miles northward of Danby,
@@ -3844,6 +3908,7 @@ which none knows but him that has received it.
 Now, as this is experienced, the soul comes to be indeed a prince, like Jacob,
 the wrestler, having power with God and man, and prevailing.
 
+[.blurb]
 === Spiritual Attendants Encircle Him
 
 We took our affectionate leave of our dear friends, and set forward for home,
@@ -3936,6 +4001,7 @@ Lord! never allow me to forget Your favours and divine communications,
 but as You have begun to clothe my mind with humility, be pleased more and more,
 to centre me deep into it, that I may wear it as a garment forever.
 
+[.blurb]
 === Veneration to the Instrument
 
 I verily believe some pay such a degree of veneration to the instrument,
@@ -3943,7 +4009,7 @@ as to rob Him without whom the instrument can do nothing rightly,
 of a part of the acknowledgment, and homage due to him.
 And if the poor instrument is not well grounded in humility,
 it may greatly injure him also.
-Though, indeed, I do verily believe that instrument,
+Though, indeed, I do verily believe _that_ instrument,
 who every time he offers anything in the ministry, waits in true silence,
 out of all self-activity, till Truth opens his way, and moves no further therein,
 than this is the case, will not, while thus exercised,
@@ -3967,6 +4033,7 @@ instructed me in self-abasement, and kept me as the apple of His eye, yes,
 and through deep sufferings, led me into the green pasture of life,
 and made my cup to overflow with the oil of gladness to my inexpressible joy and consolation.
 
+[.blurb]
 === Trials, Temptations
 
 About this time I had some trying exercises in the course of my practice of medicine;
@@ -4004,6 +4071,7 @@ but fill my soul with the overflowing of His love beyond all expression!
 Worthy forever to be waited for, worshipped, and obeyed, is the Lord, the God of Israel,
 the mighty Friend of the faithful.
 
+[.blurb]
 === Eternal Punishment
 
 I now come to mention a concern that had exercised my mind for some years,
@@ -4019,6 +4087,7 @@ with many pertinent passages of Scripture; which,
 being laid before our Meeting for Sufferings, was, after some amendments,
 approved and liberty granted by them to print it.
 
+[.blurb]
 === Clear Openings without Words
 
 It is sometimes wisely ordered,
@@ -4036,6 +4105,7 @@ who cannot be satisfied with a tinkling cymbal, or sounding brass,
 however pleasing to the itching ears of such, who, as Thomas Ellwood says, "`seldom try,
 beyond the outward ear, or outward eye.`"
 
+[.blurb]
 === Stepping Aside in the Ministry
 
 +++[+++1786]. Few friends live here +++[+++Newtown]. I thought, as I was speaking,
@@ -4046,12 +4116,13 @@ or better suit my subject to the states of the people, I stepped aside from the 
 and with a view to condescend to the people`'s condition,
 struck upon more familiar and more common matters,
 in illustrating Truth`'s gradual teachings; but, alas!
-I found it is truly not in man that walks to direct his own steps in this great work,
+I found it is truly _not in man that walks to direct his own steps_ in this great work,
 for instead of instructing the people, I soon dried up the spring of life I felt before;
 and I sat down in a degree of shame and confusion,
-being taught thereby to trust in the Lord with all my heart,
-and lean not to my own understanding.
+being taught thereby to _trust in the Lord with all my heart,
+and lean not_ to my own understanding.
 
+[.blurb]
 === Much Parade and Cookery
 
 For so much parade and cookery as we perceived at some Friends`' houses,
@@ -4065,13 +4136,14 @@ no Crown.`"
 +++[+++At Plainfield]
 My mouth was opened in an alarming testimony among them in the meeting for worship,
 and Joseph`'s in solemn supplication,
-that the last days of such as had long been gathering rust, might,
+that the _last days_ of such as had long been gathering rust, might,
 by the fire and the hammer, be their best days.
 
+[.blurb]
 === Turning Back to Egypt
 
 We had a meeting at Alloways-Creek.
-The state of such as thought themselves rich and increased in goods, etc.,
+The state of such as thought themselves rich _and increased_ in goods, etc.,
 and yet had too much neglected to buy "`gold tried
 in the fire,`" that they might be rich,
 and "`white raiment,`" that they might be clothed, sprang fresh in my mind,
@@ -4091,7 +4163,7 @@ very soon set down at ease, in one form or another.
 
 But as they neglected and departed from the power,
 the Lord of life departed from them and from their forms,
-as set forth in William Penn`'s Rise and Progress of the People called Quakers,
+as set forth in William Penn`'s [.book-title]#Rise and Progress of the People called Quakers#,
 and several sketches in the writings of Isaac Penington.
 These things opening with weight and clearness on my mind: and sensibly believing,
 that the Almighty would as much reject us and our plain form,
@@ -4105,6 +4177,7 @@ and their number increased.
 This meeting, though very painful and dull in the forepart,
 was comfortably refreshing in the conclusion.
 
+[.blurb]
 === Missing the Crown of Gold
 
 Attended the Quarterly Meeting, going into it under great weakness and want;
@@ -4139,6 +4212,7 @@ for I do believe the Lord is arising to shake terribly the earth,
 and that multitudes will be brought to the inward knowledge of this glorious truth,
 "`Christ in you, the hope of glory.`"
 
+[.blurb]
 === Decently and in Order
 
 Attended the youth`'s meeting here, a pretty favoured time on the whole.
@@ -4158,8 +4232,9 @@ and warmth of desire for the good and advancement of the hearers,
 meetings are sometimes hurt by un- profitable additions, and the savour,
 under which they might have concluded, in some degree taken off.
 Our God is a God of order; and if we keep to His leadings,
-all things will be done decently and in order.
+__all things will be done decently and in order.__
 
+[.blurb]
 === A Tendering among the Youth
 
 We had a meeting at Makefield, where, after deep exercise,
@@ -4186,6 +4261,7 @@ trusted in, worshipped, and obeyed, and that by the whole house of Israel, can m
 in feeling thankfulness and awful sensibility, at this time testify and declare!
 Amen.
 
+[.blurb]
 === Rejects Beautiful Openings
 
 I sat long in silence; many presentations attended my mind,
@@ -4228,7 +4304,7 @@ fail, nor forsake you.
 For though I seem to tarry long, I will come;
 and will not tarry longer than shall be for your good, and the good of my people.
 And when I do come, my reward is with me, and my work before me;
-and I will set your work in order before you, and enable you to perform it,
+and I will set your work in order before _you,_ and enable you to perform it,
 even to your own admiration, in far other,
 and more satisfactory manner than all your own faculties
 and highest flights of imagination can ever attain to.
@@ -4238,6 +4314,7 @@ But when I shut, neither you nor any else can ever open.
 I will be unto you mouth and wisdom, tongue and utterance.
 Be faithful unto death, and I will give you a crown of life.`"
 
+[.blurb]
 === Fulness of Divine Sufficiency
 
 We went to Mount Holly, and attended a meeting that had been appointed there for me.
@@ -4252,11 +4329,11 @@ However, I had to see that things were much out of order at this place,
 and was divinely enabled to point out and speak to several conditions,
 believing spiritual blindness had, at least in part,
 overtaken some who had once seen clearer; some were lame, were halting,
-some I thought were greatly withered, and some I thought resembled the dry bones,
+some I thought were greatly withered, and some I thought resembled the __dry bones,__
 concerning which it was queried, "`can these dry bones live?`"
 To all these states I had to speak a word of reproof, of lamentation,
 and also of encouragement yet to hope, to wait for and seek after strength,
-and therein to arise and press forward: for even the dry bones did live.
+and therein to arise and press forward: for even the _dry bones_ did _live._
 But above all,
 the animating word of persuasion and encouragement flowed powerfully to the tender youth,
 like a river of living water through my soul to them!
@@ -4268,10 +4345,11 @@ and to their daughter, with her husband and children.
 The widow was in a meek, humble, loving frame of mind.
 I think the Lord is with her, and believe He will be with her.
 
+[.blurb]
 === A Call to Weeping
 
 We had a meeting at Vincent Town, and, after long silence,
-I had to weep a little as between the porch and the altar,
+I had to _weep a little as between the porch and the altar,_
 and called those met with us to do the like,
 for I feared the heritage would be given to reproach, the heathen rule over them,
 and say among the people, where is their God.
@@ -4282,6 +4360,7 @@ so crossed the Delaware to Bristol,
 and home with my dear ancient friend James Moon who
 had been so kind as thus far to accompany me.
 
+[.blurb]
 === The Inward Temple Filled
 
 +++[+++1786. Yearly meeting at Philadelphia.]
@@ -4306,6 +4385,7 @@ This was extensively an alarming day,
 and I hope some of them will profitably take the alarm.
 My soul had great peace: blessed be the holy Helper.
 
+[.blurb]
 === Empty and Blind
 
 I attended the youth`'s general meeting at Byberry, and suffered still in silence,
@@ -4326,6 +4406,7 @@ being fully satisfied all would work for good, I was made willing to be as poor,
 and blind, as the Lord would have me to be, and all centred in this: "`Not my will,
 but Yours be done.`"
 
+[.blurb]
 === Silent in Eleven Meetings
 
 Had meeting at Pottsgrove, +++[+++Philadelphia], wherein truth rose into dominion,
@@ -4359,6 +4440,7 @@ and also the other state of affliction and probation.
 Blessed be the Lord for all His fatherly dispensations,
 however disagreeable to my own inclinations.
 
+[.blurb]
 === The Work Marred on the Wheel
 
 I was now renewedly made sensible what is meant by His leading
@@ -4366,7 +4448,7 @@ I was now renewedly made sensible what is meant by His leading
 "`Who is so blind as the Lord`'s servants, and the messengers whom He sends?`"
 I also see it necessary to be so: for till we arrive to this state,
 we are in danger of carving for ourselves, and robbing God of His glory,
-who is never in his proper dominion in us, until He becomes our all in all:
+who is never in his proper dominion in us, until He becomes our _all in all:_
 and our whole trust and dependance is on Him alone,
 without leaning to our own understandings.
 
@@ -4420,6 +4502,7 @@ be pleased to open my eyes to see it; and enable me this day,
 and all the days of my life, so to conduct and demean myself before You,
 as that I may witness Your approbation, and feel Your divine favour.
 
+[.blurb]
 === The Dependent State
 
 I went to the Monthly Meeting at Horsham, and after viewing the camp a while in silence,
@@ -4461,7 +4544,8 @@ through their busy attempts to promote it;
 and yet perhaps they may be pretending to wait for,
 and giving out that they feel much divine influence.
 
-=== The S of the Serpent
+[.blurb]
+=== The Subtlety of the Serpent
 
 Oh! the subtlety of the serpent, especially in his resemblance of an angel of light!
 Many has he caught, beguiled, and ruined.
@@ -4474,7 +4558,7 @@ Hereby the innocent, precious life in them becomes wounded,
 and the true simplicity betrayed,
 for "`the adulteress will hunt,`" even "`for the precious life,`" as the wise man testifies.
 And I believe the truly wise in heart, not in earthly wisdom, but heavenly,
-do really find it so; for the Life is the very thing the adversary strikes at,
+do really find it so; for the _Life_ is the very thing the adversary strikes at,
 and if he can keep us from the sensible feelings
 and openings thereof in our religious engagements,
 he cares not how active we are without it, and how much we pretend to it,
@@ -4484,6 +4568,7 @@ Oh! where will many appear at last, after all the cry of "`Lord, Lord,
 have not we prophesied in Your name, and in Your name cast out devils,
 and done many wonderful or mighty works?`"
 
+[.blurb]
 === The Narrow Path and a Dangerous Delusion
 
 This is a subject that greatly engages my attention,
@@ -4493,8 +4578,8 @@ But when things open in the light, give up to the heavenly vision,
 and confer not with flesh and blood.
 The path, though narrow, may yet be travelled in.
 It is a way wherein all the true wayfaring men, though fools, may walk and not err:
-but then they must carefully attend to the way-marks, as the light, and that only,
-makes them manifest; keeping a single eye thereto,
+but then they must carefully attend to the _way-marks,_ as the _light,_ and that _only,_
+makes them manifest; keeping a _single eye_ thereto,
 never once beginning to think of taking less heed to it, or that now,
 after much experience, they can do pretty well with less clearness,
 and less bright shining thereof, than heretofore.
@@ -4502,12 +4587,13 @@ For, alas! this is a mistake and dangerous delusion,
 and he that continues to give way to it, will soon walk in darkness,
 not knowing where he goes; his feet will stumble in the dark,
 until he falls into the bottomless pit, with the beast and false prophet.
-But you, whose eye is kept carefully single and attentive to the light,
+But you, whose eye is kept carefully single and attentive to the _light,_
 shall witness your whole body to be full of light, and shall journey forward safely,
 until you arrive at that city that needs not the light of the sun nor the moon,
 for the Lord God does lighten it, and the Lamb is the light thereof.
 Amen.
 
+[.blurb]
 === The Pure Testimony Exalted
 
 In the forenoon I attended Market Street meeting,
@@ -4515,8 +4601,8 @@ and soon feeling a very weighty concern resting on my spirit,
 I stood up in the fresh openings of life; and began to express what I had in commission;
 but keeping carefully to the divine guide, I soon felt all to be shut up again,
 whereupon I immediately sat down,
-rejoicing that I was preserved from proclaiming without life,
-what just before was opened in the life: so I sat quite easy,
+rejoicing that I was preserved from proclaiming _without life,_
+what just before was opened _in the life:_ so I sat quite easy,
 being delivered from the great weight and exercise which I had felt,
 until towards the end of the meeting,
 and after another friend had well declared the truth among us;
@@ -4527,7 +4613,7 @@ in a vain and ever fruitless attempt to investigate the unsearchable mysteries o
 and to comprehend incomprehensibility.
 
 I left this meeting in true joy of heart, and rejoiced in the Lord my gracious preserver,
-who is learning me to depend on and attend to his shuttings as well as his openings:
+who is learning me to depend on and attend to his _shuttings_ as well as his _openings:_
 and this is the only way of safety.
 In the afternoon I went to the Bank meeting, and had good open service,
 and though in a short, I hope comfortable testimony to a living remnant present.
@@ -4541,6 +4627,7 @@ Oh! the great injury done to the cause of Truth by offering unripe fruits.
 My soul is grieved, and mourns over individuals, who might be useful in the church,
 if self was fully slain, and never allowed to rise again into activity.
 
+[.blurb]
 === Chewing the Cud, and Dividing the Hoof
 
 I went to the select Quarterly meeting at Abington,
@@ -4550,13 +4637,13 @@ antitype of chewing the cud and dividing the hoof.
 For nothing is fit for sacrifice to the Lord, that is contrary to this pattern.
 And without great care, things may be offered in solemn sacrifice, which,
 instead of being a sweet savour, may stink in His nostrils;
-things may be handed forth in a very undivided state, in the mixture,
-light not divided from darkness.
-Oh! it is a great thing, rightly to divide the word.
+things may be handed forth in a very _undivided_ state, in the mixture,
+light not _divided_ from darkness.
+Oh! it is a great thing, rightly to _divide_ the word.
 And for lack of waiting for that which enables to do it,
 there are many unskilful offerers, and unsanctified offerings;
 like the unclean beasts under the law, which were not fit for sacrifice,
-as lacking the divided hoof, and the chewing of the cud.
+as lacking the _divided_ hoof, and the chewing of the cud.
 
 Oh! this significant chewing of the cud,
 how apt it is in representation of that turning of the fleece,
@@ -4572,6 +4659,7 @@ and divided, offerings are sometimes made of that which was would die of itself:
 and this is utterly forbidden, and unfit for sacrifice,
 as being both a stink in the Lord`'s nostrils, and unwholesome food for the people.
 
+[.blurb]
 === Lifeless Zeal
 
 I was at Wilmington monthly Meeting and quite silent through the whole thereof;
@@ -4588,6 +4676,7 @@ is very well.
 But my spirit was distressed with their lack of divine warmth,
 and also with their fulness of false zeal.
 
+[.blurb]
 === Antichrist in the Temple
 
 Here +++[+++at London Grove]
@@ -4614,6 +4703,7 @@ Oh! that these Babel-builders would see the confusion
 of language which abounds among them,
 however well connected their words and sentences may be in the letter.
 
+[.blurb]
 === The Way Hedged up--Fasting
 
 I was still shut up in their meeting for worship.
@@ -4638,15 +4728,15 @@ tasting and hunger are painful to nature:
 but shall I follow You for the sake of the loaves?
 or will it do to leave You in times of emptiness and abasement?
 
-1 now remember reading of the long fasting of Your beloved Ston,
+I now remember reading of the long fasting of Your beloved Son,
 and that at length he hungered.
 Oh! then came the tempter, but he was defeated; for he found nothing in that holy Lamb,
 the Son of Your bosom, that would receive any of his baits.
-O my soul, may he find nothing in you!
+O my soul, may he find _nothing in you!_
 You have often declared to others that the way of heaven is through
 tribulation and sufferings! and now when they are come upon you,
 see to it, that you keep the word of God`'s patience; let patience have its perfect work,
-lest the end of the Lord`'s thus proving you be frustrated;
+lest _the end of the Lord`'s thus_ proving you be frustrated;
 for if all Satan`'s assaults be rightly resisted, and nothing of his offered food eaten,
 you may find yet relief and consolation.
 And though it is now very distressing to drink your Saviour`'s cup,
@@ -4654,6 +4744,7 @@ and be baptized with his baptism into suffering,
 yet it must be endured or you can never sit with Him in his kingdom;
 He has set you an example that you should follow His steps.
 
+[.blurb]
 === Perfect Through Suffering
 
 And as it pleased God, in bringing many sons unto glory,
@@ -4734,15 +4825,15 @@ I read it plainly in the law.
 I read it plainer in the gospel.
 And I read the beginnings, and a good progression thereof,
 plainest of all in the inward experience of my own exercised soul, In natural things,
-the wheat must fall into the earth and die, or it will never bring forth fruit.
+the wheat must fall into the earth and _die,_ or it will never bring forth fruit.
 In the law, without blood there was no remission.
 Death was, even in the figure, necessary in order to atonement for sin.
 The firstling of the flock, was then called for.
-The very life of the firstling was taken away, as typical of our sinful life,
-in the first nature; for, as says the Apostle, "`that was not first which is spiritual,
+The very _life_ of the firstling was taken away, as typical of our sinful life,
+in the _first_ nature; for, as says the Apostle, "`that was not first which is spiritual,
 but that which is natural; and afterward that which is spiritual.`"
-Moreover the burnt offerings, sacrifices made by fire, as a sweet savour to the Lord,
-how clearly they point out the Lord`'s refining furnace, and His powerful burnings in us,
+Moreover the burnt offerings, sacrifices made by _fire,_ as a sweet savour to the Lord,
+how clearly they point out the Lord`'s refining furnace, and His powerful _burnings_ in us,
 as an oven, against all pride, and all in us that does wickedly, in any way or degree!
 
 In the gospel dispensation, this doctrine shines forth with divine brightness,
@@ -4752,8 +4843,8 @@ and in the plentiful testimony in the New Testament
 that what remains behind of His sufferings,
 must be filled up in His body, the Church; that if we die with Him, we shall live;
 if we suffer with Him, we shall reign with Him; if we save our life, we shall lose it;
-if we lose it for His sake we shall find it: in that Paul died daily,
-and desired to know nothing, but Jesus Christ, and him crucified;
+if we lose it for His sake we shall find it: in that Paul _died daily,_
+and desired to _know nothing, but Jesus Christ,_ and _him crucified;_
 and to know his old man crucified, with all the affections and lusts.
 And abundance more might be mentioned,; much of which,
 I perhaps should never have understood,
@@ -4769,6 +4860,7 @@ yet shall he live: and will live, reign, and triumph with Him, over death, hell,
 and the grave, forever.
 Amen.
 
+[.blurb]
 === Silent in Meetings for 20 Days
 
 Here +++[+++New Garden]
@@ -4797,7 +4889,7 @@ There is not more difference between midnight darkness,
 and the bright shining of the meridian sun,
 than between the state of mind in some of these late meetings,
 and my present enlargement and illumination.
-Before all was so shut up, that none could open: but now all seems to be so open,
+_Before_ all was so shut up, that none could open: but now all seems to be so open,
 as that no man can shut.
 Glory, honour, and praise, to Him who leads me in the path of this blessed experience.
 I can now bless His holy hand, both in His shutting and in His opening,
@@ -4810,6 +4902,7 @@ and in whom are hid all the treasures of wisdom and knowledge,
 even so shut up and hid in Him, that we can never have, or know them,
 but only as He opens them to us.
 
+[.blurb]
 === Ineffable Communion
 
 We were at Wilmington, where I had been, and suffered in silence, some time past.
@@ -4822,7 +4915,7 @@ without whom we are altogether helpless and cannot move to profit.
 Oh! how comfortable! how unspeakably comforting it is to our souls,
 when we are admitted within the veil,
 and swallowed up in the luminous presence of our God!
-This is truly "`joy unspeakable and full of glory;`" a blessed
+This is truly __"`joy unspeakable and full of glory;`"__ a blessed
 and ineffable communion! a transporting earnest,
 or foretaste of the joys to come.
 Oh! that all mankind would believe in and press after these divine enjoyments,
@@ -4835,6 +4928,7 @@ and their souls would be established in a blessed confirmation, as on the Rock o
 and anchored in a living trust and confidence in God,
 and a lively hope of everlasting life.
 
+[.blurb]
 === No True Gospel Ministry without Inspiration
 
 At this meeting I had to bear testimony to the continuation of divine inspiration,
@@ -4868,6 +4962,7 @@ Oh! it is good to keep close to the divine opening, and to be or do nothing with
 nor yet afraid to move in it, and declare faithfully what is opened,
 and commission given to utter, leaving the service and event to the Lord.
 
+[.blurb]
 === Better Days to Come
 
 We were at Chester Monthly Meeting, held at Providence, where,
@@ -4881,7 +4976,8 @@ a sifting time spoken of; better days or more reformed to succeed:
 and a more general spreading of the truth among the nations, to the effecting in time,
 a cessation of wars, and the down- fall of priestcraft.
 
-=== Move Only in the Clearness-- A Caution
+[.blurb]
+=== Move Only in the Clearness--A Caution
 
 Now, though this was a high day indeed,
 and God`'s holy help and presence eminently enjoyed, yet I feel most easy to mention,
@@ -4921,6 +5017,7 @@ But if you are always careful to wait for a right commission,
 and never to move without it, you will never thus err from the right way,
 but will surely be preserved.
 
+[.blurb]
 === Eminent Aboundings
 
 We had a good meeting at Newtown, where I had been before in silence.
@@ -4956,6 +5053,7 @@ as being an efficacious, feeling, baptizing ministry;
 all these doctrines have been very clearly opened in truth`'s only saving baptism;
 the pure authority.
 
+[.blurb]
 === Great Deviations and Entanglements among the Called
 
 Great is the deviation from true christian humility, inward watchfulness,
@@ -4986,6 +5084,7 @@ many of those who have gone before them.
 O Lord!
 I pray You, hold them in Your holy hand.
 
+[.blurb]
 === Bitterness of Soul
 
 After I got home from Pennsylvania,
@@ -5008,6 +5107,7 @@ was graciously pleased, (having thus reduced my soul, for the present at least,
 to perfect resignation,) to lift up the light of His countenance upon me,
 in a marvellous and heart-conforting manner.
 
+[.blurb]
 === Fresh Call to Service
 
 +++[+++1788]
@@ -5080,6 +5180,7 @@ to be entered into in His own due season.
 I said, "`Good is Your will, O Lord! dispose of me, Your unworthy servant,
 as You please.`"
 
+[.blurb]
 === Loses Sense of the Call
 
 And having obtained a certificate of the concurrence of the Monthly Meeting,
@@ -5129,6 +5230,7 @@ and His seeming desertion to be for my further qualification.
 I kissed the rod, and adored Him who had appointed it,
 and thus patiently waited His further direction.
 
+[.blurb]
 === Unreserved Submission
 
 Alas! alas!
@@ -5178,8 +5280,10 @@ to bear Your testimony through all nations, if Your will be so;
 and to seal it with my blood in any part of Your inhabited earth that You shall order.
 Amen, amen, says the soul of Your poor unworthy and unprofitable servant.
 
+[.signed-section-signature]
 Job Scott.
 
+[.blurb]
 === Preservation of the Ministry
 
 +++[+++Philadelphia, 1789]
@@ -5189,7 +5293,7 @@ that the ministry might be preserved on its right foundation;
 that none might feel any degree of an independent sufficiency for that work and service,
 nor give way to any creaturely activity therein, nor attempt to add to,
 adorn or embellish, what Truth might open; but that all might keep to the opening,
-in the strictest simplicity; for that the smooth stone out of the running stream,
+in the strictest simplicity; for that the _smooth_ stone out of the _running_ stream,
 will not fail to do the necessary execution;
 when all the seemingly mighty armour of Saul will fail.
 Oh! the travail and depth of engagement, which I felt!
@@ -5219,9 +5323,10 @@ And this will remain to be the way to witness the greatest degrees of divine hel
 for the Lord will not fail His truly dependent children, His poor in spirit,
 His helpless babes whose cry is to, and whose dependence is wholly on Him for help.
 
+[.blurb]
 === The Total Loss of All Things
 
-But alas! the lack of this total loss of all things of our own,
+But alas! the lack of this _total loss of all things_ of our own,
 often greatly hurts our religious meetings; mars their beauty;
 prevents the overshadowing of the cherubim of glory: and instead thereof,
 brings forth a mixture, a Babylonish confusion of languages, a linsey-woolsey garment.
@@ -5269,6 +5374,7 @@ the last being eminently owned by the overshadowing of divine life,
 in the power and demonstration whereof, the everlasting gospel was preached among them;
 may it fasten "`as a nail in a sure place.`"
 
+[.blurb]
 === Ministers Shut up--Undue Expectations
 
 I believe there may be various causes why the Lord`'s messengers are sometimes shut up,
@@ -5338,6 +5444,7 @@ hay, or stubble, or anything else, but what and as the Lord shall direct and abi
 Then will their building stand sure, through all storms and tempests;
 nor shall the very gates of hell prevail against it.
 
+[.blurb]
 === An Appearance of the Glory
 
 This night, as I lay awake in bed,
@@ -5381,7 +5488,7 @@ My heart was lifted up in songs of praise for the wonders of His love to me-ward
 and I had to contemplate and adore the unmerited kindness
 and goodness of His gracious dealings with me;
 I could say He had plucked my feet out of the mire and clay, and set them upon a rock;
-in good degree established my goings, and put a "`new song in my mouth,
+in good degree established my goings, and put a __"`new song__ in my mouth,
 even praises to my God.`"
 
 O Lord! hold me fast forever.
@@ -5399,6 +5506,7 @@ and hold me in Your holy hand forever.
 Amen.
 Amen.
 
+[.blurb]
 === Methodists
 
 Next day we had a glorious meeting at this place, at Friends`' meetinghouse,
@@ -5418,6 +5526,7 @@ Glory to God, Who has hitherto helped us!
 We can do nothing without His help,
 but can do all things required of us through His strengthening influence in and upon us.
 
+[.blurb]
 === Slavery and Idleness
 
 We had precious meetings at Herring-Creek and Bush River, mostly among other people,
@@ -5445,6 +5554,7 @@ My spirit deeply mourns over the sorrowful and dangerous situation of such who h
 as they say,
 "`nothing to do;`" believing they will almost certainly "`soon learn to do evil.`"
 
+[.blurb]
 === A Gospel Minister Has Nothing of His Own
 
 We rode forty-five miles to Stafford +++[+++Virginia]
@@ -5481,6 +5591,7 @@ for the people`'s sakes, yet if they go that independent manner,
 in almost universally run themselves into a flat, lifeless, formality,
 and dry up what little spring of Life they may once have felt.
 
+[.blurb]
 === Christ`'s Agony
 
 I remembered the account of Christ`'s agony, His sweating as it were drops of blood,
@@ -5507,6 +5618,7 @@ and this afternoon every painful impression was removed,
 and the light of Life shined into my soul with un- clouded clearness:
 I was let at liberty, and judgment was indeed brought forth unto victory.
 
+[.blurb]
 === Ministry--Creaturely Activity
 
 Had a meeting at Cedar Creek; not painful, nor yet had I much enjoyment;
@@ -5580,6 +5692,7 @@ they would also soon come to know how He manifests Himself unto His own chosen d
 and thus become livingly of that happy number; which is what those who already are so,
 do earnestly travail and pray for.
 
+[.blurb]
 === Stripped of Ability.
 
 I attended the week-day meeting of Friends here at Wayne Oak, as it came in course.
@@ -5614,6 +5727,7 @@ after waiting a proper time without obtaining any manifestations to the contrary
 return to my family;
 yet remained given up to go forward if He should open the way for it.
 
+[.blurb]
 === The Harp Hung on the Willow
 
 We had a meeting among the Methodists of New Kent.
@@ -5634,6 +5748,7 @@ Truth had once prospered here,
 but now the posterity of faithful Friends were nearly all carried away captive;
 but a little gleam of hope arose in my mind that there would be a revival in this place.
 
+[.blurb]
 === Negroes Visited
 
 My way opening with more clearness,
@@ -5664,6 +5779,7 @@ though they are yet much unsettled.
 May they be brought to witness a greater degree of clearness
 and establishment in the everlasting Truth!
 
+[.blurb]
 === Parental Discipline
 
 I rested at my friend Benjamin Arnold`'s, being unwell.
@@ -5729,6 +5845,7 @@ and many of the dear youth will be greatly benefited thereby:
 that these may be encouraged, and their number greatly increased,
 is the fervent wish and prayer of my soul.
 
+[.blurb]
 === A Prayer
 
 O my God!
@@ -5768,6 +5885,7 @@ till righteousness cover the earth as waters do the sea,
 and light and life reign triumphant over death and darkness, forever.
 Amen.
 
+[.blurb]
 === Benighted Mankind
 
 Oh! the benighted state of mankind!
@@ -5782,10 +5900,10 @@ Whereas, instead of being offended at this their reverent obedience to the Lord,
 every true worshipper is rather disposed to sympathize with them therein,
 and rejoice in their integrity to Him, "`without Whom they can do nothing.`"
 And those who are thus exercised and carefully engaged as the apostle advises,
-"`to feel after God,`" are so abundantly comforted and replenished with His holy presence,
+"`to __feel__ after God,`" are so abundantly comforted and replenished with His holy presence,
 when they are favoured,
 (as they mostly are in their approaches to Him in solemn silence,)
-to "`find Him,`" that they have therein a "`joy unspeakable,
+to __"`find Him,`"__ that they have therein a "`joy unspeakable,
 and full of glory,`" abundantly more consolatory and satisfactory to their souls,
 than the finest and most eloquent discourse,
 that the wisdom and oratory of man ever produced.
@@ -5794,12 +5912,13 @@ Oh! that mankind knew what it is,
 thus in reality to "`draw near unto God;`" for all that thus draw near Him,
 will surely find that He "`will draw near unto them,`"
 and that in a very sensible and soul-satiating manner.
-This is not a work of reasoning, nor a work of talking, but a work of sensation,
-a work of feeling.
+This is not a work of _reasoning,_ nor a work of _talking,_ but a work of _sensation,_
+a work of _feeling._
 Hence the beauty and divine propriety of the Apostle`'s
-words "`feel after God:`" as also of those other expressions,
-of tasting and handling the "`good word of Life, and powers of the world to come.`"
+words __"`feel after God:`"__ as also of those other expressions,
+of _tasting_ and handling the "`good word of Life, and powers of the world to come.`"
 
+[.blurb]
 === Methodists and Baptists
 
 Next day we had a large meeting at the Methodists`' meetinghouse, many Methodists,
@@ -5857,9 +5976,9 @@ even to a full overcoming and establishment,
 as pillars in the temple of God that shall go no more out: but especially,
 the nature of worship, as inward communion with God;
 in deep adoration drawing near unto Him; not in outward ordinances and sacraments,
-so called, but in a real feeling after Him, and finding Him too;
+so called, but in a _real feeling after Him_, and _finding Him too;_
 and that in a glorious and sensible manner;
-and so worshipping Him in Spirit and in truth.
+and so worshipping Him in _Spirit and in truth_.
 
 Great is the work which the Lord has wrought in these States,
 particularly among the Methodists.
@@ -5896,9 +6015,9 @@ and has been intended by Him,
 to lead them into a more inward waiting upon Him for life and ability.
 But, alas! they have too often been so outward in their views,
 as to mistake the cause and meaning of this lack of life and power in their devotions;
-and instead of getting into a right waiting, and inward feeling after God,
+and instead of getting into a right waiting, and inward _feeling after God,_
 and His holy aid and direction, they have blamed themselves and one another,
-for not being more constant and fervent in their set forms, prayers, etc.,
+for not being more _constant_ and _fervent_ in their set forms, prayers, etc.,
 and so have undertaken to double their diligence and fervency; like Baal`'s prophets,
 trying to work themselves up to greater heat and vehemency, and much to the same purpose.
 For as they do not rightly wait for life, heat, and qualification from the only true God,
@@ -5911,7 +6030,7 @@ they have complete possession of the outward court, and that only.
 And this will, in time,
 as surely be the case with the Methodists as it has been with other societies,
 unless they learn to wait for divine help.
-For the Lord seeks spiritual worshippers, such as have come to the loss of all things,
+For the Lord seeks spiritual worshippers, such as have come to the _loss of all things,_
 and cannot, or dare not, attempt to move forward in any religious service,
 without knowing the Shepherd of the sheep to put them forth,
 and that clearly and sensibly on every renewed occasion, and to go before them.
@@ -5922,18 +6041,19 @@ and led gradually into the inward temple, and real, spiritual worship, He will,
 instead of waiting to know Him to go before them and also to put them forth),
 leave them to their own performances, will-worships, and works of their own hands.
 In short, He will leave them to, and in their own righteousness,
-which is and ever will be as filthy rags.
+which is and ever will be as _filthy rags._
 And no better name will any performances ever deserve,
 which are only in the will and strength of man.
 
+[.blurb]
 === Set Prayers and Death to Own Will
 
 Every man who ventures to rush forward in the mixture,
-though he may feel something divine for a time, is even then,
-clothed with the linsey-woolsey garment, and is also in great danger, yes,
+though he may feel something divine _for a time,_ is even _then,_
+clothed with the _linsey-woolsey garment,_ and is also in great danger, yes,
 almost certain, if he thus goes on, to be left, at length, entirely to himself,
-without anything divine in his performances.
-For the Lord will not be limited to our set times, or bound to assist our set prayers,
+without __anything divine__ in his performances.
+For the Lord will not be limited to our _set times,_ or bound to assist our _set prayers,_
 etc., but will be waited for and felt after.
 And those who do rightly wait upon Him, in the silence of all flesh,
 shall surely renew their strength in Him.
@@ -5955,26 +6075,27 @@ to stir up themselves, like Baal`'s prophets, to more warmth and vehemence,
 but to cease from man, both in themselves and others, and wait upon God, in the real,
 inward stripping of all creaturely ability,
 in the loss of all their own righteousness and self-motions;
-that they may win Christ and His holy aid, and thereby come to witness all things new,
-all things of God.
+that they may win Christ and His holy aid, and thereby come to witness __all things new,
+all things of God.__
 And this no man can ever possibly witness, till he stands still,
 and ceases from all his own willings and runnings:
-for so long as he moves on in his own time and ability, he will have something old,
-some- thing not of God.
-Here Christ has not reigned, till He has put down all creaturely rule and authority;
+for so long as he moves on in his own time and ability, he will have something _old,_
+something _not of God._
+Here Christ has not reigned, till He has put down all creaturely _rule_ and _authority;_
 but something yet lives and rules in every such soul beside Christ.
 Such cannot say, that what they are, they are only by the grace of God: nor,
 that it is not they that live and act, but Christ that lives and acts in them.
 
-These must still witness a further death to their own wills,
+These must still witness a further _death_ to their own wills,
 or else a degree of death to things divine, will still have power over them.
-For this will be the case with all men, until by or through death,
+For this will be the case with all men, until by or _through death,_
 they witness him destroyed, (as to any further rule in them), who has the power of death.
 And this can never be known till Christ has so ruled in them,
-as that they are fully baptized into His death, and rise with Him in newness of Life.
-Here, all things are new, and all things of God, even in this life.
+as that they are fully baptized into His _death,_ and rise with Him in newness of Life.
+Here, all things are _new,_ and all things _of God,_ even in this life.
 This is God`'s kingdom, come, and His will done in earth, as in heaven.
 
+[.blurb]
 === Family Prayers
 
 After one of these meetings, a Baptist man, somewhat in years,
@@ -6013,6 +6134,7 @@ the eternal salvation of their souls; and sensibly brought then into a living ac
 in the holy seed of Life, wherein all the true-born children cry "`Abba,
 Father,`" and therein are always heart and accepted.
 
+[.blurb]
 === Zeal without Life
 
 On third-day, we had an open, refreshing meeting among the Nicholites, so called.
@@ -6026,13 +6148,14 @@ and detained from greater experience in the real life of religion,
 without which all outward things are unavailing to the salvation of the soul.
 A zeal in these things, without the life of truth,
 has tended to settle many into flat formality in the outward Court;
-wherein some are greatly starched up,
-before they have been washed and made clean in the laver of regeneration.
-These still need washing, and now, not only from some of their former filthiness,
-but from the starch of false zeal, wherein they ignorantly say in their hearts,
+wherein some are greatly _starched_ up,
+before they have been _washed_ and made clean in the laver of regeneration.
+These still need washing, and _now,_ not only from some of their former filthiness,
+but from the _starch_ of false zeal, wherein they ignorantly say in their hearts,
 "`Stand by yourself, I am holier than you.`"
 And perhaps this starch may be the worst thing some have about them.
 
+[.blurb]
 === Cleansing the Inside and Outside
 
 Oh! that all may observe the caution, '`Cleanse first the inside of the cup and platter,
@@ -6040,7 +6163,7 @@ and the outside will be clean also.`"
 Indeed, I believe, as the work is rightly begun, and carried on within,
 a gradual cleansing will assuredly take place, both within and without: and, in general,
 much in proportion, the outward to the inward.
-For I am far from supposing, that by cleansing first the inside,
+For I am far from supposing, that by _cleansing first the inside,_
 is meant that no degrees of outward cleansing must take place,
 till a thorough cleansing is effected within.
 At that rate, I doubt whether the inward cleansing would seldom, if ever,
@@ -6060,13 +6183,14 @@ and on the contrary, every refusal to obey the Light, even in little things,
 will tend to prevent an inward cleansing, and to increase defilement.
 But take notice,
 this tendency of every act of self-denial to promote the inward cleansing,
-is only as it takes place in obedience to the light of life:
+is only as it takes place in obedience to the _light of life:_
 for of ourselves alone we can do nothing that will hasten good to our souls.
 There is none really, and of himself, good, but one, that is God.
-Therefore, all the real good that any have, is from Him alone;
-and all the good that any do, is through Him alone,
+Therefore, all the real good that any _have,_ is from Him alone;
+and all the good that any _do,_ is through Him alone,
 in the leadings of His holy light in their own souls.
 
+[.blurb]
 === Parental authority.
 
 Now this hinders not at all, that children should obey their parents in the Lord;
@@ -6098,6 +6222,7 @@ I laboured among this people, in the openings of Life,
 and hope it was according to their condition;
 may it tend to their settlement on the right foundation!
 
+[.blurb]
 === Pitched Battle with Opposers
 
 We had a meeting at the house of our friend Samuel Tomlinson,
@@ -6151,6 +6276,7 @@ I improved the opportunity, as Truth enabled me,
 and told them I perceived they began to incline towards a capitulation,
 and willingness to sign articles of peace.
 
+[.blurb]
 === Victory
 
 This also they knew was true of the inward alteration of their minds;
@@ -6186,6 +6312,7 @@ I trust to our and their mutual satisfaction and consolation of soul,
 though their outward performances and lifeless devotions
 were largely and livingly testified against.
 
+[.blurb]
 === North Carolina Yearly Meeting
 
 Next day, being seventh of the week, and 24th of 10th month,
@@ -6219,6 +6346,7 @@ He makes the dumb to declare of His goodness,
 the inhabitant of the rock to sing of His power!
 Glory be to His Name forever; my soul will praise Him in the heights of Zion.
 
+[.blurb]
 === Satan Let Loose--His Head Bruised
 
 About this time Satan seemed almost let loose upon me, to buffet me with doubts,
@@ -6269,6 +6397,7 @@ If holy angels were conscious of my sadness, or knew my piercing anguish of spir
 I think they surely commiserated my pain, and if they know how to sympathize,
 must feel my weight of woe.
 
+[.blurb]
 === Resigns the Future to God
 
 But God, my only helper, whose I am,
@@ -6296,6 +6425,7 @@ follow Him wheresoever He leads, through fire or water; and unwaveringly to trus
 even "`though He slay me,`" And in so dong, I may safely leave things;
 futurity to His all-wise disposal.
 
+[.blurb]
 === Satan`'s Head Bruised
 
 Here my own will was once more crucified and slain.
@@ -6344,6 +6474,7 @@ for goodness, infinite goodness is the essence of His being;
 unerring wisdom and prudence the measure and standard of all His acts, ordinances,
 and dispensations.
 
+[.blurb]
 === Dangers in Heights and Depths
 
 I believe I have never known a more constant fullness of God`'s love, life,
@@ -6396,11 +6527,12 @@ Even now this care is eminently necessary;
 this is a moment wherein the watch is peculiarly needful.
 Our Lord knew what was in man,
 hence the precious caution in regard to these two seasons of most pressing danger; hence,
-also, he preached the watch, and that repeatedly, to His disciples, yes to all:
-"`What I say unto you, I say unto all- watch.`"
+also, he preached the _watch,_ and that repeatedly, to His disciples, yes to _all:_
+"`What I say unto you, I say unto __all--watch.__`"
 He knew all needed it; not only the dejected and distressed soul, but even,
 and especially, the joyful heart the mind of him whom joy overflows.
 
+[.blurb]
 === Spiritual Pride
 
 My soul well knows the mystery of these things by repeated experience; but I have found,
@@ -6413,40 +6545,42 @@ for through this abasement we are enabled to bear this fullness without being pu
 or thinking great things of ourselves.
 
 Man is exceedingly inclined to independence, and to a language that says:
-my own arm has brought salvation; is not this great Babylon, which I, great I,
+my own arm has brought salvation; is not this great Babylon, which _I,_ great _I,_
 have built, for my own and kingdom`'s honour, etc.? Yes.
 O you who thus build, be assured, whenever you begin to think much of yourself,
 and that you of yourself have done something that is good, you are a Babylonish idolater;
 you are erecting a Babel.
 This is great Babylon indeed, which you, a poor worm of the dust, are rearing up;
-and all this must be brought down, before you come to live by faith, or can say in truth,
+and all this must be brought down, before you come to live _by faith,_ or can say in truth,
 "`I live; yet not I, but Christ lives in me;`" and "`by the grace of God,
 I am what I am.`"
 It is truly a great attainment to be nothing but what grace makes us;
 yet this is the case, in regard to the things of religion,
-with all who "`do nothing of themselves, but have rested from their own works,
+with all who "`do nothing of themselves, but have _rested_ from their own works,
 as God did from His:`" here "`God is all in all.`"
-Oh! seek it; lay hold of it, and secure it to your soul, by dying daily;
+Oh! seek it; lay hold of it, and secure it to your soul, by _dying daily;_
 dying unto all that can or would act of itself, make haste, or be always ready;
 for this can never do anything better, whatever it boasts,
-than build for you and others a Babel of confusion.
+than build for you and others a _Babel of confusion._
 Therefore let him that has an ear hear,
 for this is what the Spirit of the Lord now says unto the churches,
 in order to gather all that will follow the Lamb, into the living gospel worship,
 in spirit and in truth, within the inward temple.
 
+[.blurb]
 === Foolish Looking Out for Words
 
 +++[+++Quarterly Meeting at Halifax.]
 I was shut up throughout, except some close communications in the select meeting,
 and in that for public worship on first-day.
 My soul was deeply distressed under a sense that
-some were neglecting an inward feeling after God,
+some were neglecting an inward _feeling after_ God,
 and were foolishly looking out for words.
 Oh! how this wounds the living,
 and adds to the bonds of those who have no other to look to, but the Lord alone!
 Scarce anything tends more powerfully to shut up the springs of Life.
 
+[.blurb]
 === Formality through Lack of Waiting
 
 Next day, being 3rd of the week, and 26th of the month,
@@ -6483,6 +6617,7 @@ that they may hear what the Spirit says to the churches, which at this day,
 is in a very special manner, "`Cease from from man, from all self-activity,
 and wait upon the Lord for qualification to worship him in spirit, and in truth.`"
 
+[.blurb]
 === Abraham Saw the Day of Christ
 
 "`Abraham saw my day, and was glad,`" says Christ.
@@ -6655,35 +6790,36 @@ and sister, and mother.`"
 Had not this been said before now, it would be thought blasphemy, with some, to assert it.
 But it is truth, strict truth, in the deep mystery and vision of God.
 
+[.blurb]
 === The Death of Christ
 
 It was not only that outward, prepared body of Christ, that submitted to death,
 his very soul was made an offering for sin, as it is written,
 "`When you shall make His soul an offering for sin.`"
-His life was not only taken by the Jews, in the cruel act of crucifixion,
-but He himself laid down His life, for this He had power to do.
-Indeed, He not only died for sin, He also died to sin.
-And this might have been known from the nature of the death of Christ in man,
+His life was not only _taken_ by the Jews, in the cruel act of crucifixion,
+but He himself _laid down_ His life, for this He had power to do.
+Indeed, He not only died _for_ sin, He also died _to_ sin.
+And this might have been known from _the nature of the death of Christ in man,_
 if the apostle had not asserted it, but he has asserted it, saying, "`In that He died,
-He died unto sin once, but in that He lives, he lives unto God.`"
-How could He die unto sin who knew no sin?
+He __died unto__ sin once, but in that He lives, he lives unto God.`"
+How could He die _unto sin_ who _knew no sin?_
 He had in Him all the life and power of every sinful motion,
 and was "`tempted in all things`" as we are.
-His dying unto sin was His submitting that death
+His dying _unto sin_ was His submitting that _death_
 should pass upon every sinful motion and inclination,
-before ever any of them came forth into gratification, or were so finished,
-as to bring forth sin.
+before ever any of them came forth into gratification, or were so _finished,_
+as to bring forth _sin._
 So that when I call them sinful motions and desires,
 I only mean they would have become sinful if cherished, and allowed to live and reign,
-just as the apostle calls his dying to them, dying unto sin.
+just as the apostle calls his dying to them, _dying unto sin._
 
 Indeed it was, even in him, in this sense,
 a real death unto all the life and power of sin, or sinful motions,
 though never once allowed to proceed to the actual commission,
 or even entertainment of sin itself.
-And this is the most effectual dying unto sin of any that can be.
+And this is the most effectual _dying unto sin_ of any that can be.
 Nor do I think any of us can perfectly arise with Christ,
-and steadfastly walk with Him in the newness of life, till we die with Him unto all sin,
+and steadfastly walk with Him in the newness of life, till we _die with Him unto all sin,_
 in this very way, that is, before we give it entertainment.
 We must first die to all actual sin,
 and then to the first life and risings of it in the mind.
@@ -6691,9 +6827,9 @@ Here the true subjection is known,
 when "`every thought is brought into captivity to the obedience of Christ.`"
 This subjection and death He knew, for He had a will of His own, and as man,
 would gladly have had the cup pass from Him, but, being in the perfect subjection,
-"`not My will,`" says He, "`but Yours be done.`"
+"`not __My will,__`" says He, "`but __Yours__ be done.`"
 If he had not had a will of His own,
-He could not have been in all things like us except sin, nor ever once have died to sin,
+He could not have been in all things like us except sin, nor ever once have _died to sin,_
 and so could not have overcome the world and the devil through death.
 
 But now, He has overcome all,
@@ -6701,7 +6837,7 @@ even the utmost strength and art of all the powers of darkness,
 and remains as able to do it in us, as in that body,
 for therein He had to combat all the powers of seduction and temptation.
 And He can never have more to encounter in us, except that as He in us,
-and we by Him may overcome the power of evil habits, we may therein do the greater works,
+and we by Him may overcome the power of evil habits, we may therein do the __greater works,__
 of which He spoke to His disciples, when he said,
 "`Greater works than these shall you do.`"
 
@@ -6721,7 +6857,7 @@ This was and is, the life or work of Christ.
 It is daily self-denial,
 and it will be forever impossible to be His followers further than we die unto sin,
 and live under a constant cross and denial of self.
-This, and nothing but this is burial by baptism into death with Him.
+This, and nothing but this is burial by baptism into death _with Him._
 And had He not died unto sin,
 the expression of our baptism into death with Him had lacked much, if not most,
 of its present beautiful and divine propriety.
@@ -6740,7 +6876,7 @@ oppressed, and slain, the eternal divinity, the divine life, the holy Word, is n
 It is the life which was quickened and raised in
 that which was united to the divine life in the soul,
 that suffers death.
-The death is only upon that which was once made alive, by union with Him who is the life,
+The _death_ is only upon that which was once made alive, by union with Him who is the life,
 and this was the case in His crucifixion.
 
 It is often said, "`Christ died.`"
@@ -6750,7 +6886,7 @@ in and by virtue of the union called Christ; this may, did and does die,
 is often crucified and slain.
 And not only so, but as Christ had in that which was then united to Him in that body,
 a selfish or creaturely will to deny,
-or life to lay down in which denial he died unto sin so now, in the state of infancy,
+or life to lay down in which denial he died _unto sin_ so now, in the state of infancy,
 as to union with the divine life, there is a will or life often to be laid down,
 and therein the saints bear about in the body the dying of the Lord Jesus;
 fill up their measure of His remaining sufferings, and are baptized into death with Him.
@@ -6764,6 +6900,7 @@ In it, the life, opposed to the divine life, is laid down.
 as soon as the begotten is brought forth.
 May this become more and the more experience of mankind.
 
+[.blurb]
 === Let Him Arise
 
 I find yet need of dying daily; I have in good degree submitted to it this day.
@@ -6787,7 +6924,7 @@ Hence also the truth and propriety of Christ`'s mournful expostulation with the 
 
 Man can never make God arise, nor profitably attempt to awake the beloved of souls,
 till He please.
-Yet man may, and ought to let Him arise.
+Yet man may, and ought to _let Him arise._
 On the contrary man can and too often does hinder His arising in his own soul.
 His proper business is to wait on Him, in a silent, inward travail of spirit,
 to feel his arisings.
@@ -6830,6 +6967,7 @@ and occupying our minds, render us almost insensible of those operations upon us
 which it is impossible we should be wholly without;
 and which would soon become lively and powerful upon us, if enough attended to.
 
+[.blurb]
 === Prayer Unuttered and Uttered
 
 This is the business of silently waiting upon God.
@@ -6873,7 +7011,7 @@ and without our having any true and substantial hold of Him.
 Men pray as if they thought they could move or alter God.
 They think if they stir up themselves to ask, and,
 with a good deal of creaturely animation,
-do ask for what they think they stand in need of,
+do ask for what they _think_ they stand in need of,
 it will induce Him to hear and grant their request.
 But in all this, they are too ignorant of Him, His nature and attributes.
 His unalterable nature is such, that all good to our souls is of Him,
@@ -6898,7 +7036,7 @@ But if we do livingly and feelingly lay hold of Him, and draw near to Him,
 in the drawings of His cord of Divine love upon us, He draws near to us,
 and we receive substantial blessing.
 Because, He is to us, just as we are to Him.
-If we are alive to Him we feel Him, in the same proportion, alive in us.
+If we are _alive_ to Him we feel Him, in the same proportion, _alive_ in us.
 If we are dead to Him, even though we pray ever so loud and often,
 and tell Him ever so solemnly, "`The Lord liveth`"; we speak falsely.
 For, as to any sensible, living knowledge of Him, He is as a dead god to us.
